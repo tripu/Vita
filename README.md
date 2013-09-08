@@ -1,4 +1,4 @@
-Vita
+Vīta
 ====
 
-Vīta — notes for life
+Life how–to, tripu's user manual, tips to navigate life, notes to self.
