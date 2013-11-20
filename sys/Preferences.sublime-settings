@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"font_face": "Liberation Mono",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Indent.txt"
+	],
+	"theme": "Soda Light.sublime-theme"
+}
