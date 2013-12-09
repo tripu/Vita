@@ -50,6 +50,8 @@ Browser extensions/plugins
 * Furigana Injector
 * HTTPS Everywhere
 * Java plugin
+* JSON editor
+* Live Reload (or similar)
 * Rikaikun/Rikaichan + dictionary files
 * Web Developer
 * WebGL Inspector
@@ -60,6 +62,7 @@ Programming
 * Brackets
 * Git client
 * Java EE SDK
+* JSON editor
 * Lisp
 * Node.js
 * Perl
