@@ -6,7 +6,13 @@ Command–line utilities
 ----------------------
 
 * awk
+* cut
+* diff
 * emacs
+* grep
+* less
+* patch
+* rev
 * screen
 * sed
 * tree
@@ -17,7 +23,8 @@ Fonts
 * Android fonts
 * Consolas
 * Inconsolata
-* Liberation fonts
+* Liberation (GNU) fonts
+* Roboto
 * Ubuntu fonts
 
 Graphics & multimedia
@@ -45,30 +52,34 @@ Browser extensions/plugins
 
 * Delicious
 * Feedly
-* Firebug
-* Flash Player (debugger)
-* Furigana Injector
 * HTTPS Everywhere
 * Java plugin
-* JSON editor
-* Live Reload (or similar)
-* Rikaikun/Rikaichan + dictionary files
-* Web Developer
-* WebGL Inspector
 
 Programming
 -----------
 
+* Apache HTTP Server
 * Brackets
+* Eclipse
 * Git client
 * Java EE SDK
-* JSON editor
+* JetBrains IntelliJ IDEA
+* JetBrains WebStorm
 * Lisp
 * Node.js
 * Perl
 * Python
 * Ruby
+* Stand–alone JSON editor
 * SVN client
+* Tomcat
+* Browser extensions/plugins:
+  * Firebug
+  * Flash Player (debugger)
+  * JSON editor
+  * Live Reload (or similar)
+  * Web Developer
+  * WebGL Inspector
 
 日本語
 ---
@@ -76,14 +87,28 @@ Programming
 * Anki
 * Gjiten
 * KanjiPad
+* Browser extensions/plugins:
+  * Furigana Injector
+  * Rikaikun/Rikaichan + dictionary files
 
 Other desktop applications
 --------------------------
 
-* gnome-do
-* gnome-extensions
 * Google Earth
 * LibreOffice
 * VirtualBox
+
+On Linux
+--------
+
+* gnome-do
+* gnome-extensions
 * xemacs
+
+On Windows
+----------
+
+* MinGW
+* MSYS
+* Sublime Text
 
