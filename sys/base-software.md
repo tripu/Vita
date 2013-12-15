@@ -6,13 +6,11 @@ Command–line utilities
 ----------------------
 
 * awk
-* cut
 * diff
 * emacs
 * grep
 * less
 * patch
-* rev
 * screen
 * sed
 * tree
