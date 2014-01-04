@@ -2,6 +2,8 @@
 Base software
 =============
 
+Basic, standard software to install on all computers of mine…
+
 Command–line utilities
 ----------------------
 
@@ -50,6 +52,7 @@ Browser extensions/plugins
 
 * Delicious
 * Feedly
+* Greasemonkey/Tampermonkey
 * HTTPS Everywhere
 * Java plugin
 
