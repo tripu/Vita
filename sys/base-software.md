@@ -98,6 +98,7 @@ Other desktop applications
 * Google Earth
 * LibreOffice
 * VirtualBox
+* Workrave
 
 On Linux
 --------
