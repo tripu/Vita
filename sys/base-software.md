@@ -2,7 +2,7 @@
 Base software
 =============
 
-Basic, standard software to install on all computers of mine…
+Basic, standard software to install on all (desktop) computers of mine.
 
 Command–line utilities
 ----------------------
@@ -67,6 +67,7 @@ Programming
 * JetBrains IntelliJ IDEA
 * JetBrains WebStorm
 * Lisp
+* NetBeans
 * Node.js
 * Perl
 * Python
@@ -95,9 +96,11 @@ Programming
 Other desktop applications
 --------------------------
 
+* f.lux
 * Google Earth
 * LibreOffice
 * VirtualBox
+* Wine
 * Workrave
 
 On Linux
