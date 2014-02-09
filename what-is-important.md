@@ -15,3 +15,7 @@ Negative example: [TO-DO].
 
 * **#Fashion** as such must be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image, reputation or relevant expectations of people about you. #Trends and #memes not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely ignored, too.
 
+* One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news — it doesn't always need to trigger self–evaluation nor reflection, let alone guilt.
+
+* All **#debates** should be an open–minded exchange of ideas and a collaborative quest to put them to test in order to identify the best ones. That's the goal, and everything else is a colourful wrapping. Too often, the environment isn't appropriate for debate: loud noise, big egos, bad manners, haste and the lack of a minimum conceptual base to start with are common. Under such conditions, trying to debate is fruitless at best, and often frustrating. Avoid.
+
