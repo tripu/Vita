@@ -79,6 +79,7 @@ Programming
   * Firebug
   * Flash Player (debugger)
   * JSON editor
+  * Library Detector
   * Live Reload (or similar)
   * Web Developer
   * WebGL Inspector
