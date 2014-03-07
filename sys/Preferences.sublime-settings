@@ -1,14 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"dictionary": "Packages/Language - English/en_GB.dic",
-	"encoding": "UTF-8",
-	"default_line_ending": "unix",
-	"font_face": "Liberation Mono",
-	"font_size": 14,
-	"ignored_packages":
-	[
-		"Vintage",
-		"Indent.txt"
-	],
-	"theme": "Soda Light.sublime-theme"
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "default_line_ending": "unix",
+    "dictionary": "Packages/Language - English/en_GB.dic",
+    "encoding": "UTF-8",
+    "font_face": "Droid Sans Mono",
+    "font_size": 10,
+    "ignored_packages": [
+        "Vintage",
+        "Indent.txt"
+    ],
+    "theme": "Soda Light.sublime-theme"
 }

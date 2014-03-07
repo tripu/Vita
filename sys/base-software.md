@@ -20,8 +20,12 @@ Command–line utilities
 Fonts
 -----
 
-* Android fonts
 * Consolas
+* Droid fonts:
+  * Droid Normal
+  * Droid Sans
+  * Droid Sans Mono Normal
+  * Droid Serif
 * Inconsolata
 * Liberation (GNU) fonts
 * Roboto
