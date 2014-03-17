@@ -11,6 +11,7 @@ Command–line utilities
 * diff
 * emacs
 * grep
+* ImageMagick
 * less
 * patch
 * screen
