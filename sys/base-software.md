@@ -81,11 +81,13 @@ Programming
 * SVN client
 * Tomcat
 * Browser extensions/plugins:
+  * AngularJS Batarang
   * Firebug
   * Flash Player (debugger)
   * JSON editor
   * Library Detector
   * Live Reload (or similar)
+  * NetBeans Connector
   * Web Developer
   * WebGL Inspector
 
