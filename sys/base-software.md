@@ -104,6 +104,7 @@ Programming
 Other desktop applications
 --------------------------
 
+* Calibre
 * f.lux
 * Google Earth
 * LibreOffice
