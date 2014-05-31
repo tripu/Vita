@@ -1,5 +1,15 @@
 # ~/.bash_profile: executed by bash(1) for login shells.
 
+# Get the aliases and functions
+
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+PATH=$PATH:$HOME/.local/bin:$HOME/bin
+export PATH
 umask 002
 # PS1='[\h]$ '
 # PS1='\u@\h:\w\$ '
@@ -9,7 +19,4 @@ eval `dircolors`
 source .alias
 PATH=~/pear/pear:$PATH
 
-if [ -f ~/.bashrc ]; then
-	. ~/.bashrc
-fi
 

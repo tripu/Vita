@@ -17,6 +17,7 @@ Command–line utilities
 * screen
 * sed
 * tree
+* keybase
 
 Fonts
 -----
@@ -30,6 +31,7 @@ Fonts
 * Inconsolata
 * Liberation (GNU) fonts
 * Roboto
+* Source Code Pro (Adobe)
 * Ubuntu fonts
 
 Graphics & multimedia
@@ -64,6 +66,7 @@ Browser extensions/plugins
 Programming
 -----------
 
+* Amaya
 * Apache HTTP Server
 * Brackets
 * Eclipse

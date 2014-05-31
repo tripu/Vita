@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :quit
+:t
 
 # Search String History (newest to oldest):
 
@@ -19,14 +20,22 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"u	CHAR	0
+	it
 
 # File marks:
-'0  1  0  c:\Antonio\work\repo\Flip-Planes-AS3\.git\COMMIT_EDITMSG
+'0  1  0  c:\Antonio\work\firebase-presentation\.git\COMMIT_EDITMSG
+'1  1  0  c:\Antonio\work\repo\Flip-Planes-AS3\.git\COMMIT_EDITMSG
 
 # Jumplist (newest first):
+-'  1  0  c:\Antonio\work\firebase-presentation\.git\COMMIT_EDITMSG
+-'  1  0  c:\Antonio\work\repo\Flip-Planes-AS3\.git\COMMIT_EDITMSG
 -'  1  0  c:\Antonio\work\repo\Flip-Planes-AS3\.git\COMMIT_EDITMSG
 
 # History of marks within files (newest to oldest):
+
+> c:\Antonio\work\firebase-presentation\.git\COMMIT_EDITMSG
+	"	1	0
 
 > c:\Antonio\work\repo\Flip-Planes-AS3\.git\COMMIT_EDITMSG
 	"	1	0
