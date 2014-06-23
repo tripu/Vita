@@ -59,6 +59,7 @@ Browser extensions/plugins
 
 * Delicious
 * Feedly
+* Google Hangouts
 * Greasemonkey/Tampermonkey
 * HTTPS Everywhere
 * Java plugin
@@ -87,10 +88,11 @@ Programming
   * AngularJS Batarang
   * Firebug
   * Flash Player (debugger)
-  * JSON editor
+  * JSON editor/formatter/viewer
   * Library Detector
   * Live Reload (or similar)
   * NetBeans Connector
+  * Screen capture tool
   * Web Developer
   * WebGL Inspector
 
@@ -128,4 +130,6 @@ On Windows
 * MinGW
 * MSYS
 * Sublime Text
+* Windows Grep
+* WinMerge
 

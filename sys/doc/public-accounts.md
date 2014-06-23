@@ -1,10 +1,16 @@
 
+* https://www.angularjobs.com/
+* Firebase
+* Trello
+* http://rateyourmusic.com/
 * W3C (web, wiki, IRC)
 * Adobe (web, Jira)
 [lo de emergya]
 * Chess.com
 * Deviantart
 * Speakerdeck
+* Apple [tripu]
+* Apalabrados
 
 Public accounts
 ===============
@@ -17,7 +23,8 @@ Instant messaging & IRC
 * Google Hangouts
 * IRC
 * WhatsApp
-* Skype
+* Skype [Antonio]
+* Skype [tripu]
 * ICQ (#310543351)
 
 Books
@@ -35,6 +42,7 @@ Social networks
 * [Twitter](https://twitter.com/): [`@tripu`](https://twitter.com/tripu)
 * WordPress
 * YouTube (videos)
+* Vimeo (videos)
 * MapMyRun / MapMyFitness (training)
 * Delicious
 * Plazes
@@ -120,4 +128,5 @@ Random services
 * Eldiario.es
 * Feedly
 * The old reader
+* eRepublik
 
