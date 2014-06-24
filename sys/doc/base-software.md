@@ -7,16 +7,12 @@ Basic, standard software to install on all (desktop) computers of mine.
 Command–line utilities
 ----------------------
 
-* awk
-* diff
-* emacs
-* grep
+* `awk`
+* `emacs` \[`emacs24`\]
 * ImageMagick
-* less
-* patch
-* screen
-* sed
-* tree
+* `screen`
+* `sed`
+* `tree`
 * keybase
 
 Fonts
@@ -46,11 +42,11 @@ Graphics & multimedia
 Communications
 --------------
 
-* BitTorrent client
+* BitTorrent client \[`transmission`, `deluge`\]
 * Chromium
 * FileZilla
 * Firefox
-* IRC client
+* IRC client \[`xchat`\]
 * Skype
 * Thunderbird
 
@@ -70,17 +66,22 @@ Programming
 * Amaya
 * Apache HTTP Server
 * Brackets
+* cvs
 * Eclipse
+* gedit-developer-plugins
+* gedit-plugins
+* gedit-source-code-browser-plugin
 * Git client
 * Java EE SDK
 * JetBrains IntelliJ IDEA
 * JetBrains WebStorm
-* Lisp
+* Lisp \[`clisp`\]
+* mercurial
 * NetBeans
 * Node.js
-* Perl
-* Python
-* Ruby
+* Perl \[5\]
+* Python \[2.7, 3.4\]
+* Ruby \[1.9\]
 * Stand–alone JSON editor
 * SVN client
 * Tomcat
@@ -100,8 +101,13 @@ Programming
 ---
 
 * Anki
+* `anthy`
+* `emacs-mozc`
 * Gjiten
+* `ibus-mozc`
+* KanjiDic
 * KanjiPad
+* `mozc-utils-gui`
 * Browser extensions/plugins:
   * Furigana Injector
   * Rikaikun/Rikaichan + dictionary files
@@ -110,7 +116,7 @@ Other desktop applications
 --------------------------
 
 * Calibre
-* f.lux
+* f.lux \[not on Linux\]
 * Google Earth
 * LibreOffice
 * VirtualBox
@@ -120,9 +126,10 @@ Other desktop applications
 On Linux
 --------
 
-* gnome-do
-* gnome-extensions
-* xemacs
+* `gnome-do` \[not necessary with Ubuntu's Dash\]
+* `gnome-extensions` \[could not find\]
+* `xemacs` \[`xemacs21`\]
+* `dconf-editor`
 
 On Windows
 ----------
@@ -132,4 +139,5 @@ On Windows
 * Sublime Text
 * Windows Grep
 * WinMerge
+
 
