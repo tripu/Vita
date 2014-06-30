@@ -83,7 +83,7 @@ Programming
 * Python \[2.7, 3.4\]
 * Ruby \[1.9\]
 * Stand–alone JSON editor
-* SVN client
+* Subversion clients \[`subversion`, `subcommander`, `rapidsvn`\]
 * Tomcat
 * Browser extensions/plugins:
   * AngularJS Batarang
@@ -122,6 +122,7 @@ Other desktop applications
 * VirtualBox
 * Wine
 * Workrave
+* `diffuse`
 
 On Linux
 --------
