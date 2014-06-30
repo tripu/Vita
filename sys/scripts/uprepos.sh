@@ -58,15 +58,16 @@ EOF
 else
     echo Updating all Git/Subversion repos under \'$1\'...
     for i in `ls $1`; do
-	echo $i:
 	if [ -d $1/$i ]; then
 	    cd $1/$i > /dev/null
-	    if [ -e .svn ] && [ -d .svn ]; then
-		(svn up
-		    svn st | sort) | sed '/^$/d' | sed 's/^/  /g'
-	    elif [ -e .git ] && [ -d .git ]; then
+	    if [ -e .git ] && [ -d .git ]; then
+		echo \'$i\' \(Git\):
 		(git pull
 		    git status) | sed '/^$/d' | sed 's/^/  /g'
+	    elif [ -e .svn ] && [ -d .svn ]; then
+		echo \'$i\' \(Subversion\):
+		(svn up
+		    svn st | sort -k1,1 ) | sed '/^$/d' | sed 's/^/  /g'
 	    fi
 	    cd - > /dev/null
 	fi

@@ -23,7 +23,7 @@ Instant messaging & IRC
 * Google Hangouts
 * IRC
 * WhatsApp
-* Skype [Antonio]
+* Line
 * Skype [tripu]
 * ICQ (#310543351)
 
