@@ -19,14 +19,14 @@ Fonts
 -----
 
 * Consolas
-* Droid fonts:
+* Droid fonts \[`fonts-droid`\]:
   * Droid Normal
   * Droid Sans
   * Droid Sans Mono Normal
   * Droid Serif
-* Inconsolata
-* Liberation (GNU) fonts
-* Roboto
+* Inconsolata \[`fonts-inconsolata`\]
+* Liberation (GNU) fonts \[`fonts-liberation`\]
+* Roboto \[`fonts-roboto`\]
 * Source Code Pro (Adobe)
 * Ubuntu fonts
 
@@ -78,7 +78,7 @@ Programming
 * Lisp \[`clisp`\]
 * mercurial
 * NetBeans
-* Node.js
+* Node.js \[`nodejs`\]
 * Perl \[5\]
 * Python \[2.7, 3.4\]
 * Ruby \[1.9\]
