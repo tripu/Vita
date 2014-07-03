@@ -1,9 +1,9 @@
 
 * https://www.angularjobs.com/
 * Firebase
+* Hays.co.jp
 * Trello
 * http://rateyourmusic.com/
-* W3C (web, wiki, IRC)
 * Adobe (web, Jira)
 [lo de emergya]
 * Chess.com
@@ -45,12 +45,12 @@ Social networks
 * Vimeo (videos)
 * MapMyRun / MapMyFitness (training)
 * Delicious
-* Plazes
 * 43 Things
 * 43 People
 * Spaniards
 * RememberTheMilk
 * Meetup
+* Path
 
 Travel
 ------
@@ -113,11 +113,12 @@ E–mail
 * tripu-es@tripu.info (Spanish)
 * tripu-it@tripu.info (Italian)
 * tripu-ja@tripu.info (Japanese)
+* tripu_info@yahoo.co.jp
 
 Japanese
 --------
 
-japanese learning site
+* Tofugu
 
 Random services
 ---------------

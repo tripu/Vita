@@ -63,6 +63,7 @@ Browser extensions/plugins
 Programming
 -----------
 
+* `editorconfig`
 * Amaya
 * Apache HTTP Server
 * Brackets
@@ -87,6 +88,7 @@ Programming
 * Tomcat
 * Browser extensions/plugins:
   * AngularJS Batarang
+  * AngScope
   * Firebug
   * Flash Player (debugger)
   * JSON editor/formatter/viewer
