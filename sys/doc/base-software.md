@@ -7,6 +7,7 @@ Basic, standard software to install on all (desktop) computers of mine.
 Command–line utilities
 ----------------------
 
+* `hardinfo`
 * `awk`
 * `emacs` \[`emacs24`\]
 * ImageMagick

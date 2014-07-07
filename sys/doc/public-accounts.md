@@ -1,4 +1,8 @@
 
+* Sourceforge?
+* https://developer.mozilla.org/en-US/
+* http://www.webplatform.org/
+* http://www.html5rocks.com/en/
 * https://www.angularjobs.com/
 * Firebase
 * Hays.co.jp
@@ -130,4 +134,6 @@ Random services
 * Feedly
 * The old reader
 * eRepublik
+* Medium
+
 
