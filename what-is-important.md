@@ -19,3 +19,5 @@ Negative example: [TO-DO].
 
 * All **#debates** should be an open–minded exchange of ideas and a collaborative quest to put them to test in order to identify the best ones. That's the goal, and everything else is a colourful wrapping. Too often, the environment isn't appropriate for debate: loud noise, big egos, bad manners, haste and the lack of a minimum conceptual base to start with are common. Under such conditions, trying to debate is fruitless at best, and often frustrating. Avoid.
 
+* _“Decisions based on emotions aren't decisions at all.”_ (House of Cards, S01E12). One should not make non-trivial **#decisions** in the heat of the moment.
+
