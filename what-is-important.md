@@ -21,3 +21,7 @@ Negative example: [TO-DO].
 
 * _“Decisions based on emotions aren't decisions at all.”_ (House of Cards, S01E12). One should not make non-trivial **#decisions** in the heat of the moment.
 
+* The idea of having, or achieving, “one's dream” (singular), or “the dream of one's life” seems weak, and maybe even noxious. By definition, pursuing such “dream” should be the ultimate goal in life, and its achievement has to bring immediate happiness at an unprecedented level. It seems imposible to know that beforehand. Also, circumstances, desires and priorities in life change wildly. But such an important, long-term “dream” should not be subject to those petty changes. Also, by achieving that goal (if you ever do that), you automatically downgrade your life, your ambitions and expectations, ie *nothing* can ever be as huge, as important, or as life-changing as achieving your dream in life, right?
+
+* **#Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
+
