@@ -4,7 +4,6 @@
 * http://www.webplatform.org/
 * http://www.html5rocks.com/en/
 * https://www.angularjobs.com/
-* Firebase
 * Hays.co.jp
 * Trello
 * http://rateyourmusic.com/
@@ -76,6 +75,7 @@ Music
 * Last.fm (songs)
 * Grooveshark
 * Jamendo
+* Soundcloud
 
 Professional
 ------------
@@ -94,11 +94,12 @@ Programming
 * GitHub
 * Wonderfl/Beautifl
 * jsdo.it
-* Stack Overflow
+* Stack Overflow (and all Stack Exchange sites)
 * Sourceforge
 * Google Code
 * Pastebin, etc.
 * Gist
+* Firebase
 
 Communities
 -----------
@@ -127,6 +128,9 @@ Japanese
 Random services
 ---------------
 
+* Eventbrite
+* Coursera
+* Udacity?
 * Keybase
 * Gravatar
 * Akismet
