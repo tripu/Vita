@@ -99,6 +99,7 @@ Programming
   * Screen capture tool
   * Web Developer
   * WebGL Inspector
+  * Quick Javascript Switcher
 
 日本語
 ---

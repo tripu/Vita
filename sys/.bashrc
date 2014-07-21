@@ -112,3 +112,11 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Private stuff:
+if [ -f ~/.settings.sh ]; then
+  . ~/.settings.sh
+fi
+
+# EOF
+
