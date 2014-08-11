@@ -114,8 +114,8 @@ if ! shopt -oq posix; then
 fi
 
 # Private stuff:
-if [ -f ~/.settings.sh ]; then
-  . ~/.settings.sh
+if [ -f ~/settings.sh ]; then
+  . ~/settings.sh
 fi
 
 # EOF

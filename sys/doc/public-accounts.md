@@ -47,6 +47,7 @@ Social networks
 * YouTube (videos)
 * Vimeo (videos)
 * MapMyRun / MapMyFitness (training)
+* Strava [leave]
 * Delicious
 * 43 Things
 * 43 People
@@ -118,7 +119,8 @@ E–mail
 * tripu-es@tripu.info (Spanish)
 * tripu-it@tripu.info (Italian)
 * tripu-ja@tripu.info (Japanese)
-* tripu_info@yahoo.co.jp
+* tripu_info@yahoo.co.jp (same as below)
+* tripu@yahoo.ne.jp (same as above)
 
 Japanese
 --------

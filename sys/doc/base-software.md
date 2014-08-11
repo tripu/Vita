@@ -7,6 +7,7 @@ Basic, standard software to install on all (desktop) computers of mine.
 Command–line utilities
 ----------------------
 
+* `curl`
 * `hardinfo`
 * `awk`
 * `emacs` \[`emacs24`\]
@@ -87,6 +88,7 @@ Programming
 * Stand–alone JSON editor
 * Subversion clients \[`subversion`, `subcommander`, `rapidsvn`\]
 * Tomcat
+* MySQL Workbench
 * Browser extensions/plugins:
   * AngularJS Batarang
   * AngScope
