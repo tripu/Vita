@@ -82,6 +82,8 @@ Programming
 * mercurial
 * NetBeans
 * Node.js \[`nodejs`\]
+* Grunt
+* Bower
 * Perl \[5\]
 * Python \[2.7, 3.4\]
 * Ruby \[1.9\]
