@@ -1,7 +1,6 @@
 
 * Sourceforge?
 * https://developer.mozilla.org/en-US/
-* http://www.webplatform.org/
 * http://www.html5rocks.com/en/
 * https://www.angularjobs.com/
 * Hays.co.jp
@@ -111,6 +110,7 @@ Communities
 * Barrapunto
 * Wikipedia
 * Moterus
+* WebPlatform.org
 
 E–mail
 ------
