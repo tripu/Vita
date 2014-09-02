@@ -27,6 +27,7 @@ Instant messaging & IRC
 * WhatsApp
 * Line
 * Skype [tripu]
+* Ekiga (SIP) [tripu@ekiga.net]
 * ICQ (#310543351)
 
 Books
