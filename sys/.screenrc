@@ -1,0 +1,2 @@
+escape ^Jj
+alias ls='ls --color=auto'
