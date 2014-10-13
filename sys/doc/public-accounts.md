@@ -13,6 +13,7 @@
 * Speakerdeck
 * Apple [tripu]
 * Apalabrados
+* Tabelog (食ベログ)
 
 Public accounts
 ===============
@@ -142,5 +143,4 @@ Random services
 * The old reader
 * eRepublik
 * Medium
-
 

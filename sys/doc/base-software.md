@@ -16,6 +16,7 @@ Command–line utilities
 * `sed`
 * `tree`
 * keybase
+* `httrack`
 
 Fonts
 -----
@@ -40,6 +41,8 @@ Graphics & multimedia
 * Inkscape
 * PDF/PS viewer
 * VLC
+* Sound Juicer
+* OpenShot
 
 Communications
 --------------
@@ -104,6 +107,8 @@ Programming
   * Web Developer
   * WebGL Inspector
   * Quick Javascript Switcher
+* emacs packages:
+  * php-elisp
 
 日本語
 ---
@@ -139,6 +144,7 @@ On Linux
 * `gnome-extensions` \[could not find\]
 * `xemacs` \[`xemacs21`\]
 * `dconf-editor`
+* `compiz-gnome compiz-plugins compiz-plugins-main compiz-core compizconfig-settings-manager`
 
 On Windows
 ----------

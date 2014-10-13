@@ -8,3 +8,5 @@ alias rgrep='grep -r'
 # alias	md	mkdir
 # alias	rd	rmdir
 alias fuck='sudo $(history -p \!\!)'    # From https://twitter.com/liamosaur/status/506975850596536320
+alias lz='ls -lah'
+alias nd='mkdir $0 && cd $0'

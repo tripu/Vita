@@ -1,5 +1,11 @@
+
 [user]
 	email = tripu@tripu.info
 	name = tripu
 [credential]
 	helper = cache --timeout=86400
+[push]
+	default = simple
+[url "ssh://git@gitlab.w3.org:symfony-bundles/"]
+	insteadof = https://gitlab.w3.org/symfony-bundles/
+
