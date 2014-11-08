@@ -32,6 +32,7 @@ Fonts
 * Roboto \[`fonts-roboto`\]
 * Source Code Pro (Adobe)
 * Ubuntu fonts
+* Computer Modern Unicode (LaTeX fonts)
 
 Graphics & multimedia
 ---------------------
