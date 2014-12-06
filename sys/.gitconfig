@@ -9,3 +9,5 @@
 [url "ssh://git@gitlab.w3.org:symfony-bundles/"]
 	insteadof = https://gitlab.w3.org/symfony-bundles/
 
+[core]
+	editor = emacs

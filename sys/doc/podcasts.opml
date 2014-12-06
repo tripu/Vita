@@ -13,5 +13,6 @@
         <outline text="Atmósfera es una propuesta arriesgada que apuesta por un formato renovador dentro del panorama Radiofónico español. La música electrónica-experimental es la que vertebra el programa, cimentado en una concepción futurista dentro de los campos de la música, el arte y la tecnología aplicada a la creatividad." title="Atmósfera" type="rss" xmlUrl="http://www.rtve.es/api/programas/1891/audios.rss"/>
         <outline text="El universo dance y nuevas tendencias de la música de baile. Con la selección de los referentes más destacados de su actualidad." title="En órbita" type="rss" xmlUrl="http://www.rtve.es/api/programas/61531/audios.rss"/>
         <outline text="Tiempo para los djs en Radio3. Las mejores sesiones poniendo pulso, ritmo y baile." title="Off Radio 3" type="rss" xmlUrl="http://www.rtve.es/api/programas/58252/audios.rss"/>
+        <outline text="The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men." title="The Art of Manliness" type="rss" xmlUrl="http://feeds.feedburner.com/artofmanlinesspodcast"/>
     </body>
 </opml>

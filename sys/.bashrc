@@ -97,5 +97,8 @@ if [ -f ~/settings.sh ]; then
   . ~/settings.sh
 fi
 
+EDITOR=emacs
+VISUAL=emacs
+
 # EOF
 
