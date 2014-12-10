@@ -64,12 +64,13 @@ EOF
   exit 2
 else
   # Everything seems OK — update:
-  echo Updating all Git/Subversion repos under \'$1\'…
-  if [ -e $1/palimpsest/personal/docs/repos.txt -a -f $1/palimpsest/personal/docs/repos.txt -a -w $1/palimpsest/personal/docs/repos.txt ]; then
-    LIST=$1/palimpsest/personal/docs/repos.txt
+  BASE=`realpath $1`
+  echo Updating all Git/Subversion repos under “$BASE”…
+  if [ -e $BASE/palimpsest/personal/docs/repos.txt -a -f $BASE/palimpsest/personal/docs/repos.txt -a -w $BASE/palimpsest/personal/docs/repos.txt ]; then
+    LIST=$BASE/palimpsest/personal/docs/repos.txt
     while IFS= read -r REPO; do
       NAME=`echo $REPO | cut -d' ' -f1`
-      if [ ! -d $1/$NAME ]; then
+      if [ ! -d $1/$NAME ] && [ ! $NAME = "#" ]; then
         TYPE=`echo $REPO | cut -d' ' -f2`
         URL=`echo $REPO | cut -d' ' -f3`
         mkdir $1/$NAME
@@ -81,23 +82,37 @@ else
     if [ -d $1/$i ]; then
       cd $1/$i > /dev/null
       if [ -e .git ] && [ -d .git ]; then
-        echo \'$i\' \(Git\):
+        # Git:
+        echo “$i” \(Git\):
         (git pull; git status) | sed '/^$/d' | sed 's/^/  /g'
         if [ -n "${LIST-}" ]; then
-          echo "$i git `git config --get remote.origin.url`" >> $LIST
+          echo "$i git `git config --get remote.origin.url` git pull; git status" >> $LIST
         fi
       elif [ -e .svn ] && [ -d .svn ]; then
-        echo \'$i\' \(Subversion\):
+        # Subversion:
+        echo “$i” \(Subversion\):
         (svn up; svn st | sort -k1,1) | sed '/^$/d' | sed 's/^/  /g'
         if [ -n "${LIST-}" ]; then
-          echo "$i svn `svn info | grep '^Repository\ Root:\ ' | cut -d' ' -f3-`" >> $LIST
+          echo "$i svn `svn info | grep '^Repository\ Root:\ ' | cut -d' ' -f3-` svn up; svn st | sort -k1,1" >> $LIST
         fi
+      elif [ -e CVS ] && [ -d CVS ]; then
+        # CVS:
+        echo “$i” \(CVS\):
+        echo '  Not yet!'
+        # (cvs co WWW) | sed '/^$/d' | sed 's/^/  /g'
+        # if [ -n "${LIST-}" ]; then
+          # echo "$i cvs `svn info | grep '^Repository\ Root:\ ' | cut -d' ' -f3-` svn up; svn st | sort -k1,1" >> $LIST
+        # fi
+      else
+        echo “$i”: =================== EMPTY ===================
       fi
       cd - > /dev/null
     fi
   done
-  sort -f $LIST | uniq -i > /tmp/$SELF-$$.txt
-  mv /tmp/$SELF-$$.txt $LIST
+  if [ -n "${LIST-}" ]; then
+    sort -f $LIST | uniq -i > /tmp/$SELF-$$.txt
+    mv /tmp/$SELF-$$.txt $LIST
+  fi
 fi
 
 # EOF

@@ -2,9 +2,10 @@
 <opml version="2.0">
     <head>
         <title>gPodder subscriptions</title>
-        <dateCreated>Thu, 21 Aug 2014 22:19:54 +0900</dateCreated>
+        <dateCreated>Tue, 09 Dec 2014 20:35:07 +0900</dateCreated>
     </head>
     <body>
+        <outline text="" title="Listen♪♪NHK-FM" type="rss" xmlUrl="http://www.nhk.or.jp/fm/news.xml"/>
         <outline text="Podcast del programa La Brújula" title="La Brújula" type="rss" xmlUrl="http://www.ondacero.es/podcast_rss/1002801-radioshow.xml"/>
         <outline text="Un espacio con un protagonismo especial de la música popular contemporánea más innovadora. Y también para la tecnología, la creatividad artística, la cultura del entretenimiento, proyectos alternativos, videojuegos, literatura o ecología. Con atención diaria a las ideas de los oyentes y las de los artistas." title="Siglo 21" type="rss" xmlUrl="http://www.rtve.es/api/programas/2082/audios.rss"/>
         <outline text="Podcast del programa Herrera en la onda. 06:00- 10:00" title="Herrera en la onda. 06:00- 10:00" type="rss" xmlUrl="http://www.ondacero.es/podcast_rss/1003273-radioshow.xml"/>
@@ -14,5 +15,10 @@
         <outline text="El universo dance y nuevas tendencias de la música de baile. Con la selección de los referentes más destacados de su actualidad." title="En órbita" type="rss" xmlUrl="http://www.rtve.es/api/programas/61531/audios.rss"/>
         <outline text="Tiempo para los djs en Radio3. Las mejores sesiones poniendo pulso, ritmo y baile." title="Off Radio 3" type="rss" xmlUrl="http://www.rtve.es/api/programas/58252/audios.rss"/>
         <outline text="The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men." title="The Art of Manliness" type="rss" xmlUrl="http://feeds.feedburner.com/artofmanlinesspodcast"/>
+        <outline text="NHKラジオニュースをいつでもどこでもお聞きになれるサービスです。" title="NHKラジオニュース" type="rss" xmlUrl="http://www.nhk.or.jp/r-news/podcast/nhkradionews.xml"/>
+        <outline text="専門家が経済問題を深く切り込みます。" title="ラジオあさいちばん「ビジネス展望」" type="rss" xmlUrl="http://www.nhk.or.jp/r-asa/podcast/business.xml"/>
+        <outline text="For people who want to learn Japanese, NHK WORLD broadcasts a total of 50 lessons, with text and audio downloads for free, updated every week. For more information, please go to www.nhk.or.jp/lesson/english/." title="Japanese Lessons in English - NHK WORLD RADIO JAPAN" type="rss" xmlUrl="http://www3.nhk.or.jp/lesson/common/rss/podcast/english.xml"/>
+        <outline text="毎日ウィークリーポッドキャスト" title="毎日新聞ポッドキャスト WEEKLY powered by ココログ" type="rss" xmlUrl="http://feeds.feedburner.com/cocolog-nifty/YXJp"/>
+        <outline text="" title="Japanese LingQJapanese LingQ -" type="rss" xmlUrl="http://japaneselingq.com/"/>
     </body>
 </opml>

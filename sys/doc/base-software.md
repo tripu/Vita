@@ -65,6 +65,7 @@ Browser extensions/plugins
 * Greasemonkey/Tampermonkey
 * HTTPS Everywhere
 * Java plugin
+* Privacy Badger
 
 Programming
 -----------
