@@ -21,12 +21,15 @@ Public accounts
 Instant messaging & IRC
 -----------------------
 
-* Jabber (tripu@jabber.org)
+* XMPP/Jabber (tripu@jabber.org)
 * MSN (tripu@passport.com)
 * Google Hangouts
-* IRC
+* Freenode
 * WhatsApp
 * Line
+* Telegram
+* Surespot
+* ChatSecure
 * Skype [tripu]
 * Ekiga (SIP) [tripu@ekiga.net]
 * ICQ (#310543351)
@@ -39,6 +42,7 @@ Books
 * Bookcrossing
 * Amazon (UK)
 * Amazon (ES)
+* Amazon (JP)
 
 Social networks
 ---------------
@@ -63,6 +67,7 @@ Travel
 * Dopplr
 * 43 Places
 * Plazes
+* Easyjet
 
 Photos
 ------
@@ -128,6 +133,7 @@ Japanese
 --------
 
 * Tofugu
+* Wanikani [?]
 
 Random services
 ---------------

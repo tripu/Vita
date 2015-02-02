@@ -1,0 +1,24 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 29/01/2015
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+*dropbox*
+*duckduckgo*
+*elpais.com*
+*flickr.com*
+*gist.github.com*
+*google.com*
+*googleapis.com*
+*google.es*
+*jquery.com*
+*twitter.com*
+*t.co/*
+*youtube.com*
+
+[regexp]
+
+
+#END

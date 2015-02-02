@@ -52,6 +52,7 @@ Communications
 * Chromium
 * FileZilla
 * Firefox
+  * Archived Link
 * IRC client \[`xchat`\]
 * Skype
 * Thunderbird
@@ -66,6 +67,7 @@ Browser extensions/plugins
 * HTTPS Everywhere
 * Java plugin
 * Privacy Badger
+* Proxy SwitchySharp
 
 Programming
 -----------
@@ -158,3 +160,4 @@ On Windows
 * WinMerge
 
 
+bluefish bluefish-plugins
