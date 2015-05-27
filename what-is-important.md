@@ -35,7 +35,21 @@ Negative example: [TO-DO].
 
 ## Misc
 
-* All **#debates** should be an open–minded exchange of ideas and a collaborative quest to put them to test in order to identify the best ones. That's the goal, and everything else is a colourful wrapping. Too often, the environment isn't appropriate for debate: loud noise, big egos, bad manners, haste and the lack of a minimum conceptual base to start with are common. Under such conditions, trying to debate is fruitless at best, and often frustrating. Avoid.
+## Debates
 
-* **#Fashion** as such must be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image, reputation or relevant expectations of people about you. #Trends and #memes not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely ignored, too.
+* All #debates should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
+That's the goal.
+Everything else is a colourful wrapping.
+It makes no sense to talk about the &ldquo;winner&rdquo; of a debate.
+* Too often, the environment isn't appropriate for debate:
+loud noise, big egos, bad manners, haste and the lack of a minimum conceptual base to start with are common.
+Under such conditions, trying to debate is fruitless at best, and often frustrating.
+Avoid.
+* Always apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity).
+
+## Fashion
+* #Fashion as such must be ignored, as long as doing so does not put you in such an outdated or ridiculous position
+as to severely damage your image, reputation or relevant expectations of people about you. #Trends and #memes not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely ignored, too.
+
+* [Vemödalen](http://testtube.com/dictionaryofobscuresorrows/vemodalen) hunts me. *&ldquo;The frustration of photographing something amazing when thousands of identical photos already exist--the same sunset, the same waterfall, the same curve of a hip, the same closeup of an eye--which can turn a unique subject into something hollow and pulpy and cheap.&rdquo;*
 
