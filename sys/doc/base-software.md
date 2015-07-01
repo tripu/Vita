@@ -7,16 +7,21 @@ Basic, standard software to install on all (desktop) computers of mine.
 Command–line utilities
 ----------------------
 
-* `curl`
-* `hardinfo`
-* `awk`
-* `emacs` \[`emacs24`\]
 * ImageMagick
+* `acpi`
+* `awk`
+* `curl`
+* `emacs` \[`emacs24`\]
+* `exif`
+* `hardinfo`
+* `httrack`
+* `l2tp-ipsec-vpn`
+* `mtr`
 * `screen`
 * `sed`
 * `tree`
+* `whois`
 * keybase
-* `httrack`
 
 Fonts
 -----
@@ -53,13 +58,14 @@ Communications
 * FileZilla
 * Firefox
   * Archived Link
-* IRC client \[`xchat`\]
+* IRC client \[`xchat`, `hexchat`\]
 * Skype
 * Thunderbird
 
 Browser extensions/plugins
 --------------------------
 
+* Blipshot
 * Delicious
 * Feedly
 * Google Hangouts
@@ -68,36 +74,41 @@ Browser extensions/plugins
 * Java plugin
 * Privacy Badger
 * Proxy SwitchySharp
+* Simple Page Screenshot
+* SwitchyOmega
+* appear.in screen sharing
+* µBlock
 
 Programming
 -----------
 
-* `editorconfig`
 * Amaya
 * Apache HTTP Server
+* Bower
 * Brackets
-* cvs
 * Eclipse
-* gedit-developer-plugins
-* gedit-plugins
-* gedit-source-code-browser-plugin
 * Git client
+* Grunt
 * Java EE SDK
 * JetBrains IntelliJ IDEA
 * JetBrains WebStorm
 * Lisp \[`clisp`\]
-* mercurial
+* MySQL Workbench
 * NetBeans
 * Node.js \[`nodejs`\]
-* Grunt
-* Bower
 * Perl \[5\]
 * Python \[2.7, 3.4\]
 * Ruby \[1.9\]
 * Stand–alone JSON editor
 * Subversion clients \[`subversion`, `subcommander`, `rapidsvn`\]
 * Tomcat
-* MySQL Workbench
+* `editorconfig`
+* cvs
+* gedit-developer-plugins
+* gedit-plugins
+* gedit-source-code-browser-plugin
+* mercurial
+* phpmyadmin
 * Browser extensions/plugins:
   * AngularJS Batarang
   * AngScope
@@ -144,11 +155,13 @@ Other desktop applications
 On Linux
 --------
 
+* `compiz-gnome compiz-plugins compiz-plugins-main compiz-core compizconfig-settings-manager`
+* `dconf-editor`
 * `gnome-do` \[not necessary with Ubuntu's Dash\]
 * `gnome-extensions` \[could not find\]
+* `gnome-panel`
+* `libreoffice-wiki-publisher`
 * `xemacs` \[`xemacs21`\]
-* `dconf-editor`
-* `compiz-gnome compiz-plugins compiz-plugins-main compiz-core compizconfig-settings-manager`
 
 On Windows
 ----------
@@ -159,5 +172,7 @@ On Windows
 * Windows Grep
 * WinMerge
 
+bluefish
+bluefish-plugins
+openjdk-7-jdk
 
-bluefish bluefish-plugins

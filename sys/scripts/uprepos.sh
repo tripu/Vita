@@ -84,9 +84,9 @@ else
       if [ -e .git ] && [ -d .git ]; then
         # Git:
         echo “$i” \(Git\):
-        (git pull; git status) | sed '/^$/d' | sed 's/^/  /g'
+        (git pull --rebase; git status) | sed '/^$/d' | sed 's/^/  /g'
         if [ -n "${LIST-}" ]; then
-          echo "$i git `git config --get remote.origin.url` git pull; git status" >> $LIST
+          echo "$i git `git config --get remote.origin.url` git pull --rebase; git status" >> $LIST
         fi
       elif [ -e .svn ] && [ -d .svn ]; then
         # Subversion:

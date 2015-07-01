@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>gPodder subscriptions</title>
-        <dateCreated>Tue, 09 Dec 2014 20:35:07 +0900</dateCreated>
+        <dateCreated>Fri, 27 Mar 2015 23:16:15 +0900</dateCreated>
     </head>
     <body>
         <outline text="" title="Listen♪♪NHK-FM" type="rss" xmlUrl="http://www.nhk.or.jp/fm/news.xml"/>
@@ -11,7 +11,6 @@
         <outline text="Podcast del programa Herrera en la onda. 06:00- 10:00" title="Herrera en la onda. 06:00- 10:00" type="rss" xmlUrl="http://www.ondacero.es/podcast_rss/1003273-radioshow.xml"/>
         <outline text="Radio y cine... series... músicas... textos... imágenes... En Videodrome revisitamos una película, una serie, una música, un texto, &quot;viendo&quot; por la radio. Una película, una serie, una música, un texto... desde el punto de vista de su argumento, sus diálogos, su letra. Encuadrando la obra en &quot;su tiempo&quot; y en &quot;su significado&quot;. Tiempo, espacio, movimiento... Videodrome juega a deconstruir... En un medio diferente, o no." title="Videodrome" type="rss" xmlUrl="http://www.rtve.es/api/programas/20220/audios.rss"/>
         <outline text="Alien Dogma es un proyecto sonoro para establecer comunicación inteligente mediante ondas de radio con seres animados y entidades biológicas terrestres, o no. En caso de éxito provocaría un encuentro cercano de segundo tipo, según la clasificación de Hynek. Para ello se utilizará como medio un espacio radiofónico especializado en música electrónica que se alimentará de géneros de vanguardia como el dubstep, drumstep, moonbahton, complextro, glitch hop, breaks o grime." title="Alien Dogma" type="rss" xmlUrl="http://www.rtve.es/api/programas/58172/audios.rss"/>
-        <outline text="Atmósfera es una propuesta arriesgada que apuesta por un formato renovador dentro del panorama Radiofónico español. La música electrónica-experimental es la que vertebra el programa, cimentado en una concepción futurista dentro de los campos de la música, el arte y la tecnología aplicada a la creatividad." title="Atmósfera" type="rss" xmlUrl="http://www.rtve.es/api/programas/1891/audios.rss"/>
         <outline text="El universo dance y nuevas tendencias de la música de baile. Con la selección de los referentes más destacados de su actualidad." title="En órbita" type="rss" xmlUrl="http://www.rtve.es/api/programas/61531/audios.rss"/>
         <outline text="Tiempo para los djs en Radio3. Las mejores sesiones poniendo pulso, ritmo y baile." title="Off Radio 3" type="rss" xmlUrl="http://www.rtve.es/api/programas/58252/audios.rss"/>
         <outline text="The Art of Manliness podcast features discussions on topics and issues important or of interest to men. The goal of the podcast is to help men become better men." title="The Art of Manliness" type="rss" xmlUrl="http://feeds.feedburner.com/artofmanlinesspodcast"/>
@@ -20,5 +19,8 @@
         <outline text="For people who want to learn Japanese, NHK WORLD broadcasts a total of 50 lessons, with text and audio downloads for free, updated every week. For more information, please go to www.nhk.or.jp/lesson/english/." title="Japanese Lessons in English - NHK WORLD RADIO JAPAN" type="rss" xmlUrl="http://www3.nhk.or.jp/lesson/common/rss/podcast/english.xml"/>
         <outline text="毎日ウィークリーポッドキャスト" title="毎日新聞ポッドキャスト WEEKLY powered by ココログ" type="rss" xmlUrl="http://feeds.feedburner.com/cocolog-nifty/YXJp"/>
         <outline text="" title="Japanese LingQJapanese LingQ -" type="rss" xmlUrl="http://japaneselingq.com/"/>
+        <outline text="Una selección de contenidos del programa lí­der de la radio en España" title="Hoy por Hoy" type="rss" xmlUrl="http://urotrosfiles.media.streamtheworld.com/otrosfiles/podcasts/222.xml"/>
+        <outline text="El análisis de la actualidad de la jornada en la tertulia de 'Hora 25'" title="Hora 25" type="rss" xmlUrl="http://urotrosfiles.media.streamtheworld.com/otrosfiles/podcasts/320.xml"/>
+        <outline text="Cada madrugada del sábado, de 1 a 2 de la noche, el Dj y Productor Henry Saiz te invita a recorrer un laberinto de músicas y conceptos. Un viaje sonoro sin prejuicios donde, dependiendo del concepto de cada programa, tienen cabida todos los estilos de cualquier época con especial protagonismo de la música electrónica en todas sus formas, temas inéditos y sesiones en exclusiva a cargo de artistas internacionales en cada recodo de este laberinto." title="El laberinto" type="rss" xmlUrl="http://www.rtve.es/api/programas/79810/audios.rss"/>
     </body>
 </opml>

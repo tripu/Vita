@@ -1,3 +1,4 @@
+
 ;; (setq whitespace-space 'underline)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -29,10 +30,29 @@
 ;; (set-face-attribute 'default t :font  "Inconsolata Medium" ))
 ;; (set-default-font "Source Code Pro 12")
 (set-default-font "Inconsolata 12")
-(setq whitespace-style '(face trailing tabs))
 (autoload 'whitespace-mode "whitespace" "Toggle whitespace visualization." t)
 ;; (autoload 'whitespace-toggle-options "whitespace" "Toggle local `whitespace-mode' options." t)
-;; (setq whitespace-style '(face trailing tabs newline))
 (autoload 'markdown-mode "markdown-mode"
    "Major mode for editing Markdown files" t)
 (add-to-list 'auto-mode-alist '("\\.md\\'" . markdown-mode))
+
+(add-to-list 'load-path "~/.emacs.d/el-get/el-get")
+
+(unless (require 'el-get nil 'noerror)
+  (with-current-buffer
+      (url-retrieve-synchronously
+       "https://raw.githubusercontent.com/dimitri/el-get/master/el-get-install.el")
+    (goto-char (point-max))
+    (eval-print-last-sexp)))
+
+(add-to-list 'el-get-recipe-path "~/.emacs.d/el-get-user/recipes")
+(el-get 'sync)
+
+(require 'whitespace)
+(setq whitespace-line-column 160) ;; limit line length
+(setq whitespace-style '(face trailing tabs lines-tail newline))
+(add-hook 'prog-mode-hook 'whitespace-mode)
+
+(require 'git-gutter)
+(global-git-gutter-mode t)
+
