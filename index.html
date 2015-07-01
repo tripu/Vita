@@ -1,13 +1,46 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en-GB">
+
   <head>
-    <title>Vita</title>
+    <meta charset="utf-8">
+    <title>Vīta</title>
+    <meta name="description" content="My own universe's how–to, life's user manual, instructions to navigate the Earth, tips for tripu, notes to self">
+    <meta name="keywords"    content="vita,vīta,tripu">
+    <meta name="author"      content="tripu <tripu@tripu.info> http://tripu.info">
+    <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/markdown-it/4.2.2/markdown-it.min.js"></script>
   </head>
+
   <body>
-    <h1>Vita</h1>
+
+    <h1>Vīta</h1>
+
     <ul>
-      <li><a href="doc/">doc</a></li>
-      <li><a href="sys/">sys</a></li>
+      <li>
+        doc/
+        <ul>
+          <li><a class="md" href="#">life.md</a></li>
+          <li><a class="md" href="#">children.md</a></li>
+          <li><a class="md" href="#">politics.md</a></li>
+          <li><a class="md" href="#">economics.md</a></li>
+        </ul>
+      </li>
     </ul>
+
+    <script>
+
+      $(document).ready(function() {
+
+        var md = window.markdownit();
+        var result = md.render('# markdown-it rulezz!');
+
+      });
+
+    </script>
+
   </body>
+
 </html>
 
