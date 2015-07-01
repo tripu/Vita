@@ -4,41 +4,60 @@
 
   <head>
     <meta charset="utf-8">
+    <meta name="viewport"    content="width=device-width, initial-scale=1.0">
     <title>Vīta</title>
     <meta name="description" content="My own universe's how–to, life's user manual, instructions to navigate the Earth, tips for tripu, notes to self">
     <meta name="keywords"    content="vita,vīta,tripu">
     <meta name="author"      content="tripu <tripu@tripu.info> http://tripu.info">
-    <meta name="viewport"    content="width=device-width, initial-scale=1.0">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/markdown-it/4.2.2/markdown-it.min.js"></script>
+    <link rel="stylesheet" href="style.css">
   </head>
 
   <body>
 
-    <h1>Vīta</h1>
+    <nav>
 
-    <ul>
-      <li>
-        doc/
-        <ul>
-          <li><a class="md" href="#">life.md</a></li>
-          <li><a class="md" href="#">children.md</a></li>
-          <li><a class="md" href="#">politics.md</a></li>
-          <li><a class="md" href="#">economics.md</a></li>
-        </ul>
-      </li>
-    </ul>
+      <h1>Vīta</h1>
 
-    <script>
+      <pre>├── doc/
+│   ├── children.md
+│   ├── life.md
+│   └── politics.md
+└── sys/
+    ├── doc/
+    │   ├── antonio.gpg
+    │   ├── base-software.md
+    │   ├── feedly.opml
+    │   ├── podcasts.opml
+    │   ├── sources.BACKUP.list
+    │   ├── sources.list
+    │   ├── SwitchyPac.pac
+    │   └── SwitchyRules.ssrl
+    ├── scripts/
+    │   └── uprepos.sh
+    ├── win/
+    │   ├── Default (Windows).sublime-keymap
+    │   └── Preferences.sublime-settings
+    ├── .alias
+    ├── .bash_aliases
+    ├── .bash_logout
+    ├── .bash_profile
+    ├── .bashrc
+    ├── .emacs
+    ├── .gitconfig
+    ├── .inputrc
+    ├── .pam_environment
+    ├── .plan
+    ├── .profile
+    ├── .screenrc
+    └── _viminfo</pre>
 
-      $(document).ready(function() {
+    </nav>
 
-        var md = window.markdownit();
-        var result = md.render('# markdown-it rulezz!');
+    <main></main>
 
-      });
-
-    </script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/markdown-it/4.2.2/markdown-it.min.js"></script>
+    <script type="text/javascript" src="behaviour.js"></script>
 
   </body>
 
