@@ -47,3 +47,9 @@ as to severely damage your image, reputation or relevant expectations of people 
 
 * I believe radically in **free speech**.
 
+## References
+
+* [Buster Benson](https://github.com/busterbenson)'s [“Codex Vitae”](https://github.com/busterbenson/public/blob/master/Codex.md)
+(inspiration for this whole project)
+* [Sam Altman: &ldquo;The days are long but the decades are short&rdquo;](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+
