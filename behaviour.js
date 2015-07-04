@@ -67,9 +67,9 @@ var showFile = function(event) {
 
   $.get(url, function(data) {
 
-    if (REGEX_MD.test(url)) {
-      container.removeClass('simple');
+    if (-1 !== url.search(REGEX_MD)) {
       container.html(md.render(data));
+      container.removeClass('simple');
     } else {
       container.addClass('simple');
       container.text(data);
