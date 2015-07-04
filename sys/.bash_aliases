@@ -33,4 +33,5 @@ alias fuck='sudo $(history -p \!\!)'    # From https://twitter.com/liamosaur/sta
 alias lz='ls -lah'
 alias nd='mkdir $0 && cd $0'
 alias op='emacs -nw'
+alias peek='tree --dirsfirst -Fa'
 

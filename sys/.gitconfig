@@ -21,4 +21,5 @@
 	pl = pull
 	ps = push
 	st = status
+	re = remote
 
