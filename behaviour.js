@@ -4,7 +4,9 @@
 // Pseudo-constants:
 var REGEX_DIR  = /─\ (.+\/)$/igm,
     REGEX_FILE = /─\ ([^\<].+[^\>])$/igm,
-    REGEX_MD   = /\.md$/igm;
+    REGEX_MD   = /\.md$/igm,
+    REGEX_BASE = /tripu\.github\.io\/Vita/i,
+    NEW_BASE   = 'raw.githubusercontent.com/tripu/Vita/gh-pages';
 
 // Vars:
 var md;
@@ -74,6 +76,21 @@ var showFile = function(event) {
       container.addClass('simple');
       container.text(data);
     }
+
+  }).fail(function() {
+    url = url.replace(REGEX_BASE, NEW_BASE);
+
+    $.get(url, function(data) {
+
+      if (-1 !== url.search(REGEX_MD)) {
+        container.html(md.render(data));
+        container.removeClass('simple');
+      } else {
+        container.addClass('simple');
+        container.text(data);
+      }
+
+    });
 
   });
 
