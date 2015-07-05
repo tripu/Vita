@@ -5,8 +5,9 @@
 var REGEX_DIR  = /─\ (.+\/)$/igm,
     REGEX_FILE = /─\ ([^\<].+[^\>])$/igm,
     REGEX_MD   = /\.md$/igm,
-    REGEX_BASE = /tripu\.github\.io\/Vita/i,
-    NEW_BASE   = 'raw.githubusercontent.com/tripu/Vita/gh-pages';
+    REGEX_BASE = /tripu\.github\.io\/vita/i,
+    NEW_BASE   = 'raw.githubusercontent.com/tripu/Vita/gh-pages',
+    COMPLETE   = 'https://raw.githubusercontent.com/tripu/Vita/gh-pages/';
 
 // Vars:
 var md;
@@ -78,7 +79,8 @@ var showFile = function(event) {
     }
 
   }).fail(function() {
-    url = url.replace(REGEX_BASE, NEW_BASE);
+    // url = url.replace(REGEX_BASE, NEW_BASE);
+    url = COMPLETE + url;
 
     $.get(url, function(data) {
 
