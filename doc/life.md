@@ -21,7 +21,12 @@ Negative example: [TO-DO].
 * **People** around you, who are important to you, are the second most important thing.
 * Explicitely asserting **non–romantic #love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long—term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
 * **#Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
-* In most day–to–day situations, **#lying** is **bad** and shall be avoided. There are a number of circumstances, though, when lying is perfectly admisible — and even advisable. For instance, one shall not feel bad about lying to… [TO-DO]. Always telling the **#truth** is overrated.
+* In most day–to–day situations, **#lying** is **bad** and shall be avoided.
+There are a number of circumstances, though, when lying is perfectly admisible — and even advisable.
+Always telling the **#truth** is overrated.
+Few valid exceptions to this rule may be lying (or simply hiding part of the truth) to: children, mentally incapable adults, terminally ill patients.
+There are situations in which a *lack* of information is good for you.
+But those are the exception.
 * One shall take no **#offence** from sources one does not value or respect. If someone I despise call me a name, or tries to offend me, I can safely ignore them (as long as their public defamation or verbal violence doesn't actually affect my image or reputation).
 * One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news — it doesn't always need to trigger self–evaluation nor reflection, let alone guilt.
 
@@ -40,6 +45,12 @@ Avoid.
 ## Fashion
 * \#Fashion as such must be ignored, as long as doing so does not put you in such an outdated or ridiculous position
 as to severely damage your image, reputation or relevant expectations of people about you. #Trends and #memes not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely ignored, too.
+
+## Misc
+
+I do not have a definite opinion on many issues, and that is OK.
+I distrust those who never seem to doubt what side of the trench they're in.
+How is that even possible?
 
 # [To be classified]
 
