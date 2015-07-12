@@ -17,10 +17,10 @@ Obviously, the extreme of this is an oligarchy, or a dictatorship.
 I suspect there is a right &ldquo;amount of direct democracy&rdquo; somewhere along this spectrum.
 
 Hint: if the opposite were true, democracy would *always* be healthier when politicians choose to hold referenda (instead of letting public institutions
-decide; such as ministers, parliament, senate, technocrats, courts).
+decide; such as ministries, the parliament, the senate, technocrats, courts).
 In other words, the ideal would be to have citizens casting their votes constantly (or, say, every Sunday) on most topics.
 Given the rate at which criptography and mobile computing are progressing, that scenario seems feasible and affordable in the near future.
-Still, are we sure that form of government would be a good thing?
+Still, are we sure that form of government would be a good thing&hellip;?
 
 ## Economics
 
