@@ -35,7 +35,7 @@ Now we have that extra 10% of waste collectors, all performing at their peak, an
 
 The contradiction is clear.
 
-Every time you're tempted to protect a particular guild or model of business against the progress of the mindsets and technology,
+Every time you're tempted to protect a particular guild or model of business against the progress of the mindsets and technology, [TODO]
 
 ## Offshoring is good
 
@@ -44,9 +44,10 @@ Offshoring is, no doubt, good news for developing countries.
 
 If you choose to judge changes by a humanistic, non-chauvinistic light (as I think you should), you'll realise that the net gain of offshoring for *humanity*
 or *the society* (as opposed to this country, or that other country) is positive.
-Companies offshoring to cheaper countries is the ommunicating vessels of economy.
+Companies offshoring to cheaper countries are the communicating vessels of the (global) economy.
 
 That does not mean we should be OK with miserable working conditions, unfair wages, increases in pollution or child workers!
 But to use those arguments [TODO]
 
-Letting people migrate (or even getting rid of borders altogether) also [makes economic sense](http://www.theatlantic.com/business/archive/2015/10/get-rid-borders-completely/409501/)
+Letting people migrate (or even getting rid of borders altogether) also
+[makes economic sense](http://www.theatlantic.com/business/archive/2015/10/get-rid-borders-completely/409501/).
