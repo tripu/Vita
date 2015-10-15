@@ -1,4 +1,3 @@
-
 # Children: how to treat them well as parents
 
 ## General principles
@@ -35,5 +34,4 @@
 
 * Try to avoid the words **#guilt** and **#guilty**.
 
-* Down simplify language more than strictly necessary. There's no harm in being exposed to *real*, adult language since an early age. If anything, it'll push them to absorb ideas and words, and start using it earlier.
-
+* Do not simplify language more than strictly necessary. There's no harm in being exposed to *real*, adult language since an early age. If anything, it'll push them to absorb ideas and words, and start using it earlier.

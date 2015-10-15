@@ -1,4 +1,3 @@
-
 # What is important to me
 
 ## General principles, and making decisions
@@ -52,15 +51,28 @@ I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.
 How is that even possible?
 
+Stuff has value.
+That is easy to see with your car, your computer, your fancy coat: you value them, they cost you money.
+But I believe humble objects have value, too.
+A cheap pencil deserves &ldquo;respect&rdquo;, in a way.
+Discarding or breaking small objects, tools, food, gifts without a good reason is wrong.
+I can't argue well about this: I admit it's kind of spiritual, almost superstitious.
+I grew up hearing my parents express *love* for small things; especially things that have to do with knowledge, education, emotions, art.
+My parents would praise the simple value of a brand new notebook, a cheap book, a ballpen.
+Also, a pair of shoes that are worn-out and thus a bit ugly, but that precisely because of this fit you perfectly and are extremely comfortable.
+That kind of things.
+I try to honour the value of those small objects, to the extent that is reasonable.
+
 # [To be classified]
 
 * [Vemödalen](http://www.dictionaryofobscuresorrows.com/post/59306080288/vemodalen) haunts me. *&ldquo;The frustration of photographing something amazing when thousands of identical photos already exist--the same sunset, the same waterfall, the same curve of a hip, the same closeup of an eye--which can turn a unique subject into something hollow and pulpy and cheap.&rdquo;*
 
 * I believe radically in **free speech**.
 
+* I believe in strong transparency in the corporate worl, and within organisations (eg, sharing salaries among employees).
+
 ## References
 
 * [Buster Benson](https://github.com/busterbenson)'s [“Codex Vitae”](https://github.com/busterbenson/public/blob/master/Codex.md)
 (inspiration for this whole project)
 * [Sam Altman: &ldquo;The days are long but the decades are short&rdquo;](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
-
