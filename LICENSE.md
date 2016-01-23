@@ -1,3 +1,3 @@
+Copyright &copy; 2014&ndash;2016 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/))
 
-Copyright © 2013&mdas;2015 tripu [`tripu@tripu.info`](mailto:tripu@tripu.info) [`http://tripu.info`](http://tripu.info). All rights reserved.
-
+All rights reserved.
