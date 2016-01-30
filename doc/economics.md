@@ -8,6 +8,8 @@ Who misses night watchmen nowadays?
 Who misses physical travel agencies?
 How is the society worse off after the demise of those job occupations, and models of business?
 
+Sinecures are never good.
+
 *Reductio ad absurdum*: &ldquo;if unnecessary, redundant or low-productivity occupations were good for society because, well, they provide jobs, then making up
 pointless occupations would be sound economic policy&rdquo;.
 

@@ -21,9 +21,56 @@ In other words, the ideal would be to have citizens casting their votes constant
 Given the rate at which criptography and mobile computing are progressing, that scenario seems feasible and affordable in the near future.
 Still, are we sure that form of government would be a good thing&hellip;?
 
-### In general, the fewer laws, the better
+## In general, the fewer laws, the better
 
 That doesn't mean there should be no rules, nor that [TODO]
+
+## I believe in rules
+
+I reject authoritarianism, but I have realised that I place more value in **#laws** and **#rules** than most people.
+
+I usually need a convincing explanation for acts that go against the norms.
+That is why, *in principle*, I oppose such things as: squatting, *escraches*, non-authorised demonstrations or strikes, or resistance to evictions.
+
+That is not to say that I can't see the reasons behind, and the merits of, nonviolent civic resistance as a last resort, or against blatant injustice.
+But I think that some of those types of actions have got too far; or are applied too often, too happily, by crowds that don't stop to reflect about what they are
+doing.
+
+For me, this respect for rules manifests itself in other ways in day-to-day life, too.
+For example, I really can't understand why people litter on the street, smoke where it's forbidden, talk on their mobile phones where it's seen as very bad
+manners, etc.
+
+## Political stance(s)
+
+I guess I'm more or less either a **#liberal** or a **#libertarian**, although I don't know enough yet to be sure I identify fully with those movements.
+Socially, I'm liberal.
+Fiscally, I favour progressive, high taxes (of the sort you see nowadays in Scandinavian states).
+
+See the note at the bottom \[The Economist\].
+
+## On voting
+
+I used to think that **#voting** is a civic duty; that regardless of what you think of the main parties, of the voting system, of the form of
+state&nbsp;&mdash;&nbsp;voting is the way you express your ideas (if nothing else, at least by undervoting or casting a spoilt vote).
+
+More recently though, I have been reading some radical opinions about the rotten voting system, the actual plutocracy of state-sponsored parties, and the
+impossibility of changing &ldquo;the system&rdquo; from within, by acknowledging its rules and *voting*
+([Antonio Garc&iacute;a-Trevijano](https://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano),
+[John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)).
+
+Those readings coincided in time with the general elections of 2015 in Spain, whose aftermath was (for me) a disheartening display of hipocrisy, vanity,
+short-sightedness, lack of honest political discussion and the usual Spanish chauvinism.
+The results of the elections were polarising: recent popular discontent gave rise to two new parties in the left and in the right that had promised to clean up
+politics and reform the system.
+Some of those strong promises of honesty and renovation vanished a mere few weeks after the elections, during the discussions to form a coalition that could
+elect the new prime minister.
+At the same time, the traditionally hegemonic parties (one in the left, another one in the right), which suffered a backlash, struggled to stay relevant in the
+worst possible way: by dressing themselves as true reformists, adopting mindlessly the cheapest of political slogans, jumping in the wagon of political
+marketing.
+
+All that gave me thought.
+
+I now wonder if **not voting** might be the most responsible thing to do&hellip;&nbsp;at least in Spain.
 
 ## Useful references (but not necessarily 100% endorsed)
 
