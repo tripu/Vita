@@ -7,7 +7,7 @@
 Doing ***the right thing*** also when there's no-one looking.
 Complying with rules even when the global consequences of doing otherwise are negligible or debatable.
 Example: dodging a bit of your taxes.
-* The **merit of deeds** should be judged considering solely the information available **to that person** and **at the time decisions were made, or actions were taken** — never considering their consequences, to the extend that they were impossible to predict.
+* The **merit of deeds** should be judged considering solely the information available **to that person** and **at the time decisions were made, or actions were taken**&nbsp;&mdash;&nbsp;never considering their consequences, to the extent that they were impossible to predict.
 Positive example: someone all of a sudden spends all their life savings on lottery tickets, and they win the biggest prize in history. Their call to spend all their money in lottery was still dumb and absolutely wrong (as it always is). Regardless of that fantastic but hugely unlikely outcome.
 Negative example: [TO-DO].
 * The balance between justly boasting about your merits and staying always humble is difficult.
@@ -24,16 +24,16 @@ Negative example: [TO-DO].
 ## People
 
 * **People** around you, who are important to you, are the second most important thing.
-* Explicitely asserting **non–romantic #love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long—term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
+* Explicitely asserting **non–romantic #love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
 * **#Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
 * In most day–to–day situations, **#lying** is **bad** and shall be avoided.
-There are a number of circumstances, though, when lying is perfectly admisible — and even advisable.
+There are a number of circumstances, though, when lying is perfectly admisible&nbsp;&mdash;&nbsp;and even advisable.
 Always telling the **#truth** is overrated.
 Few valid exceptions to this rule may be lying (or simply hiding part of the truth) to: children, mentally incapable adults, terminally ill patients.
 There are situations in which a *lack* of information is good for you.
 But those are the exception.
 * One shall take no **#offence** from sources one does not value or respect. If someone I despise call me a name, or tries to offend me, I can safely ignore them (as long as their public defamation or verbal violence doesn't actually affect my image or reputation).
-* One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news — it doesn't always need to trigger self–evaluation nor reflection, let alone guilt.
+* One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news&nbsp;&mdash;&nbsp;it doesn't always need to trigger self–evaluation nor reflection, let alone guilt.
 * **When I see in other people habits or traits of personality that I despise**, sometimes it is because deep down I know I have that very same defect.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
 &ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerants with others and/or work on correcting that bad habit).
