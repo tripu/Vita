@@ -7,6 +7,6 @@ Idea borrowed from [Buster Benson](https://github.com/busterbenson)'s [&ldquo;Co
 
 ## Credits
 
-Copyright &copy; 2014&ndash;2016 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/))
+Copyright &copy; 2014&ndash;2016 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
 
 [All rights reserved](LICENSE.md).
