@@ -1,6 +1,15 @@
-# What is important to me
+# Life
 
-## General principles, and making decisions
+Or what is most important to me.
+
+1. [General principles, and making decisions](#1-General-principles,-and-making-decisions)
+1. [People](#2-People)
+1. [Debates](#3-Debates)
+1. [Fashion](#4-Fashion)
+1. [Miscellanea&nbsp;&mdash;&nbasp;to be classified](#5-Miscellanea&nbsp;&mdash;&nbasp;to-be-classified)
+1. [References](#6-References)
+
+## 1 General principles, and making decisions
 
 * The most important thing is your own **health**, **happiness** and **well-being**.
 * Weighing one's own **selfish interests** against abstract **moral principles** is one of the most tough tasks in life.
@@ -21,7 +30,7 @@ Negative example: [TO-DO].
 > *&ldquo;Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.&rdquo;*
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/todo.html).
 
-## People
+## 2 People
 
 * **People** around you, who are important to you, are the second most important thing.
 * Explicitely asserting **non–romantic #love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
@@ -38,7 +47,7 @@ But those are the exception.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
 &ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerants with others and/or work on correcting that bad habit).
 
-## Debates
+## 3 Debates
 
 * All #debates should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
 That's the goal.
@@ -50,11 +59,12 @@ Under such conditions, trying to debate is fruitless at best, and often frustrat
 Avoid.
 * Always apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity).
 
-## Fashion
+## 4 Fashion
+
 * \#Fashion as such must be ignored, as long as doing so does not put you in such an outdated or ridiculous position
 as to severely damage your image, reputation or relevant expectations of people about you. #Trends and #memes not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely ignored, too.
 
-## Misc
+## 5 Miscellanea&nbsp;&mdash;&nbasp;to be classified
 
 I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.
@@ -71,8 +81,6 @@ My parents would praise the simple value of a brand new notebook, a cheap book, 
 Also, a pair of shoes that are worn-out and thus a bit ugly, but that precisely because of this fit you perfectly and are extremely comfortable.
 That kind of things.
 I try to honour the value of those small objects, to the extent that is reasonable.
-
-## [To be classified]
 
 * *&ldquo;No est&aacute; dispuesto a que el &laquo;sonido ambiente&raquo; le haga confundir &laquo;lo actual con lo importante&raquo;.&rdquo;
 &ldquo;Yo me reservo el derecho a elegir mis intereses y mis debates sin que me los dicten otros, por obstinados que sean.
@@ -120,7 +128,7 @@ It is necessary a conscious effort to absorb new ideas that seem extravagant or 
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
 
-## References
+## 6 References
 
 * [Buster Benson](https://github.com/busterbenson)'s [“Codex Vitae”](https://github.com/busterbenson/public/blob/master/Codex.md)
 (inspiration for this whole project)
