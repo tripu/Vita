@@ -2,11 +2,11 @@
 
 What is most important to me.
 
-1. [General principles, and making decisions](#1-general-principles,-and-making-decisions).
+1. [General principles, and making decisions](#1-general-principles-and-making-decisions).
 1. [People](#2-people).
 1. [Debates](#3-debates).
 1. [Fashion](#4-fashion).
-1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#5-miscellaneanbaspto-be-classified).
+1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#5-miscellaneato-be-classified).
 1. [References](#6-references).
 
 ## 1 General principles, and making decisions

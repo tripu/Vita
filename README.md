@@ -15,7 +15,7 @@ that I find interesting as they cross my mind, appear on the page, or are uttere
 
 Bear in mind that this project is as personal as a public project can ever be.
 
-Did I mention already that the thoughts collected here are **personal** and **half-cooked**, a permanent **work-in-progress**?
+Did I mention already that the thoughts collected here are **personal** and **half-cooked**, a permanent **work in progress**?
 
 Anyway, here are some actions you can take if you find an error in my reasoning (of course there will be plenty of those), or if you are offended by some of my
 ideas:
@@ -26,10 +26,10 @@ ideas:
 ## Contents
 
 1. [Life: what is most important to me](life.md).
-1. [Parenting](parenting.md).
+1. [Parenting: how to treat children well](parenting.md).
 1. [Politics](politics.md).
 1. [Economics](economics.md).
-1. [Art (literature)](art.md).
+1. [Art (just a bit about literature for now)](art.md).
 
 ## Credits
 
