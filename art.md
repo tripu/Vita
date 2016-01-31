@@ -1,5 +1,8 @@
 # Art
 
+1. [Literature](#1-literature).
+  1. [What to read](#11-what-to-read).
+
 ## Literature
 
 ### What to read

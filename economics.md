@@ -1,6 +1,10 @@
 # Economics
 
-## Jobs aren't sacred
+1. [Jobs aren't sacred](#1-jobs-arent-sacred).
+  1. [Example](#11-example).
+1. [Offshoring is good](#2-offshoring-is-good).
+
+## 1 Jobs aren't sacred
 
 See the [*parable of the broken window*](https://en.wikipedia.org/wiki/Parable_of_the_broken_window).
 
@@ -13,7 +17,7 @@ Sinecures are never good.
 *Reductio ad absurdum*: &ldquo;if unnecessary, redundant or low-productivity occupations were good for society because, well, they provide jobs, then making up
 pointless occupations would be sound economic policy&rdquo;.
 
-### Example
+### 1 Example
 
 Imagine that more thoughtful citizens and technological progress make it possible to reduce the number of waste collectors by 10%, while keeping the
 same level of service.
@@ -39,7 +43,7 @@ The contradiction is clear.
 
 Every time you're tempted to protect a particular guild or model of business against the progress of the mindsets and technology, [TODO]
 
-## Offshoring is good
+## 2 Offshoring is good
 
 If you complain about a company taking its activity overseas (to cheaper markets), you are thinking primarily as a (privileged) inhabitant of the first world.
 Offshoring is, no doubt, good news for developing countries.
