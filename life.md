@@ -1,13 +1,13 @@
 # Life
 
-Or what is most important to me.
+What is most important to me.
 
-1. [General principles, and making decisions](#1-General-principles,-and-making-decisions)
-1. [People](#2-People)
-1. [Debates](#3-Debates)
-1. [Fashion](#4-Fashion)
-1. [Miscellanea&nbsp;&mdash;&nbasp;to be classified](#5-Miscellanea&nbsp;&mdash;&nbasp;to-be-classified)
-1. [References](#6-References)
+1. [General principles, and making decisions](#1-general-principles,-and-making-decisions).
+1. [People](#2-people).
+1. [Debates](#3-debates).
+1. [Fashion](#4-fashion).
+1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#5-miscellaneanbaspto-be-classified).
+1. [References](#6-references).
 
 ## 1 General principles, and making decisions
 
@@ -64,7 +64,7 @@ Avoid.
 * \#Fashion as such must be ignored, as long as doing so does not put you in such an outdated or ridiculous position
 as to severely damage your image, reputation or relevant expectations of people about you. #Trends and #memes not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely ignored, too.
 
-## 5 Miscellanea&nbsp;&mdash;&nbasp;to be classified
+## 5 Miscellanea&nbsp;&mdash;&nbsp;to be classified
 
 I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.
