@@ -3,9 +3,9 @@
 1. [Literature](#1-literature).
   1. [What to read](#11-what-to-read).
 
-## Literature
+## 1 Literature
 
-### What to read
+### 1.1 What to read
 
 Do not waste time on trendy best-sellers.
 Life is short, and [there are only so many books you can read](https://twitter.com/quintanapaz/status/648637741488566273).

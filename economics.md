@@ -17,7 +17,7 @@ Sinecures are never good.
 *Reductio ad absurdum*: &ldquo;if unnecessary, redundant or low-productivity occupations were good for society because, well, they provide jobs, then making up
 pointless occupations would be sound economic policy&rdquo;.
 
-### 1 Example
+### 1.1 Example
 
 Imagine that more thoughtful citizens and technological progress make it possible to reduce the number of waste collectors by 10%, while keeping the
 same level of service.
