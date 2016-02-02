@@ -23,7 +23,7 @@ Imagine that more thoughtful citizens and technological progress make it possibl
 same level of service.
 Some may think that it's bad news: *&ldquo;we should keeep those people on the payroll, and secure their jobs, for the greater good of society, and the
 economy as a whole&rdquo;*.
-In other words, they think that having 1000 waste collectors in the city is better, in the long run, than having only 900.
+In other words, they think that having 100 waste collectors in the city is better, in the long run, than having only 90.
 
 But if that were true, why stop there?
 Why not *increase* overnight the number of waste collectors by 10%?
@@ -34,10 +34,10 @@ What are those extra 10% of workers going to do anyway?
 With the current number the job is done OK!&rdquo;*
 
 No problem there.
-Just consider that our grandparents probably faced the same dilemma when petrol-powered trucks made waste-collection much more fast and efficient.
-They were reckless enough as to allow those machines take over the job of *people*.
-We can amend that error now: let's bring back horses and carts.
-Now we have that extra 10% of waste collectors, all performing at their peak, and getting the same job done.
+Just consider that our grandparents probably faced the same dilemma when petrol-powered trucks made waste-collection much faster and more efficient.
+Imagine&nbsp;&mdash;&nbsp;they were reckless enough to allow those *machines* take over the job of *people*.
+We can amend that error now: let's bring back horses and carts, which will decrease the productivity of the average waste collector.
+So now, to compensate that decrease in output, we can have that extra 10% of waste collectors, all performing at their peak, and getting the same job done.
 
 The contradiction is clear.
 

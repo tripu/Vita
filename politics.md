@@ -30,7 +30,9 @@ Still, are we sure that form of government would be a good thing&hellip;?
 
 ## 2 In general, the fewer laws, the better
 
-That doesn't mean there should be no rules, nor that [TODO]
+That does not mean that there should be *no* rules.
+It just means that the mere *existence* of a **#law** (formal prescription) or of a social norm (informal prescription) *needs justification*, and that the
+benefits of controlling, regulating or prohibiting certain aspect
 
 ## 3 I believe in rules
 
@@ -49,11 +51,26 @@ manners, etc.
 
 ## 4 Political stance(s)
 
-I guess I'm more or less either a **#liberal** or a **#libertarian**, although I don't know enough yet to be sure I identify fully with those movements.
-Socially, I'm liberal.
-Fiscally, I favour progressive, high taxes (of the sort you see nowadays in Scandinavian states).
+I am, more or less, a **#liberal** or a **#libertarian**, although I don't know enough yet to be sure I identify fully with those movements.
 
-See the note at the bottom \[The Economist\].
+* I am a liberal with respect to many/most typical **social issues** (gay rights, freedom of speech, euthanasia).
+* **Fiscally**, I favour progressive, &ldquo;high&rdquo; **#taxes** (of the sort you see nowadays in Scandinavian states).
+* I believe in free markets, and in capitalism.
+
+(For more about economics, see the note at the bottom \[The Economist\], and [&sect; Economics](economics.md).)
+
+Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
+contradictory.
+
+For example, in Spain in 2016, someone who defended gay rights and euthanasia, and opposed bullfighting (as I do), would be automatically assumed to be
+very suspicious of free markets, and an enemy of capitalism (which I am not).
+Today in the US, someone who is in favour of relatively high taxation and a welfare system (as I am) is probably seen as a *leftie* who would like the state to
+meddle with the corporate world to impose high minimum wages and establish quotas for women and other minorities (but I oppose that).
+
+Although I realise that this particular combination of views might not be very common, in reality I don't stumble upon contradictions between these different
+sets of beliefs that I hold.
+Or so I think.
+Let me know if you find holes in the reasonings I am sharing with you in these documents.
 
 ## 5 On voting
 
