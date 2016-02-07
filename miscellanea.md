@@ -10,9 +10,9 @@ We don't stop to think that we ourselves are &ldquo;rich&rdquo; for other people
 
 An example:
 In my particular case, right now (2016), I would call &ldquo;rich&rdquo; those who:
-* earn more than &eur;70,000 a year,
-* buy a car that cost &eur;30,000 or more,
-* pay more than &eur;100 a month for a gym subscription,
+* earn more than &euro;70,000 a year,
+* buy a car that cost &euro;30,000 or more,
+* pay more than &euro;100 a month for a gym subscription,
 * or stay at five-star hotels more often than exceptionally when they travel.
 These might be some approximate definitions for &ldquo;rich, lucky, posh, spoilt&rdquo; for me, because those are all things I don't own/do.
 

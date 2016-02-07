@@ -31,12 +31,12 @@ Still, are we sure that form of government would be a good thing&hellip;?
 ## 2 In general, the fewer laws, the better
 
 That does not mean that there should be *no* rules.
-It just means that the mere *existence* of a **#law** (formal prescription) or of a social norm (informal prescription) *needs justification*, and that the
+It just means that the mere *existence* of a :triangular_flag_on_post:**law** (formal prescription) or of a social norm (informal prescription) *needs justification*, and that the
 benefits of controlling, regulating or prohibiting certain aspect *have* to outweigh the benefits of not interfering with it.
 
 ## 3 I believe in rules
 
-I reject authoritarianism, but I have realised that I place more value in **#laws** and **#rules** than most people.
+I reject authoritarianism, but I have realised that I place more value in :triangular_flag_on_post:**laws** and :triangular_flag_on_post:**rules** than most people.
 
 I usually need a convincing explanation for acts that go against the norms.
 That is why, *in principle*, I oppose such things as: squatting, *escraches*, non-authorised demonstrations or strikes, or resistance to evictions.
@@ -51,13 +51,13 @@ manners, etc.
 
 ## 4 Political stance(s)
 
-I am, more or less, a **#liberal** or a **#libertarian**, although I don't know enough yet to be sure I identify fully with those movements.
+I am, more or less, a :triangular_flag_on_post:**liberal** or a :triangular_flag_on_post:**libertarian**, although I don't know enough yet to be sure I identify fully with those movements.
 
-* I am a liberal with respect to many/most typical **social issues** (gay rights, freedom of speech, euthanasia).
-* **Fiscally**, I favour progressive, &ldquo;high&rdquo; **#taxes** (of the sort you see nowadays in Scandinavian states).
+* I am a liberal with respect to many/most typical :triangular_flag_on_post:**social issues** (gay rights, freedom of speech, euthanasia).
+* **Fiscally**, I favour progressive, &ldquo;high&rdquo; :triangular_flag_on_post:**taxes** (of the sort you see nowadays in Scandinavian states).
 * I believe in free markets, and in capitalism.
 
-(For more about economics, see the note at the bottom \[The Economist\], and [&sect; Economics](economics.md).)
+(For more about economics, see the note at the bottom \[The Economist\], and :point_right:[economics](economics.md).)
 
 Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
 contradictory.
@@ -74,7 +74,7 @@ Let me know if you find holes in the reasonings I am sharing with you in these d
 
 ## 5 On voting
 
-I used to think that **#voting** is a civic duty; that regardless of what you think of the main parties, of the voting system, of the form of
+I used to think that :triangular_flag_on_post:**voting** is a civic duty; that regardless of what you think of the main parties, of the voting system, of the form of
 state&nbsp;&mdash;&nbsp;voting is the way you express your ideas (if nothing else, at least by undervoting or casting a spoilt vote).
 
 More recently though, I have been reading some radical opinions about the rotten voting system, the actual plutocracy of state-sponsored parties, and the

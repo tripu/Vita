@@ -25,23 +25,25 @@ Negative example: [TO-DO].
 * Always remember that you tend to idealise the **past**.
 
 > *&ldquo;Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short.&rdquo;*
+
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/vb.html).
 
 > *&ldquo;Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.&rdquo;*
+
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/todo.html).
 
 ## 2 People
 
 * **People** around you, who are important to you, are the second most important thing.
-* Explicitely asserting **non–romantic #love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
-* **#Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
-* In most day–to–day situations, **#lying** is **bad** and shall be avoided.
+* Explicitely asserting :triangular_flag_on_post:**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
+* :triangular_flag_on_post:**Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
+* In most day–to–day situations, :triangular_flag_on_post:**lying** is **bad** and shall be avoided.
 There are a number of circumstances, though, when lying is perfectly admisible&nbsp;&mdash;&nbsp;and even advisable.
-Always telling the **#truth** is overrated.
+Always telling the :triangular_flag_on_post:**truth** is overrated.
 Few valid exceptions to this rule may be lying (or simply hiding part of the truth) to: children, mentally incapable adults, terminally ill patients.
 There are situations in which a *lack* of information is good for you.
 But those are the exception.
-* One shall take no **#offence** from sources one does not value or respect. If someone I despise call me a name, or tries to offend me, I can safely ignore them (as long as their public defamation or verbal violence doesn't actually affect my image or reputation).
+* One shall take no :triangular_flag_on_post:**offence** from sources one does not value or respect. If someone I despise call me a name, or tries to offend me, I can safely ignore them (as long as their public defamation or verbal violence doesn't actually affect my image or reputation).
 * One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news&nbsp;&mdash;&nbsp;it doesn't always need to trigger self–evaluation nor reflection, let alone guilt.
 * **When I see in other people habits or traits of personality that I despise**, sometimes it is because deep down I know I have that very same defect.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
@@ -49,7 +51,7 @@ I'll do well if I stop and reflect honestly when I detect those unpleasant behav
 
 ## 3 Debates and discussing with people
 
-* All **#debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
+* All :triangular_flag_on_post:**debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
 That's the goal.
 Everything else is a colourful wrapping.
 * Too often, the environment isn't appropriate for a debate: loud noise, big egos, bad manners, haste and the lack of a minimum conceptual base to start with
@@ -66,9 +68,9 @@ Avoid.
 
 ## 4 Fashion
 
-* **#Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
+* :triangular_flag_on_post:**Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
 reputation or relevant expectations of people about you.
-**#Trends** and **#memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
+:triangular_flag_on_post:**Trends** and :triangular_flag_on_post:**memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
 ignored, too.
 
 ## 5 Miscellanea&nbsp;&mdash;&nbsp;to be classified
@@ -122,7 +124,7 @@ those coming from parents.
 (Yes, we can recognise the value of personal experiences; but when we're discussing statistics, averages, tradeoffs for society, etc, *your* experience raising
 *your* child or children is merely an anecdote.)
 
-* Forming (informed) **#opinions** about hard questions is a long and ardous task&nbsp;&mdash;&nbsp;but also a fun one, and intellectually rewarding.
+* Forming (informed) :triangular_flag_on_post:**opinions** about hard questions is a long and ardous task&nbsp;&mdash;&nbsp;but also a fun one, and intellectually rewarding.
 Don't settle for the first opinion that sounds convincing (let alone comforting) about anything important; discovering the truth takes many reads, and opening
 the mind to views that initially might seem absurd or even repulsive.
 
@@ -131,7 +133,7 @@ Our friends tend to think similar to us.
 Our readings tend to enforce our views (be it fiction, essays or the news).
 It is necessary a conscious effort to absorb new ideas that seem extravagant or dissenting.
 
-* **#Envy** and **#nostalgia** are probably the two negative thoughts that affect me most often.
+* :triangular_flag_on_post:**Envy** and :triangular_flag_on_post:**nostalgia** are probably the two negative thoughts that affect me most often.
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
 

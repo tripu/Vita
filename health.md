@@ -5,7 +5,7 @@
 ### Taxonomy
 
 The judicial distinction between &ldquo;legal&rdquo; and &ldquo;illegal&rdquo; drugs is man-made, partial and rather arbitrary.
-To conduct a discussion about **#drugs** in a productive and honest way, we need to remove that boundary.
+To conduct a discussion about :triangular_flag_on_post:**drugs** in a productive and honest way, we need to remove that boundary.
 
 It seems that legal alcohol and legal tobacco can be as addictive and harmful, if not more, than cannabis, mushrooms or even cocaine.
 
