@@ -32,7 +32,7 @@ Still, are we sure that form of government would be a good thing&hellip;?
 
 That does not mean that there should be *no* rules.
 It just means that the mere *existence* of a **#law** (formal prescription) or of a social norm (informal prescription) *needs justification*, and that the
-benefits of controlling, regulating or prohibiting certain aspect
+benefits of controlling, regulating or prohibiting certain aspect *have* to outweigh the benefits of not interfering with it.
 
 ## 3 I believe in rules
 

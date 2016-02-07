@@ -6,23 +6,23 @@ My own universe's how-to, life's user manual, instructions to navigate the Earth
 
 I use this public repository as a notepad for a very broad variety of **rough ideas** and **personal musings**.
 
-I like to reflect on lots of subjects (as do most other human beings, I would presume).
-Apart from the universal interests (life, love, the pursuit of happiness, financial planning, etc), there are some specific subjects that I find fascinating
+I like to reflect on lots of subjects (as do most other human beings, I would presume), talk about them with others, and learn from other people.
+Apart from the universal interests (life, meaning, love, happiness, etc), there are some specific subjects that I find fascinating
 (philosophy, ethics, politics, economics, gender issues, technology, books&nbsp;&mdash;&nbsp;among others).
 As I go on living my life, reading, travelling, growing up, meeting people and talking to individuals I love or admire, I try to capture particular thoughts
 that I find interesting as they cross my mind, appear on the page, or are uttered by someone else.
 
 Usually, I feel that these ideas are not fit for other formats (essays, blog posts) for three reasons:
-* These ideas are **too broad in their scope**: I want to ramble about any subject as it crosses my mind.
-* At the same time, these ideas are **small**: I feel like I couldn't fill more than one page or two talking about my views on some important aspect of life
-  *and be original*.
-  I can express most of these thoughs in a very succint way, and that's enough (&ldquo;I think *X* is important&rdquo;, &ldquo;I don't believe in *Y*&rdquo;,
-  &ldquo;I shall *Z* every morning if I want to stay healthy and live long&rdquo;).
+* These ideas are **too broad in their scope**: I ramble about any subject as it crosses my mind, as long as I find it relevant/interesting enough.
+* At the same time, these ideas are **small**: most of the times, I feel like I couldn't fill more than one page or two talking about my views on some important
+  aspect of life *and be original*.
+  I can express most of these thoughs in a very succint way, and that's enough (&ldquo;I think *X* is really important&rdquo;, &ldquo;I don't believe in
+  *Y*&rdquo;, &ldquo;I shall *Z* every morning if I want to stay healthy and live long&rdquo;).
 * These ideas are **half-cooked** (because I'm alive, changing my mind, feeling silly), and therefore not ripe to share with the world in a formal way, with a
-  minimum level of confidence.
+  minimum level of confidence in what I'm saying.
 
 So I think a *digital scratchpad* like this repository is the perfect container.
-Git is a version-control system; designed to handle stuff that needs to be changed, fixed and reworked permanently; with the ability to *travel in time* to look
+Git is a version-control system; designed to handle stuff that needs to be changed, fixed and reworked permanently; with the ability to *travel in time* to see
 anything as it was at some point in the past&hellip;
 That is exactly what I need for these thoughts.
 
@@ -41,10 +41,16 @@ ideas:
 ## Contents
 
 1. [Life: what is most important to me](life.md).
-1. [Parenting: how to treat children well](parenting.md).
+1. [Ethics](ethics.md).
+1. [Logic](logic.md).
 1. [Politics](politics.md).
+1. [Science](science.md).
+1. [Health](health.md).
 1. [Economics](economics.md).
+1. [Gender](gender.md).
+1. [Parenting: how to treat children well](parenting.md).
 1. [Art (just a bit about literature for now)](art.md).
+1. [Miscellanea](miscellanea.md).
 
 ## Credits
 

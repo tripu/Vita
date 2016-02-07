@@ -4,7 +4,7 @@ What is most important to me.
 
 1. [General principles, and making decisions](#1-general-principles-and-making-decisions).
 1. [People](#2-people).
-1. [Debates and discussiong with people](#3-debates-and-discussiong-with-people).
+1. [Debates and discussing with people](#3-debates-and-discussing-with-people).
 1. [Fashion](#4-fashion).
 1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#5-miscellaneato-be-classified).
 1. [References](#6-references).
@@ -47,7 +47,7 @@ But those are the exception.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
 &ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerants with others and/or work on correcting that bad habit).
 
-## 3 Debates and discussiong with people
+## 3 Debates and discussing with people
 
 * All **#debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
 That's the goal.
@@ -58,14 +58,15 @@ Under such conditions, trying to debate is fruitless at best, and often frustrat
 Avoid.
 * Always apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity).
 * It makes no sense to talk about the &ldquo;winner&rdquo; of a debate.
-* It is absurd when people say things like *&ldquo;I know that's how things are; and no matter what you say, I won't change my mind!&rdquo;* or *&ldquo;I don't
-  care what you say or what your arguments are; you're never going to convince me!&rdquo;*.
-  That idea *alone* disqualifies anyone in a rational discussion; it is much worse than using an *ad hominem* argument, or wielding faulty logic.
+* It is absurd when people say things like *&ldquo;I know what is true; and no matter what you say, I won't change my mind!&rdquo;* or *&ldquo;I don't care what
+  you say or what your arguments are; you're never going to convince me!&rdquo;*.
+  That approach to discussion *alone* disqualifies anyone in a rational discussion; it is much worse than using an *ad hominem* argument, or wielding faulty
+  logic.
   Never say that (and never *think* that).
 
 ## 4 Fashion
 
-* **#Fashion** as can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
+* **#Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
 reputation or relevant expectations of people about you.
 **#Trends** and **#memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
 ignored, too.
