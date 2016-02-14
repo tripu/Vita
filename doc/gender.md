@@ -1,6 +1,16 @@
-# Men and women
+# Gender
 
-## General thoughts
+Men and women.
+
+1. [General thoughts](#1-general-thoughts).
+1. [Am I a feminist?](#2-am-i-a-feminist)
+1. [What I think feminism gets wrong](#3-what-i-think-feminism-gets-wrong).
+1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#4-rape-culture-trigger-warnings-microaggressions).
+1. [The use of language](#5-the-use-of-language).
+1. [On taking offence](#6-on-taking-offence).
+1. [The situation of men in secular, liberal democracies](#7-the-situation-of-men-in-secular-liberal-democracies).
+
+## 1. General thoughts
 
 When discussing gender roles, feminism, sexism, etc, I think that the **setting** is extremely important (and that is the first thing that should be agreed upon
 by everyone participating on a debate).
@@ -16,8 +26,8 @@ But I oppose feminism (classical or otherwise) in all places where *any* of thes
 * Where those disadvantages are, at the present time, being overcome at a rapid pace and increasingly condemned by public opinion.
 * Where women are favoured over men overall.
 
-## Am I a feminist?
-
+## 2. Am I a feminist?
+n
 As I said above, it depends *where*.
 
 In places where women are unjustly oppressed, I am a feminist.
@@ -32,6 +42,8 @@ I sincerely don't know.
 My knee-jerk reaction is to say: &ldquo;No. Of course not.&rdquo;
 Why would *anyone* want to align themselves with any movement that favours one portion of society over another, starting *right from the name of the movement
 itself*?
+
+## 3. What I think feminism gets wrong
 
 The aspects of modern mainstream feminism that I may agree with are mostly inheritance of older, less exclusive philosophies: humanism, englightenment,
 secularism, egalitarianism, liberalism&hellip;
@@ -53,47 +65,50 @@ Those negative aspects, by they way, would be:
 * Classism (&ldquo;white middle-class women&rdquo;).
 * Racism (*Id.*).
 * Contempt for science; in particular for biology and evolutionary psychology.
-  Negation any innate differences between men and women with regards to their objects of interests, priorities in life, instincts, abilities, thought patterns
-  and behaviours.
-  Negation of the existence of a &ldquo;male brain&rdquo; and a &ldquo;female brain&rdquo;.
+  Negation of any innate differences between men and women with regards to their objects of interests, priorities in life, instincts, abilities, thought
+  patterns and behaviours.
+  Hypocritical negation of the existence of a &ldquo;male brain&rdquo; and a &ldquo;female brain&rdquo; when that suits some naively egalitarian agenda, and at
+  the same time appeals to the inherent evil/inferior/violent/selfish nature of the male psyche and the gentle/mature/compassionate/refined attributes of the
+  female one.
 * Behaviourism, when they so much defend the theory of the &ldquo;tabula rasa&rdquo; against all odds (related to the one above).
 * Hostility towards sex.
   Simplistic, unrealistic analyses of prostitution and pornography.
-  Their troubled relationship with the ideas of beauty, feminity, sexiness, attractiveness.
+  Unilateral and radical framing of abortion, as a
+  Their troubled relationship with the ideas of beauty, feminity, sexiness, attractiveness, lust.
 * Moral relativism (eg, in some disturbing and conflicting views on the *hijab*, the *burqa*, female genital mutilation).
 * Misplacement of the focus towards the insignificant (eg, innocuous peculiarities in human languages, quaint &ldquo;gentlemanly&rdquo; habits, *bona fide*
-  comments or praise).
+  comments or praise from men towards women).
 * Political correctness.
 
-I sympathise with many of the opinions of the self-proclaimed :triangular_flag_on_post:**Camille Paglia**.
+I sympathise with many of the opinions of the self-proclaimed feminist :bust_in_silhouette:**Camille Paglia**.
 She is on record since the early nineties at least (probably before) fericiously attacking the same set of bogus tenets that are so alarming today.
 See [this interview from 1992](https://www.youtube.com/watch?v=sIomA2MQNI4).
 
-More recently, I like the views of :triangular_flag_on_post:**Christina Hoff Sommers** and a few other &ldquo;alternative feminists&rdquo;.
+More recently, I like the views of :bust_in_silhouette:**Christina Hoff Sommers** and a few other &ldquo;alternative feminists&rdquo;.
 
-The existence of some misogynistic, regressive, apologetic types (:triangular_flag_on_post:**Mike Buchanan**) and those hateful so-called &ldquo;pick-up
-artists&rdquo; (:triangular_flag_on_post:**Julien Blanc**, :triangular_flag_on_post:**Roosh Valizadeh**) is a disgrace for those of us who are criticising
+The existence of some misogynistic, regressive, apologetic types (:bust_in_silhouette:**Mike Buchanan**) and those hateful so-called &ldquo;pick-up
+artists&rdquo; (:bust_in_silhouette:**Julien Blanc**, :bust_in_silhouette:**Roosh Valizadeh**) is a disgrace for those of us who are criticising
 feminism in a serious, constructive way.
 Those guys often *do* have a point when they talk about sexism affecting men too, and about biological differences between men and women playing a huge role.
 Also, it is refreshing that they speak frankly about sex and about working on techniques to get sex from women, changing their behaviour and what they say to
-those women (there is nothing immoral in wanting sex&nbsp;&mdash;&nbsp;and just sex&nbsp;&mdash;&nbasp;from another person; and there is nothing immoral about
+those women (there is nothing immoral in wanting sex&nbsp;&mdash;&nbsp;and just sex&nbsp;&mdash;&nbsp;from another person; and there is nothing immoral about
 modulating our demeanour and *not* disclosing our real thoughts and intentions in order to get other people to like us, be nicer to us and do things for
 us&nbsp;&mdash;&nbsp;we do it all the time).
 But it is clear by listening to them, and by reading what they write on the internet, that most of them also harbour really immoral attitudes towards women;
 misogynistic, degrading, at times bordering on the violent.
 
-## &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
+## 4. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
 
 \[Pending.\]
 
-## The use of language
+## 5. The use of language
 
 \[Pending.\]
 
-## On taking offence
+## 6. On taking offence
 
 \[Pending.\]
 
-## The situation of men in secular, liberal democracies
+## 7. The situation of men in secular, liberal democracies
 
 \[Pending.\]

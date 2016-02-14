@@ -4,8 +4,9 @@ My own universe's how-to, life's user manual, instructions to navigate the Earth
 
 1. [Introduction](#1-introduction).
 1. [Note to the casual reader](#2-note-to-the-casual-reader).
-1. [Introduction](#2-).
-1. [Introduction](#3-).
+1. [Index](#2-index).
+1. [Conventions used in the text](#3-conventions-used-in-the-text).
+1. [Credits](#3-credits).
 
 ## 1. Introduction
 
@@ -31,7 +32,7 @@ Git is a version-control system; designed to handle stuff that needs to be chang
 anything as it was at some point in the past&hellip;
 That is exactly what I need for these thoughts.
 
-Bear in mind that this project is as personal as a public project can ever be.
+Bear in mind **that this project is as personal as a public project can ever be**.
 
 (Needless to say, I'm stopping short of disclosing *really intimate thoughts* here.)
 
@@ -60,13 +61,15 @@ ideas:
 1. [Art (just a bit about literature for now)](doc/art.md#art).
 1. [Miscellanea](doc/miscellanea.md#miscellanea).
 
-## 4. Conventions in the text
+## 4. Conventions used in the text
 
-* There is a separate section with [footnotes](doc/footnotes.md#footnotes), which are referenced throughout the text.
-* **Key terms** (ideas, topics, people, works) appear **in bold**.
-  * **Ideas and subjects** are preceded by :bulb: (look for `:bulb:` in the raw text).
-  * **Names of people** are preceded by :bust_in_silhouette: (look for `:bust_in_silhouette:` in the raw text).
-  * **References** to footnotes, or to other sections in the text, are preceded by :point_right: (look for `:point_right:` in the raw text).
+There is a separate section for all [**footnotes**](doc/footnotes.md#footnotes), which are referenced throughout the text.
+
+**Key terms** (ideas, topics, people, works) appear **in bold**.
+
+* **Ideas and subjects** are preceded by :bulb: (look for `:bulb:` in the raw text).
+* **Names of people** are preceded by :bust_in_silhouette: (look for `:bust_in_silhouette:` in the source).
+* **References** to footnotes, or to other parts of the text, are preceded by :point_right: (look for `:point_right:` in the source).
 
 ## 5. Credits
 
