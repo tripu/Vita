@@ -45,6 +45,7 @@ ideas:
 1. [Logic](logic.md).
 1. [Politics](politics.md).
 1. [Science](science.md).
+1. [Tech](tech.md).
 1. [Health](health.md).
 1. [Economics](economics.md).
 1. [Gender](gender.md).
