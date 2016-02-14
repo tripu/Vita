@@ -2,7 +2,12 @@
 
 My own universe's how-to, life's user manual, instructions to navigate the Earth, tips for tripu, notes to self.
 
-## Note to the casual reader
+1. [Introduction](#1-introduction).
+1. [Note to the casual reader](#2-note-to-the-casual-reader).
+1. [Introduction](#2-).
+1. [Introduction](#3-).
+
+## 1. Introduction
 
 I use this public repository as a notepad for a very broad variety of **rough ideas** and **personal musings**.
 
@@ -30,6 +35,8 @@ Bear in mind that this project is as personal as a public project can ever be.
 
 (Needless to say, I'm stopping short of disclosing *really intimate thoughts* here.)
 
+## 2. Note to the casual reader
+
 Did I mention already that the thoughts collected here are **personal** and **temporary**, a permanent **work in progress**?
 
 Anyway, here are some actions you can take if you find an error in my reasoning (of course there will be plenty of those), or if you are offended by some of my
@@ -38,22 +45,30 @@ ideas:
 * Stay outraged, refuse to apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity) and label me as you please.
 * Grow up.
 
-## Contents
+## 3. Index
 
-1. [Life: what is most important to me](life.md).
-1. [Ethics](ethics.md).
-1. [Logic](logic.md).
-1. [Politics](politics.md).
-1. [Science](science.md).
-1. [Tech](tech.md).
-1. [Health](health.md).
-1. [Economics](economics.md).
-1. [Gender](gender.md).
-1. [Parenting: how to treat children well](parenting.md).
-1. [Art (just a bit about literature for now)](art.md).
-1. [Miscellanea](miscellanea.md).
+1. [Life: what is most important to me](doc/life.md#life).
+1. [Ethics](doc/ethics.md#ethics).
+1. [Logic](doc/logic.md#logic).
+1. [Politics](doc/politics.md#politics).
+1. [Science](doc/science.md#science).
+1. [Tech](doc/tech.md#tech).
+1. [Health](doc/health.md#health).
+1. [Economics](doc/economics.md#economics).
+1. [Gender](doc/gender.md#gender).
+1. [Parenting: how to treat children well](doc/parenting.md#parenting).
+1. [Art (just a bit about literature for now)](doc/art.md#art).
+1. [Miscellanea](doc/miscellanea.md#miscellanea).
 
-## Credits
+## 4. Conventions in the text
+
+* There is a separate section with [footnotes](doc/footnotes.md#footnotes), which are referenced throughout the text.
+* **Key terms** (ideas, topics, people, works) appear **in bold**.
+  * **Ideas and subjects** are preceded by :bulb: (look for `:bulb:` in the raw text).
+  * **Names of people** are preceded by :bust_in_silhouette: (look for `:bust_in_silhouette:` in the raw text).
+  * **References** to footnotes, or to other sections in the text, are preceded by :point_right: (look for `:point_right:` in the raw text).
+
+## 5. Credits
 
 The idea for this project is borrowed from [Buster Benson](https://github.com/busterbenson)'s
 [&ldquo;Codex Vitae&rdquo;](https://github.com/busterbenson/public/blob/master/Codex.md), to whom&nbsp;&mdash;&nbsp;hat tip!
