@@ -4,9 +4,9 @@ My own universe's how-to, life's user manual, instructions to navigate the Earth
 
 1. [Introduction](#1-introduction).
 1. [Note to the casual reader](#2-note-to-the-casual-reader).
-1. [Index](#2-index).
-1. [Conventions used in the text](#3-conventions-used-in-the-text).
-1. [Credits](#3-credits).
+1. [Index](#3-index).
+1. [Conventions used in the text](#4-conventions-used-in-the-text).
+1. [Credits](#5-credits).
 
 ## 1. Introduction
 
@@ -63,7 +63,7 @@ ideas:
 
 ## 4. Conventions used in the text
 
-There is a separate section for all [**footnotes**](doc/footnotes.md#footnotes), which are referenced throughout the text.
+There is a separate section for all [&#8251;&nbsp;**footnotes**](doc/footnotes.md#footnotes), which are referenced throughout the text.
 
 **Key terms** (ideas, topics, people, works) appear **in bold**.
 

@@ -27,7 +27,7 @@ But I oppose feminism (classical or otherwise) in all places where *any* of thes
 * Where women are favoured over men overall.
 
 ## 2. Am I a feminist?
-n
+
 As I said above, it depends *where*.
 
 In places where women are unjustly oppressed, I am a feminist.

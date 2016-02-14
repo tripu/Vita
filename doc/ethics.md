@@ -2,10 +2,10 @@
 
 1. [In short](#1-in-short).
   1. [Things I believe in](#11-things-i-believe-in).
-  1. [Thigs I'm not sure about](#12-things-im-not-sure-about).
+  1. [Things I'm not sure about](#12-things-im-not-sure-about).
     1. [Gays adopting children](#121-gays-adopting-children).
     1. [Free abortion](#122-free-abortion).
-  1. [Thigs I oppose](#13-things-i-oppose).
+  1. [Things I oppose](#13-things-i-oppose).
 1. [&ldquo;Immoral by proxy&rdquo;](#2-immoral-by-proxy).
 
 ## 1. In short
@@ -17,7 +17,7 @@
 * Other forms of :triangular_flag_on_post:**love**.
 * :triangular_flag_on_post:**Gay marriage** (and any &ldquo;right&rdquo; that puts disadvantaged minorities *on par* with other members of society).
 * Radical :triangular_flag_on_post:**euthanasia** (apart from not processing doctors nor relatives who assist in a suicide, the State should actively help those who *really* want to
-  end their lives, but who cannot do that by themselves :point_right:[1](footnotes.md#1)).
+  end their lives, but who cannot do that by themselves :point_right:[&#8251;1](footnotes.md#1)).
 
 ### 1.2 Things I'm not sure about
 

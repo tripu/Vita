@@ -57,7 +57,7 @@ I am, more or less, a :triangular_flag_on_post:**liberal** or a :triangular_flag
 * **Fiscally**, I favour progressive, &ldquo;high&rdquo; :triangular_flag_on_post:**taxes** (of the sort you see nowadays in Scandinavian states).
 * I believe in free markets, and in capitalism.
 
-(For more about economics, see the note at the bottom \[The Economist\], and :point_right:[economics](economics.md).)
+(For more about economics, see the note at the bottom \[The Economist\], and :point_right:[economics](economics.md#economics).)
 
 Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
 contradictory.

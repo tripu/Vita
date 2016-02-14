@@ -1,6 +1,6 @@
 # Footnotes
 
-## 1
+## 1.
 
 > *&ldquo;It is, perhaps, hardly necessary to say that this doctrine is meant to apply only to human beings in the maturity of their faculties.
   We are not speaking of children, or of young persons below the age which the law may fix as that of manhood or womanhood.

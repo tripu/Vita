@@ -9,7 +9,7 @@ What is most important to me.
 1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#5-miscellaneato-be-classified).
 1. [References](#6-references).
 
-## 1 General principles, and making decisions
+## 1. General principles, and making decisions
 
 * The most important thing is your own **health**, **happiness** and **well-being**.
 * Weighing one's own **selfish interests** against abstract **moral principles** is one of the most tough tasks in life.
@@ -32,7 +32,7 @@ Negative example: [TO-DO].
 
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/todo.html).
 
-## 2 People
+## 2. People
 
 * **People** around you, who are important to you, are the second most important thing.
 * Explicitely asserting :triangular_flag_on_post:**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
@@ -49,7 +49,7 @@ But those are the exception.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
 &ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerants with others and/or work on correcting that bad habit).
 
-## 3 Debates and discussing with people
+## 3. Debates and discussing with people
 
 * All :triangular_flag_on_post:**debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
 That's the goal.
@@ -66,14 +66,14 @@ Avoid.
   logic.
   Never say that (and never *think* that).
 
-## 4 Fashion
+## 4. Fashion
 
 * :triangular_flag_on_post:**Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
 reputation or relevant expectations of people about you.
 :triangular_flag_on_post:**Trends** and :triangular_flag_on_post:**memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
 ignored, too.
 
-## 5 Miscellanea&nbsp;&mdash;&nbsp;to be classified
+## 5. Miscellanea&nbsp;&mdash;&nbsp;to be classified
 
 I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.
@@ -94,6 +94,7 @@ I try to honour the value of those small objects, to the extent that is reasonab
 * *&ldquo;No est&aacute; dispuesto a que el &laquo;sonido ambiente&raquo; le haga confundir &laquo;lo actual con lo importante&raquo;.&rdquo;
 &ldquo;Yo me reservo el derecho a elegir mis intereses y mis debates sin que me los dicten otros, por obstinados que sean.
 No tengo por qu&eacute; tomar posici&oacute;n s&oacute;lo porque me lo pida quien m&aacute;s ruido hace.&rdquo;*
+
 &mdash;&nbsp;[Javier Gom&aacute;, on an interview](http://www.elespanol.com/enfoques/20151107/77492262_0.html).
 
 * *Vem&ouml;dalen* haunts me ([link](http://www.dictionaryofobscuresorrows.com/post/59306080288/vemodalen),
@@ -137,7 +138,7 @@ It is necessary a conscious effort to absorb new ideas that seem extravagant or 
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
 
-## 6 References
+## 6. References
 
 * [Buster Benson](https://github.com/busterbenson)'s [“Codex Vitae”](https://github.com/busterbenson/public/blob/master/Codex.md)
 (inspiration for this whole project)

@@ -1,8 +1,13 @@
 # Science
 
-## In short
+1. [In short](#1-in-short).
+  1. [Things I believe in](#11-things-i-believe-in).
+  1. [Things I deem possible, or reasonable](#12-things-i-deem-possible-or-reasonable).
+  1. [What I think is bollocks](#13-what-i-think-is-bollocks).
 
-### Things I believe in
+## 1. In short
+
+### 1.1 Things I believe in
 
 * Science.
 * Rationality.
@@ -11,14 +16,14 @@
 * Placebo effect.
 * The power of suggestion.
 
-### Things I deem possible, or reasonable
+### 1.2 Things I deem possible, or reasonable
 
 * Extra-terrestrial life (but for now there's no evidence).
 * Extra-terrestrial intelligence (but for now there's no evidence).
 * Extra-terrestrial intelligence visiting Earth (but for now there's no evidence).
 * Multiverses.
 
-### What I think is bollocks
+### 1.3 What I think is bollocks
 
 * The &ldquo;paranormal&rdquo;.
   * Ghosts.
