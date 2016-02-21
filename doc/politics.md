@@ -82,21 +82,23 @@ manners, etc.
 
 ## 4. Political stance(s)
 
-I am, more or less, a :triangular_flag_on_post:**liberal** or a :triangular_flag_on_post:**libertarian**, although I don't know enough yet to be sure I identify fully with those movements.
+I am, more or less, a :triangular_flag_on_post:**liberal** or a :triangular_flag_on_post:**libertarian**, although I don't know enough yet to be sure I identify
+fully with those movements.
 
 * I am a liberal with respect to many/most typical :triangular_flag_on_post:**social issues** (gay rights, freedom of speech, euthanasia).
 * **Fiscally**, I favour progressive, &ldquo;high&rdquo; :triangular_flag_on_post:**taxes** (of the sort you see nowadays in Scandinavian states).
-* I believe in free markets, and in capitalism.
+* I believe in :triangular_flag_on_post:**free markets**, and in :triangular_flag_on_post:**capitalism**.
 
 (For more about economics, see the note at the bottom \[The Economist\], and :point_right:[economics](economics.md#economics).)
 
 Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
 contradictory.
 
-For example, in Spain in 2016, someone who defended gay rights and euthanasia, and opposed bullfighting (as I do), would be automatically assumed to be
-very suspicious of free markets, and an enemy of capitalism (which I am not).
-Today in the US, someone who is in favour of relatively high taxation and a welfare system (as I am) is probably seen as a *leftie* who would like the state to
-meddle with the corporate world to impose high minimum wages and establish quotas for women and other minorities (but I oppose that).
+:thought_balloon:For example, in Spain, in 2016, someone who defended gay rights and euthanasia (like me), and opposed bullfighting (as I do), would be
+automatically assumed to be very suspicious of free markets, and an enemy of capitalism (which I am not).
+:thought_balloon:Another example: today in the US, someone who is in favour of relatively high taxation and a welfare system (as I am) is probably seen as a
+*leftie* who would like the state to meddle with the corporate world to impose high minimum wages and establish quotas for women and other minorities (but I
+oppose that).
 
 Although I realise that this particular combination of views might not be very common, in reality I don't stumble upon contradictions between these different
 sets of beliefs that I hold.

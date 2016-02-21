@@ -68,8 +68,9 @@ There is a separate section for all [&#8251;&nbsp;**footnotes**](doc/footnotes.m
 **Key terms** (ideas, topics, people, works) appear **in bold**.
 
 * **Ideas and subjects** are preceded by :bulb: (look for `:bulb:` in the raw text).
-* **Names of people** are preceded by :bust_in_silhouette: (look for `:bust_in_silhouette:` in the source).
-* **References** to footnotes, or to other parts of the text, are preceded by :point_right: (look for `:point_right:` in the source).
+* **Names of people** carry :bust_in_silhouette: (written `:bust_in_silhouette:` in the source).
+* **Examples** use this *emoji*: :thought_balloon: (writren `:thought_balloon:`).
+* **References** to footnotes, or to other parts of the text, are preceded by :point_right: (code `:point_right:`).
 
 ## 5. Credits
 

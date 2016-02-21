@@ -5,9 +5,9 @@ Men and women.
 1. [General thoughts](#1-general-thoughts).
 1. [Am I a feminist?](#2-am-i-a-feminist)
 1. [What I think feminism gets wrong](#3-what-i-think-feminism-gets-wrong).
-1. [](#4-).
+1. [Being sexist](#4-being-sexist).
 1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#5-rape-culture-trigger-warnings-microaggressions).
-  1. [Rape](#51-rape.
+  1. [Rape](#51-rape).
 1. [The use of language](#6-the-use-of-language).
 1. [On taking offence](#7-on-taking-offence).
 1. [The situation of men in secular, liberal democracies](#8-the-situation-of-men-in-secular-liberal-democracies).
@@ -113,7 +113,7 @@ However, this only works at the level of individuals&nbsp;&mdash;&nbsp;social no
 
 ## 5. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
 
-### 5.1 Rape
+### 5.1. Rape
 
 There is a disonance between how wrong certain acts feel (how immoral they seem) and how worried society is about them happening,
 
@@ -140,7 +140,7 @@ I suspect this has to do with these factors:
   They are that stupid!
   It can't be helped.
   If *male* videogame designers and *male* videogame players want it that way, let them have it.&rdquo;)
-* Political correctness.
+* :point_right:[Political correctness](economics.md#economics).
 
 ## 6. The use of language
 

@@ -1,9 +1,9 @@
 # Miscellanea
 
-1. [Being rich / being poor](#1-being-rich-being-poor).
+1. [Being rich / being poor](#1-being-rich--being-poor).
 1. [Leaked photos and videos](#2-leaked-photos-and-videos).
 1. [Ideas and words wrongly reserved to specific groups of people](#3-ideas-and-words-wrongly-reserved-to-specific-groups-of-people).
-1. [Broken breaking news](4-broken-breaking-news).
+1. [&ldquo;Broken breaking news&rdquo;](#4-broken-breaking-news).
 
 ## 1. Being rich / being poor
 
@@ -13,7 +13,7 @@ uptight&rdquo; vs. &ldquo;humble, hard-working, working-class&rdquo;.
 Interestingly, most of us seem to despise &ldquo;the rich&rdquo;&nbsp;&mdash;&nbsp;meaning by that *anyone who is richer than us*.
 We don't stop to think that we ourselves are &ldquo;rich&rdquo; for other people.
 
-An example:
+:thought_balloon:An example:
 In my particular case, right now (2016), I would call &ldquo;rich&rdquo; those who:
 * earn more than &euro;70,000 a year,
 * buy a car that cost &euro;30,000 or more,
@@ -25,8 +25,9 @@ The interesting thing here is this: if someone had asked me fiften years ago or 
 despicable, filthy posh person who can't appreciate how tough life actually is*.
 And I'm not talking about the effect of *inflation* here.
 
-Another example:
+:thought_balloon:Another example:
 Not long ago, I was talking with a friend of mine who has been living in London for around a decade now.
+\[Pending.\]
 
 ## 2. Leaked photos and videos
 
@@ -41,20 +42,21 @@ It makes you accomplice.
 
 ## 3. Ideas and words wrongly reserved to specific groups of people
 
-I don't respect the supposed privilege of specific groups to be critic with themselves, express opinions in caustic ways, or use certain words, *when members of
-that group engage in those behaviours themselves*.
+**I don't respect the supposed privilege of specific groups to be critic with themselves, express opinions in caustic ways, or use certain words, *when members
+of that group engage in those behaviours themselves*.**
 
 For the same reason that your genes, your chromosomes and your passport don't remove certain basic human rights and abilities from you (if you
 think otherwise, you would be a racist, a sexist, a xenophobic)&nbsp;&mdash;&nbsp;for those same reasons, they don't *grant* you special privileges, either.
-Example: I, as a Spaniard, have the same right to (respectfully) criticise Japan and the Japanese, or to ridicule or parody them, as Japanese people themselves.
-Example: when a collective starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
+:thought_balloon:Example: I, as a Spaniard, have the same right to (respectfully) criticise Japan and the Japanese, or to ridicule or parody them, as Japanese people
+themselves.
+:thought_balloon:Example: when a collective starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
 *&ldquo;marica&rdquo;*), for me, they're implicitly letting people outside that circle use it too.
-Example: the opinions of a childless person about childcare, tax exemptions for parents, paedophilia, etc. should not be dismissed, nor given a lower value than
-those coming from parents.
+:thought_balloon:Example: the opinions of a childless person about childcare, tax exemptions for parents, paedophilia, etc. should not be dismissed, nor given a lower value
+than those coming from parents.
 (Yes, we can recognise the value of personal experiences; but when we're discussing statistics, averages, tradeoffs for society, etc, *your* experience raising
 *your* child or children is merely an anecdote.)
 
-Here is **a thought experiment** to prove that it's wrong to grant usage of certain words or ideas to specific groups of people only:
+:thought_balloon:Here is **a thought experiment** to prove that it's wrong to grant usage of certain words or ideas to specific groups of people only:
 
 Imagine there is a radio commentator you listen to frequently, and that you like.
 This person happens to be a black male.
@@ -89,7 +91,7 @@ If your answer to any of the questions above were positive, then *you* would be 
 
 Think about it: you just changed your feelings or your opinion about somebody (for the worse), *just because you learnt about his race*.
 
-**Another ficticious situation** to illustrate my point:
+:thought_balloon:**Another ficticious situation** to illustrate my point:
 
 A columnist or an author you like and follow.
 She's a cultivated thinker, a progressive who supports the rights of minorities.
@@ -97,20 +99,21 @@ She's a cultivated thinker, a progressive who supports the rights of minorities.
 She also curses a lot and ditches political correctness; it's her style.
 When addressing female discrimination, she would frequently rally her &ldquo;sisters&rdquo; from her op-ed.
 She talks about this army of &ldquo;bitches&rdquo;&hellip; stepping up for their rights, giving up chocolate, whining, and cheesy rom-coms for a better version
-of themselveshellip;
+of themselves&hellip;
 She calls her girlfriends &ldquo;proud whores&rdquo;: liberated women who are in control of their sexuality, who even leverage the instincts of men (dumb
-men&hellip;) to exact their revenge on this sexist societyhellip;
+men&hellip;) to exact their revenge on this sexist society&hellip;
 
 For years, you have felt that this style of hers, far from undermining her feminist agenda, makes it stronger.
 So, most of the time, you really like her ideas, and definitely sympathise with her point of view on gender issues.
 
-Only that she is a he.
+Only that *she* is a *he*.
 
 Her name is but a pseudonym, and one day you learn that the columnist you so much love is a bloke.
 
 Make yourself an analogous set of questions:
 Does it look sexist to you, *now*, his choice of words over the years?
-Is he a chauvinistic pig, with these stereotypes of women as either *femmes fatales*, prostitutes, crying babies, spoilt little girls&hellip;?
+Is he a chauvinistic pig becase he dared to indulge on those stereotypes of women as either *femmes fatales*, prostitutes, crying babies, spoilt little
+girls&hellip; (even if his point was *feminist*)?
 Were those columns (or books) a brilliant, acid, self-deprecating, provocative call to arms *then*, but a despicable display of male chauvinism *now*?
 
 If your answer to any of the questions above were positive, then *you* would be sexist.
@@ -134,9 +137,9 @@ So, no: I don't call my black friends &ldquo;nigger&rdquo;.
 Nor do I call my female Spanish friends *&ldquo;chocho&rdquo;* (&ldquo;pussy&rdquo;), as some women in Spain would sometimes call other women, in a very
 friendly atmosphere).
 
-I do think that there is intellectual ground to defend that doing so would not make me a racist/sexist; it would only be coherent with their own use.
+I do think that there is intellectual ground to defend that doing so would not make me racist/sexist; it would only be coherent with their own use.
 But I have no interest in risking friendship over an intellectual itch.
 
-## 4. Broken breaking news
+## 4. &ldquo;Broken breaking news&rdquo;
 
 \[Pending.\]
