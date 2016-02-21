@@ -5,10 +5,12 @@ Men and women.
 1. [General thoughts](#1-general-thoughts).
 1. [Am I a feminist?](#2-am-i-a-feminist)
 1. [What I think feminism gets wrong](#3-what-i-think-feminism-gets-wrong).
-1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#4-rape-culture-trigger-warnings-microaggressions).
-1. [The use of language](#5-the-use-of-language).
-1. [On taking offence](#6-on-taking-offence).
-1. [The situation of men in secular, liberal democracies](#7-the-situation-of-men-in-secular-liberal-democracies).
+1. [](#4-).
+1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#5-rape-culture-trigger-warnings-microaggressions).
+  1. [Rape](#51-rape.
+1. [The use of language](#6-the-use-of-language).
+1. [On taking offence](#7-on-taking-offence).
+1. [The situation of men in secular, liberal democracies](#8-the-situation-of-men-in-secular-liberal-democracies).
 
 ## 1. General thoughts
 
@@ -73,8 +75,9 @@ Those negative aspects, by they way, would be:
 * Behaviourism, when they so much defend the theory of the &ldquo;tabula rasa&rdquo; against all odds (related to the one above).
 * Hostility towards sex.
   Simplistic, unrealistic analyses of prostitution and pornography.
-  Unilateral and radical framing of abortion, as a
-  Their troubled relationship with the ideas of beauty, feminity, sexiness, attractiveness, lust.
+  Unilateral and radical framing of abortion, as a &ldquo;right&rdquo; of women where fathers and other men are to be completely ignored, as just another aspect
+  of &ldquo;female health&rdquo;, as a bodily matter, as something that falls solely within the jurisdiction of their bodies.
+  Their troubled relationship with the ideas of beauty, feminity, sexiness, attractiveness, lust, masculinity.
 * Moral relativism (eg, in some disturbing and conflicting views on the *hijab*, the *burqa*, female genital mutilation).
 * Misplacement of the focus towards the insignificant (eg, innocuous peculiarities in human languages, quaint &ldquo;gentlemanly&rdquo; habits, *bona fide*
   comments or praise from men towards women).
@@ -97,18 +100,56 @@ us&nbsp;&mdash;&nbsp;we do it all the time).
 But it is clear by listening to them, and by reading what they write on the internet, that most of them also harbour really immoral attitudes towards women;
 misogynistic, degrading, at times bordering on the violent.
 
-## 4. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
+## 4. Being sexist
+
+I think most of us are at least somewhat sexist (and at least somewhat racist, xenophobic, ageist, aspectist&hellip;).
+At a personal level, discriminating certain groups of people (or put it in another way: *favouring certain groups of people) seems to make complete sense.
+There are all kind of practical reasons, which have nothing to do with bigotry, to feel more empathetic towards, and to be nicer to, people who are like us.
+
+Since that seems true, deciding what forms of sexism are acceptable, and to what degree, is not a trivial question.
+(Again, the same argument applies to other forms of group discrimination).
+
+However, this only works at the level of individuals&nbsp;&mdash;&nbsp;social norms, and laws, can't be prejudiced in the same way.
+
+## 5. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
+
+### 5.1 Rape
+
+There is a disonance between how wrong certain acts feel (how immoral they seem) and how worried society is about them happening,
+
+I think most people would agree that murder is a far worse crime than rape or physical violence.
+However, we seem much more concerned about the portrayal of rape in works of fiction and in the mass media than we are about violence or murder.
+Kids nowadays see *way more instances* of people killing other people, and people torturing or beating other people, than people *raping* other people.
+
+Violence, torture, cruelty and assasinations are ubiquitous in TV, film and videogames.
+Violence is *the* basis for so much of contemporary popular culture (many videogames; products about &ldquo;super-heros&rdquo;; products about cops, spies, the
+military, wars; action films&hellip;).
+
+Those forms of murder or extreme violence happen, interestingly, usually between male characters.
+
+And still, there is public outcry whenever a remotely realistic of detailed scene of rape appear on those media.
+
+Why is that?
+
+It does not add up, from a moral point of view.
+
+I suspect this has to do with these factors:
+* The WAW (&ldquo;Women Are Wonderful&rdquo;) effect.
+* Misandry.
+  (&ldquo;Well, it is a fact: men do kill each other.
+  They are that stupid!
+  It can't be helped.
+  If *male* videogame designers and *male* videogame players want it that way, let them have it.&rdquo;)
+* Political correctness.
+
+## 6. The use of language
 
 \[Pending.\]
 
-## 5. The use of language
+## 7. On taking offence
 
 \[Pending.\]
 
-## 6. On taking offence
-
-\[Pending.\]
-
-## 7. The situation of men in secular, liberal democracies
+## 8. The situation of men in secular, liberal democracies
 
 \[Pending.\]

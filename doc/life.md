@@ -113,18 +113,6 @@ years.
 
 * I believe in strong transparency in the corporate worl, and within organisations (eg, sharing salaries among employees).
 
-* I don't respect the supposed privilege of specific groups to be critic with themselves, express opinions in caustic ways, or use certain words, *when members
-of that group engage in those behaviours themselves*.
-For the same reason that your genes, your chromosomes and your passport don't remove certain basic human rights and abilities from you (if you
-think otherwise, you would be a racist, a sexist, a xenophobic)&nbsp;&mdash;&nbsp;for those same reasons, they don't *grant* you special privileges, either.
-Example: I, as a Spaniard, have the same right to (respectfully) criticise Japan and the Japanese, or to ridicule or parody them, as Japanese people themselves.
-Example: when a collective starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
-*&ldquo;marica&rdquo;*), for me, they're implicitly letting people outside that circle use it too.
-Example: the opinions of a childless person about childcare, tax exemptions for parents, paedophilia, etc. should not be dismissed, nor given a lower value than
-those coming from parents.
-(Yes, we can recognise the value of personal experiences; but when we're discussing statistics, averages, tradeoffs for society, etc, *your* experience raising
-*your* child or children is merely an anecdote.)
-
 * Forming (informed) :triangular_flag_on_post:**opinions** about hard questions is a long and ardous task&nbsp;&mdash;&nbsp;but also a fun one, and intellectually rewarding.
 Don't settle for the first opinion that sounds convincing (let alone comforting) about anything important; discovering the truth takes many reads, and opening
 the mind to views that initially might seem absurd or even repulsive.

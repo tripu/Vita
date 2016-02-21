@@ -5,7 +5,8 @@
 1. [I believe in rules](#3-i-believe-in-rules).
 1. [Political stance(s)](#4-political-stances).
 1. [On voting](#5-on-voting).
-1. [Useful references (but not necessarily 100% endorsed)](#6-useful-references-but-not-necessarily-100-endorsed).
+1. [Political correctness](#6-political-correctness).
+1. [Useful references (but not necessarily 100% endorsed)](#7-useful-references-but-not-necessarily-100-endorsed).
 
 ## 1. Democracy
 
@@ -38,12 +39,42 @@ benefits of controlling, regulating or prohibiting certain aspect *have* to outw
 
 I reject authoritarianism, but I have realised that I place more value in :triangular_flag_on_post:**laws** and :triangular_flag_on_post:**rules** than most people.
 
-I usually need a convincing explanation for acts that go against the norms.
-That is why, *in principle*, I oppose such things as: squatting, *escraches*, non-authorised demonstrations or strikes, or resistance to evictions.
+I usually need a convincing explanation for acts that go against the law.
+That is why, *in principle*, I oppose such things as:
+* Squatting.
+* *Escraches*.
+* Non-authorised demonstrations.
+* Non-authorised trikes.
 
-That is not to say that I can't see the reasons behind, and the merits of, nonviolent civic resistance as a last resort, or against blatant injustice.
-But I think that some of those types of actions have got too far; or are applied too often, too happily, by crowds that don't stop to reflect about what they are
-doing.
+And that is why, *in principle*, I am in favour of:
+* Evictions.
+* Deportation of illegal immigrants.
+
+When I discuss specific cases, I generally agree with my progressive friends.
+The subtle difference between our views is that many progressives too often defend acting against the law to fix broken situtations (eg, mobilising a large
+group of people to stand before the police and prevent an eviction), while I usually defend the legal procedures but advocate *changing the law or those
+procedures*.
+
+There are some social phenomena that tend to approach too emotionally, and that trigger immediate rejection: when we look at illegal immigrants, for example,
+most of us will sympathise with what are often terrible situations (poverty, social exclusion, exploitation).
+I, like many others, support more compasive laws, more resources dedicated to combat discrimination, a welfare state that focus on people at the bottom of
+society and minimises poverty and sickness.
+What I think is wrong is to automatically, mindlessly, perpetuate the inertia of disobeying the laws&nbsp;&mdash;&nbsp;the laws that say illegal immigrants are
+to be found, detained, questioned and perhaps eventually removed from the country.
+That dynamic has taken us to a hypocritical status quo, a time when the POTUS can talk openly about not trying to clamp down on illegal immigrants, or about
+giving them &ldquo;papers&rdquo;.
+In other words: many politicians, those in power and the public opinion generally agree that those laws are wrong; but instead of working on changing them,
+publicly and shamelessly advocate their disobedience.
+
+It is the job of those in power to *follow* the laws.
+If they find those laws immoral or unjust, it is their civic duty to do as much as they can to change them, or else resign from their job.
+In the meantime, they are the guardians of those laws; if they don't respect and obey them, who will.
+More so: if judges, policemen, elected politicians decide to openly ignore or subvert important laws, what argument will there be to persuade citizens not to do
+the same whenever a law does not have their approval?
+
+All this is not to say that I can't see the reasons behind, and the merits of, nonviolent civic resistance as a last resort, or against blatant injustice.
+But I think that some of those types of actions have got too far; or are applied too often, too happily, by crowds that don't stop to reflect about what they
+are doing.
 
 For me, this respect for rules manifests itself in other ways in day-to-day life, too.
 For example, I really can't understand why people litter on the street, smoke where it's forbidden, talk on their mobile phones where it's seen as very bad
@@ -97,6 +128,14 @@ All that gave me thought.
 
 I now wonder if **not voting** might be the most responsible thing to do&hellip;&nbsp;at least in Spain.
 
-## 6. Useful references (but not necessarily 100% endorsed)
+## 6. Political correctness
+
+> &ldquo;*That playground of guilty white liberals: political correctness.
+  Political correctness is America's newest form of intolerance.
+  And it's especially pernicious because it comes disguised as tolerance.*&rdquo;
+
+&mdash;&nbsp;George Carlin.
+
+## 7. Useful references (but not necessarily 100% endorsed)
 
 * [The Economist: “Is The Economist left- or right-wing?”](http://www.economist.com/blogs/economist-explains/2013/09/economist-explains-itself-0)
