@@ -1,8 +1,8 @@
 # Economics
 
-1. [Jobs aren't sacred](#1-jobs-arent-sacred).
-  1. [Example](#11-example).
-1. [Offshoring is good](#2-offshoring-is-good).
+1. [Jobs aren't sacred](#1-jobs-arent-sacred)
+1. [Offshoring is good](#2-offshoring-is-good)
+1. [Favour the underdog](#3-favour-the-underdog)
 
 ## 1 Jobs aren't sacred
 
@@ -17,7 +17,7 @@ Sinecures are never good.
 *Reductio ad absurdum*: &ldquo;if unnecessary, redundant or low-productivity occupations were good for society because, well, they provide jobs, then making up
 pointless occupations would be sound economic policy&rdquo;.
 
-### 1.1 Example
+:thought_balloon:An example:
 
 Imagine that more thoughtful citizens and technological progress make it possible to reduce the number of waste collectors by 10%, while keeping the
 same level of service.
@@ -57,3 +57,24 @@ But to use those arguments [TODO]
 
 Letting people migrate (or even getting rid of borders altogether) also
 [makes economic sense](http://www.theatlantic.com/business/archive/2015/10/get-rid-borders-completely/409501/).
+
+## 3 Favour the underdog
+
+It makes economic sense, from a personal perspective, to choose the products and services that provide the most value at the lowest cost, of course.
+It is also *fair*, from an economic point of view, that those companies offering the best products are favoured by consumers (it's the basis of markets, and the
+reason why innovation and progress occur in them).
+
+There are circumstances, though, where due to economies of scale and other factors, choosing the *best* option undermines competition and innovation, or poses
+other problems.
+
+:thought_balloon:For example, at the time of writing (Mar 2016), too many people rely on :bust_in_silhouette:**Alphabet (Google)** every day, and for too many
+things.
+**Alphabet** is growing a gigantic super-power, with vast knowledge about virtually everything that happens in the developed world (individuals, companies,
+organisations and public institutions).
+They are a monopoly, or very close to being one, in a few areas already.
+They are one of the main actors in the whole surveillance problem on the internet.
+There are reasons to oppose that trend, and to pick competitors over **Alphabet**, for the health of society and consumers.
+
+:thought_balloon:Another example: it seems that :bust_in_silhouette:**Uber** is going to crush its competitors (eg, :bust_in_silhouette:**Lyft**) and build a
+monopoly.
+Such monopoly would destroy part of the benefits that those companies have brought to consumers who used to use taxis in the first place.

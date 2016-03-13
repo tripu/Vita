@@ -38,7 +38,11 @@ acting in an immoral way.
 The least society can do to prevent or discourage such behaviour is to actively avoid using and spreading that information.
 
 I consider it is wrong to actively search online for photos &ldquo;stolen&rdquo; to celebrities, &ldquo;revenge porn&rdquo;, etc.
-It makes you accomplice.
+It makes you an accomplice, in some way.
+
+For me, the same applies to things like [the Ashley Madison breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach): it is wrong to use that leaked
+database in any way.
+It was exposed illegally, without the consent of the users of the site, so nobody should benefit from it; not even out of &ldquo;curiosity&rdquo;.
 
 ## 3. Ideas and words wrongly reserved to specific groups of people
 
@@ -64,7 +68,7 @@ His views on things are constructive, accurate and honest; but he's got a dark, 
 You like him in general, and find yourself agreeing with what he says most of the time (and being amused and/or stimulated by his direct style).
 
 Among many other subjects related to the news and to world affairs, this person discusses race issues from time to time.
-When doing so, he sometimes uses terms like &ldquo;nigger&rdquo; to refer to black people.
+When doing so, he sometimes uses terms like &ldquo;nigger&rdquo; to refer to his race.
 He also exploits racial stereotypes about blacks (stealing social benefits, clinging to their guns and bling, etc)&nbsp;&mdash;&nbsp;either for humour, or to
 get his point across.
 
@@ -135,10 +139,38 @@ etc).
 
 So, no: I don't call my black friends &ldquo;nigger&rdquo;.
 Nor do I call my female Spanish friends *&ldquo;chocho&rdquo;* (&ldquo;pussy&rdquo;), as some women in Spain would sometimes call other women, in a very
-friendly atmosphere).
+friendly atmosphere.
 
 I do think that there is intellectual ground to defend that doing so would not make me racist/sexist; it would only be coherent with their own use.
 But I have no interest in risking friendship over an intellectual itch.
+
+> *&ldquo;Very few words are inherently and unwaveringly bad.
+  Even the N-word is perfectly acceptable when used by certain group members in certain contexts.&rdquo;*
+
+&mdash;&nbsp;[The Guardian: &ldquo;Play nice! How the internet is trying to design out toxic \
+behaviour&rdquo;](http://www.theguardian.com/technology/2016/feb/22/play-nice-how-the-internet-is-trying-to-design-out-toxic-behaviour)
+
+First of all, how prudish are we getting when we can't write or say &ldquo;nigger&rdquo;, not even when the context makes it absolutely clear we're not using
+the word in an offensive way, *not even to discuss the word itself*?
+
+Second, I agree with the gist of that quote (ie, even the most apparently offensive words are used *bona fide*), but I would remove the clause &ldquo;when used
+by certain group members&rdquo;.
+*There* is the problem.
+
+Who has the right to use the word &ldquo;retarded&rdquo; with its colloquial meaning?
+
+Only people who are literally retarded (intellectually impaired)?
+Do everybody else offend the retarded when they wield that word against someone who is not literally retarded?
+If that is the case, where is the limit?
+
+How patronising is that towards all people who don't find themselves within the &ldquo;safe&rdquo; categories in all dimensions of life?
+In other words, if you tick at least one of the &ldquo;victim&rdquo;, &ldquo;discriminated&rdquo; or simply &lquo;unlucky&rdquo; boxes, do you have a right to
+be offended by certain words, and moral ground to ask others to stop using them?
+
+How hypocritical is it to refrain from using certain words to avoid being offensive to others, precisely because you assume a great deal of unhappiness or shame
+in their conditions?
+
+Who *owns* words?
 
 ## 4. &ldquo;Broken breaking news&rdquo;
 

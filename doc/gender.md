@@ -1,16 +1,17 @@
 # Gender
 
-Men and women.
+About Men and women.
 
-1. [General thoughts](#1-general-thoughts).
-1. [Am I a feminist?](#2-am-i-a-feminist)
-1. [What I think feminism gets wrong](#3-what-i-think-feminism-gets-wrong).
-1. [Being sexist](#4-being-sexist).
-1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#5-rape-culture-trigger-warnings-microaggressions).
-  1. [Rape](#51-rape).
-1. [The use of language](#6-the-use-of-language).
-1. [On taking offence](#7-on-taking-offence).
-1. [The situation of men in secular, liberal democracies](#8-the-situation-of-men-in-secular-liberal-democracies).
+1. [General thoughts](#1-general-thoughts)
+1. [Should one be a feminist?](#2-should-one-be-a-feminist)
+1. [What feminism gets wrong sometimes](#3-what-feminism-gets-wrong-sometimes)
+1. [Being sexist](#4-being-sexist)
+1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#5-rape-culture-trigger-warnings-microaggressions)
+  1. [Rape](#51-rape)
+  1. [Rape culture](#52-rape-culture)
+1. [The use of language](#6-the-use-of-language)
+1. [On taking offence](#7-on-taking-offence)
+1. [The situation of men in secular, liberal democracies](#8-the-situation-of-men-in-secular-liberal-democracies)
 
 ## 1. General thoughts
 
@@ -33,19 +34,25 @@ But I oppose feminism (classical or otherwise) in all places where *any* of thes
 As I said above, it depends *where*.
 
 In places where women are unjustly oppressed, I am a feminist.
-Where a radical stance is necessary to endorse progress, feminism is justified.
+Where a radical stance is necessary to endorse progress, feminism is not only justified, but *necessary*.
 There are still many areas of the world where feminism is necessary, as one of the answers to obscurantism.
 
 What about liberal, secular, developed democracies?
-Am I a feminist in Spain, Italy, England, the US?
+Am I a feminist in Spain, Italy, England, the US&hellip;&nbsp;&mdash;&nbsp;today?
 
-I sincerely don't know.
+I don't know.
+Intuitively, I feel that those places and times fall under the categories listed above, for circumstances where feminism is not a positive force.
 
 My knee-jerk reaction is to say: &ldquo;No. Of course not.&rdquo;
 Why would *anyone* want to align themselves with any movement that favours one portion of society over another, starting *right from the name of the movement
 itself*?
 
-## 3. What I think feminism gets wrong
+This is *not* an important argument, but feminism would attract more supporters if it rebranded itself to better reflect its alleged goals.
+Why don't we have equivalent terms to refer to people who are against discriminations of other types (race, sexual orientation, aspect, age, religion&hellip;?
+If you don't call yourself a *gipsyist*, a *fattist* or a *poorist*, why do we accept *feminist* so naturally?
+The *name* itself is a banner under which many people can reasonably find it troubling to gather (me among them).
+
+## 3. What feminism gets wrong sometimes
 
 The aspects of modern mainstream feminism that I may agree with are mostly inheritance of older, less exclusive philosophies: humanism, englightenment,
 secularism, egalitarianism, liberalism&hellip;
@@ -64,7 +71,7 @@ Those negative aspects, by they way, would be:
   Being judgemental with respect to life decisions of other women (eg, towards those who decide to have children, or *not* to have children).
 * Blindness to the problems of men, and the aspects of life where the State and society treats them wrong.
 * Misandry.
-* Classism (&ldquo;white middle-class women&rdquo;).
+* Classism (its advocates are disproportionately &ldquo;white middle-class&rdquo;).
 * Racism (*Id.*).
 * Contempt for science; in particular for biology and evolutionary psychology.
   Negation of any innate differences between men and women with regards to their objects of interests, priorities in life, instincts, abilities, thought
@@ -77,11 +84,11 @@ Those negative aspects, by they way, would be:
   Simplistic, unrealistic analyses of prostitution and pornography.
   Unilateral and radical framing of abortion, as a &ldquo;right&rdquo; of women where fathers and other men are to be completely ignored, as just another aspect
   of &ldquo;female health&rdquo;, as a bodily matter, as something that falls solely within the jurisdiction of their bodies.
-  Their troubled relationship with the ideas of beauty, feminity, sexiness, attractiveness, lust, masculinity.
+  Their troubled relationship with the ideas of beauty, feminity, youth, sexiness, attractiveness, lust, masculinity.
 * Moral relativism (eg, in some disturbing and conflicting views on the *hijab*, the *burqa*, female genital mutilation).
 * Misplacement of the focus towards the insignificant (eg, innocuous peculiarities in human languages, quaint &ldquo;gentlemanly&rdquo; habits, *bona fide*
   comments or praise from men towards women).
-* Political correctness.
+* :point_right:[Political correctness](politics.md#6-political-correctness).
 
 I sympathise with many of the opinions of the self-proclaimed feminist :bust_in_silhouette:**Camille Paglia**.
 She is on record since the early nineties at least (probably before) fericiously attacking the same set of bogus tenets that are so alarming today.
@@ -103,13 +110,30 @@ misogynistic, degrading, at times bordering on the violent.
 ## 4. Being sexist
 
 I think most of us are at least somewhat sexist (and at least somewhat racist, xenophobic, ageist, aspectist&hellip;).
-At a personal level, discriminating certain groups of people (or put it in another way: *favouring certain groups of people) seems to make complete sense.
+At a personal level, discriminating certain groups of people (or put it in another way: *favouring* certain groups of people) seems to make complete sense.
 There are all kind of practical reasons, which have nothing to do with bigotry, to feel more empathetic towards, and to be nicer to, people who are like us.
+
+We are not &ldquo;colour-blind&rdquo; (or *ldquo;gender-blind&rdquo;
 
 Since that seems true, deciding what forms of sexism are acceptable, and to what degree, is not a trivial question.
 (Again, the same argument applies to other forms of group discrimination).
 
 However, this only works at the level of individuals&nbsp;&mdash;&nbsp;social norms, and laws, can't be prejudiced in the same way.
+
+Also, this does *not* mean that we should not question and correct unjust attitudes
+
+:thought_balloon:Example: I once joined a meeting of a sort of &ldquo;book club&rdquo; where I did not know anybody.
+It turned out that the few people who could make it in the end were all women, except for me.
+We were a small group (six or eight people, I think) chatting at a caf&eacute; about books, and writing, for a couple of hours.
+I didn't like the fact that I was the only man at the event.
+Sometimes the conversation steered to topics that I found boring, or about which I had nothing to say (*female* topics, if you will).
+I felt that the *rhythm* and the *tone* of the conversation was difficult for me (men are known to be less skilled with language, and within men I think I am a
+particularly bad public speaker; I also felt that the shades of humour and the kind of personal experiences and thoughts that participants were sharing were
+sometimes quite different from those I'm used to).
+If I were &ldquo;gender-blind&rdquo; (as some feminist wants everybody to be, apparently), I should not have felt any uneasiness.
+Or, if I felt it, I should have worked to overcome it, and reject
+
+:point_right:[]
 
 ## 5. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
 
@@ -140,7 +164,17 @@ I suspect this has to do with these factors:
   They are that stupid!
   It can't be helped.
   If *male* videogame designers and *male* videogame players want it that way, let them have it.&rdquo;)
-* :point_right:[Political correctness](economics.md#economics).
+* :point_right:[Political correctness](politics.md#6-political-correctness).).
+
+### 5.2 Rape culture
+
+There isn't one.
+At least, not in the sense the media has been using the term in recent years.
+
+Calling &ldquo;rape culture&rdquo; collectively to the instances of sexual abuses on American campuses (or, in general, in Western liberal democracies) is
+abusing the term &ldquo;culture&rdquo;.
+The problem of sexual violence would be better understood and addressed if instead of bending the meaning of certain words and coining hyperboles, we used
+studies, numbers and statistics to illustrate it.
 
 ## 6. The use of language
 

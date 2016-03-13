@@ -1,12 +1,12 @@
 # Politics
 
-1. [Democracy](#1-democracy).
-1. [In general, the fewer laws, the better](#2-in-general-the-fewer-laws-the-better).
-1. [I believe in rules](#3-i-believe-in-rules).
-1. [Political stance(s)](#4-political-stances).
-1. [On voting](#5-on-voting).
-1. [Political correctness](#6-political-correctness).
-1. [Useful references (but not necessarily 100% endorsed)](#7-useful-references-but-not-necessarily-100-endorsed).
+1. [Democracy](#1-democracy)
+1. [In general, the fewer laws, the better](#2-in-general-the-fewer-laws-the-better)
+1. [I believe in rules](#3-i-believe-in-rules)
+1. [Political stance(s)](#4-political-stances)
+1. [On voting](#5-on-voting)
+1. [Political correctness](#6-political-correctness)
+1. [Useful references (but not necessarily 100% endorsed)](#7-useful-references-but-not-necessarily-100-endorsed)
 
 ## 1. Democracy
 

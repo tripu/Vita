@@ -2,11 +2,11 @@
 
 My own universe's how-to, life's user manual, instructions to navigate the Earth, tips for tripu, notes to self.
 
-1. [Introduction](#1-introduction).
-1. [Note to the casual reader](#2-note-to-the-casual-reader).
-1. [Index](#3-index).
-1. [Conventions used in the text](#4-conventions-used-in-the-text).
-1. [Credits](#5-credits).
+1. [Introduction](#1-introduction)
+1. [Note to the casual reader](#2-note-to-the-casual-reader)
+1. [Index](#3-index)
+1. [Conventions used in the text](#4-conventions-used-in-the-text)
+1. [Credits](#5-credits)
 
 ## 1. Introduction
 
@@ -48,18 +48,18 @@ ideas:
 
 ## 3. Index
 
-1. [Life: what is most important to me](doc/life.md#life).
-1. [Ethics](doc/ethics.md#ethics).
-1. [Logic](doc/logic.md#logic).
-1. [Politics](doc/politics.md#politics).
-1. [Science](doc/science.md#science).
-1. [Tech](doc/tech.md#tech).
-1. [Health](doc/health.md#health).
-1. [Economics](doc/economics.md#economics).
-1. [Gender](doc/gender.md#gender).
-1. [Parenting: how to treat children well](doc/parenting.md#parenting).
-1. [Art (just a bit about literature for now)](doc/art.md#art).
-1. [Miscellanea](doc/miscellanea.md#miscellanea).
+1. [Life: what is most important to me](doc/life.md#life)
+1. [Ethics](doc/ethics.md#ethics)
+1. [Logic](doc/logic.md#logic)
+1. [Politics](doc/politics.md#politics)
+1. [Science](doc/science.md#science)
+1. [Tech](doc/tech.md#tech)
+1. [Health](doc/health.md#health)
+1. [Economics](doc/economics.md#economics)
+1. [Gender](doc/gender.md#gender)
+1. [Parenting: how to treat children well](doc/parenting.md#parenting)
+1. [Art (just a bit about literature for now)](doc/art.md#art)
+1. [Miscellanea](doc/miscellanea.md#miscellanea)
 
 ## 4. Conventions used in the text
 
