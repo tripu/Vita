@@ -21,8 +21,8 @@ pointless occupations would be sound economic policy&rdquo;.
 
 Imagine that more thoughtful citizens and technological progress make it possible to reduce the number of waste collectors by 10%, while keeping the
 same level of service.
-Some may think that it's bad news: *&ldquo;we should keeep those people on the payroll, and secure their jobs, for the greater good of society, and the
-economy as a whole&rdquo;*.
+Some may think that is bad news: *&ldquo;we should keep those people on the payroll, and secure their jobs, for the greater good of society, and the economy as
+a whole&rdquo;*.
 In other words, they think that having 100 waste collectors in the city is better, in the long run, than having only 90.
 
 But if that were true, why stop there?

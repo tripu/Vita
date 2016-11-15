@@ -48,7 +48,8 @@ Anyway, here are some actions you can take if you find an error in my reasoning 
 
 On the other hand, if you are *offended* by some of my ideas, here is what you can do:
 
-* Stay outraged, refuse to apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity) and label me as you please.
+* Stay outraged, refuse to apply the principles [of humanity](https://en.wikipedia.org/wiki/Principle_of_humanity) and
+[of charity](https://en.wikipedia.org/wiki/Principle_of_charity) and label me as you please.
 * Grow up.
 
 ## 3. Index

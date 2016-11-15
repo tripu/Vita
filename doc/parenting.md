@@ -11,11 +11,11 @@ How to treat children well.
 
 * You can't use **reason** with children, not until a certain age.
   Don't fool yourself thinking that they will understand why they must or must not do something, if you only explain it to them well enough.
-* Be radical always telling them the truth, except when that truth.
+* Be radical always telling them the truth, except when that truth [TO-DO: exceptions?].
   In particular, never lie to them about fairy tales, mythical characters, Christmas presents, *magic*, sex, reproduction, their own place in the world and in
   society.
 * Be very :triangular_flag_on_post:**consistent** with rules, orders, reasons, prizes and punishment.
-  Assume that every time you contradict yourself it will be detected, and it will act against your own reasoning next time.
+  Assume that every time you contradict yourself it will be detected, and it will be used against you next time.
 * Never express any preference for one sibling over another.
   Resolve disputes in the most equitative way that is possible.
 * Both parents have to be well aligned.
@@ -47,4 +47,4 @@ That means that there are certain things that adults usually say to each other s
 * Try to avoid the words :triangular_flag_on_post:**guilt** and :triangular_flag_on_post:**guilty**.
 * Do not simplify language more than strictly necessary.
   There's no harm in being exposed to *real*, adult language since an early age.
-  If anything, it'll push them to absorb ideas and words, and start using it earlier.
+  If anything, it'll push them to absorb ideas and words, and start using them earlier.

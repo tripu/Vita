@@ -9,18 +9,19 @@
 
 ## 1. Being rich / being poor
 
-It is enlightening to realise that ideas like &ldquo;rich&rdquo; / &ldquo;poor&rdquo;, &ldquo;lucky&rdquo; / &ldquo;unlucky&rdquo;; &ldquo;spoilt, posh,
-uptight&rdquo; vs. &ldquo;humble, hard-working, working-class&rdquo;.
+It is enlightening to realise that dichotomies like &ldquo;rich&rdquo; / &ldquo;poor&rdquo;, &ldquo;lucky&rdquo; / &ldquo;unlucky&rdquo;, &ldquo;spoilt, posh,
+uptight&rdquo; / &ldquo;humble, hard-working, working-class&rdquo; are *relative*.
 
 Interestingly, most of us seem to despise &ldquo;the rich&rdquo;&nbsp;&mdash;&nbsp;meaning by that *anyone who is richer than us*.
 We don't stop to think that we ourselves are &ldquo;rich&rdquo; for other people.
 
 :thought_balloon:An example:
 In my particular case, right now (2016), I would call &ldquo;rich&rdquo; those who:
-* earn more than &euro;70,000 a year,
-* buy a car that cost &euro;30,000 or more,
-* pay more than &euro;100 a month for a gym subscription,
+* earn more than &euro;100,000 a year (I'm *very* far from that),
+* drive a car that cost &euro;40,000 or more (the one my girlfriend and I bought cost ~&euro;18,000),
+* pay more than &euro;100 a month for a gym subscription (I pay now less than &euro;20),
 * or stay at five-star hotels more often than exceptionally when they travel.
+
 These might be some approximate definitions for &ldquo;rich, lucky, posh, spoilt&rdquo; for me, because those are all things I don't own/do.
 
 The interesting thing here is this: if someone had asked me fiften years ago or so, I might have considered that *my current train of life is that of a
@@ -39,12 +40,13 @@ When someone steals intimate photos or videos of someone else, or simply betrays
 acting in an immoral way.
 The least society can do to prevent or discourage such behaviour is to actively avoid using and spreading that information.
 
-I consider it is wrong to actively search online for photos &ldquo;stolen&rdquo; to celebrities, &ldquo;revenge porn&rdquo;, etc.
+I consider it is wrong to actively search online for photos &ldquo;stolen&rdquo; from celebrities, &ldquo;revenge porn&rdquo;, etc.
 It makes you an accomplice, in some way.
 
 For me, the same applies to things like [the Ashley Madison breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach): it is wrong to use that leaked
 database in any way.
-It was exposed illegally, without the consent of the users of the site, so nobody should benefit from it; not even out of &ldquo;curiosity&rdquo;.
+It was exposed illegally (and, most importantly, immorally), without the consent of the users of the site, so nobody should benefit from it; not even out of
+&ldquo;curiosity&rdquo;.
 
 ## 3. Ideas and words wrongly reserved to specific groups of people
 
@@ -52,10 +54,10 @@ It was exposed illegally, without the consent of the users of the site, so nobod
 of that group engage in those behaviours themselves*.**
 
 For the same reason that your genes, your chromosomes and your passport don't remove certain basic human rights and abilities from you (if you
-think otherwise, you would be a racist, a sexist, a xenophobic)&nbsp;&mdash;&nbsp;for those same reasons, they don't *grant* you special privileges, either.
+think otherwise, you would be a racist, a sexist, a xenophobe)&nbsp;&mdash;&nbsp;for those same reasons, they don't *grant* you special privileges, either.
 :thought_balloon:Example: I, as a Spaniard, have the same right to (respectfully) criticise Japan and the Japanese, or to ridicule or parody them, as Japanese people
 themselves.
-:thought_balloon:Example: when a collective starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
+:thought_balloon:Example: when a group starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
 *&ldquo;marica&rdquo;*), for me, they're implicitly letting people outside that circle use it too.
 :thought_balloon:Example: the opinions of a childless person about childcare, tax exemptions for parents, paedophilia, etc. should not be dismissed, nor given a lower value
 than those coming from parents.
@@ -82,7 +84,7 @@ Except he isn't.
 
 That's right: one day, browsing a magazine, you stumble upon a photograph of the guy, and he's unmistakable *white*.
 He's as WASP as it gets.
-Not only that: he's a handsome, tall, well-off white male.
+He's a white male, and he is well-off.
 Then you realise that, actually, you never read or heard anyone mentioning his race before, and that he didn't make that explicit himself on the air.
 It turns out that you just assumed from the beginning that he was black, perhaps simply because his voice sounded like the voice of a black person to you.
 
@@ -99,7 +101,7 @@ Think about it: you just changed your feelings or your opinion about somebody (f
 
 :thought_balloon:**Another ficticious situation** to illustrate my point:
 
-A columnist or an author you like and follow.
+Imagine that there is a columnist or an author you like and follow.
 She's a cultivated thinker, a progressive who supports the rights of minorities.
 
 She also curses a lot and ditches political correctness; it's her style.
@@ -118,7 +120,7 @@ Her name is but a pseudonym, and one day you learn that the columnist you so muc
 
 Make yourself an analogous set of questions:
 Does it look sexist to you, *now*, his choice of words over the years?
-Is he a chauvinistic pig becase he dared to indulge on those stereotypes of women as either *femmes fatales*, prostitutes, crying babies, spoilt little
+Is he a chauvinistic pig because he dared to indulge on those stereotypes of women as either *femmes fatales*, prostitutes, crying babies, spoilt little
 girls&hellip; (even if his point was *feminist*)?
 Were those columns (or books) a brilliant, acid, self-deprecating, provocative call to arms *then*, but a despicable display of male chauvinism *now*?
 
@@ -149,7 +151,7 @@ But I have no interest in risking friendship over an intellectual itch.
 > *&ldquo;Very few words are inherently and unwaveringly bad.
   Even the N-word is perfectly acceptable when used by certain group members in certain contexts.&rdquo;*
 
-&mdash;&nbsp;[The Guardian: &ldquo;Play nice! How the internet is trying to design out toxic \
+&mdash;&nbsp;[The Guardian: &ldquo;Play nice! How the internet is trying to design out toxic
 behaviour&rdquo;](http://www.theguardian.com/technology/2016/feb/22/play-nice-how-the-internet-is-trying-to-design-out-toxic-behaviour)
 
 First of all, how prudish are we getting when we can't write or say &ldquo;nigger&rdquo;, not even when the context makes it absolutely clear we're not using
@@ -166,7 +168,7 @@ Do everybody else offend the retarded when they wield that word against someone 
 If that is the case, where is the limit?
 
 How patronising is that towards all people who don't find themselves within the &ldquo;safe&rdquo; categories in all dimensions of life?
-In other words, if you tick at least one of the &ldquo;victim&rdquo;, &ldquo;discriminated&rdquo; or simply &lquo;unlucky&rdquo; boxes, do you have a right to
+In other words, if you tick at least one of the &ldquo;victim&rdquo;, &ldquo;discriminated&rdquo; or simply &ldquo;unlucky&rdquo; boxes, do you have a right to
 be offended by certain words, and moral ground to ask others to stop using them?
 
 How hypocritical is it to refrain from using certain words to avoid being offensive to others, precisely because you assume a great deal of unhappiness or shame
@@ -223,7 +225,7 @@ years.
 
 * I revere acid inonoclasts such as Tim Minchin and the late George Carlin.
 
-* I believe in strong transparency in the corporate worl, and within organisations (eg, sharing salaries among employees).
+* I believe in strong transparency in the corporate world, and within organisations (eg, sharing salaries among employees).
 
 * Forming (informed) :triangular_flag_on_post:**opinions** about hard questions is a long and ardous task&nbsp;&mdash;&nbsp;but also a fun one, and intellectually rewarding.
 Don't settle for the first opinion that sounds convincing (let alone comforting) about anything important; discovering the truth takes many reads, and opening

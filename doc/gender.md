@@ -59,7 +59,7 @@ secularism, egalitarianism, liberalism&hellip;
 
 If we took modern politically-correct feminism and got rid of the horrible inclinations some of us see in it today, I would happily join its ranks.
 But then, *it would not be &ldquo;feminism&rdquo; any more*&nbsp;&mdash;&nbsp;we would call it &ldquo;progressivism&rdquo;, &ldquo;egalitarianism&rdquo; or
-simply &ldquo;not being misogynistic&rdquo;.
+simply &ldquo;not being misogynist&rdquo;.
 
 Those negative aspects, by they way, would be:
 
@@ -113,7 +113,7 @@ I think most of us are at least somewhat sexist (and at least somewhat racist, x
 At a personal level, discriminating certain groups of people (or put it in another way: *favouring* certain groups of people) seems to make complete sense.
 There are all kind of practical reasons, which have nothing to do with bigotry, to feel more empathetic towards, and to be nicer to, people who are like us.
 
-We are not &ldquo;colour-blind&rdquo; (or *ldquo;gender-blind&rdquo;
+We are not &ldquo;colour-blind&rdquo; (or &ldquo;gender-blind&rdquo;).
 
 Since that seems true, deciding what forms of sexism are acceptable, and to what degree, is not a trivial question.
 (Again, the same argument applies to other forms of group discrimination).
@@ -131,7 +131,7 @@ I felt that the *rhythm* and the *tone* of the conversation was difficult for me
 particularly bad public speaker; I also felt that the shades of humour and the kind of personal experiences and thoughts that participants were sharing were
 sometimes quite different from those I'm used to).
 If I were &ldquo;gender-blind&rdquo; (as some feminist wants everybody to be, apparently), I should not have felt any uneasiness.
-Or, if I felt it, I should have worked to overcome it, and reject
+Or, if I felt it, I should have worked to overcome it. [TO-DO]
 
 :point_right:[]
 

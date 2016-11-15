@@ -44,7 +44,7 @@ That is why, *in principle*, I oppose such things as:
 * Squatting.
 * *Escraches*.
 * Non-authorised demonstrations.
-* Non-authorised trikes.
+* Non-authorised strikes.
 
 And that is why, *in principle*, I am in favour of:
 * Evictions.
@@ -55,7 +55,7 @@ The subtle difference between our views is that many progressives too often defe
 group of people to stand before the police and prevent an eviction), while I usually defend the legal procedures but advocate *changing the law or those
 procedures*.
 
-There are some social phenomena that tend to approach too emotionally, and that trigger immediate rejection: when we look at illegal immigrants, for example,
+There are some social phenomena that we tend to approach too emotionally, and that trigger immediate rejection: when we look at illegal immigrants, for example,
 most of us will sympathise with what are often terrible situations (poverty, social exclusion, exploitation).
 I, like many others, support more compasive laws, more resources dedicated to combat discrimination, a welfare state that focus on people at the bottom of
 society and minimises poverty and sickness.
@@ -114,7 +114,7 @@ More recently though, I have been reading some radical opinions about the rotten
 impossibility of changing &ldquo;the system&rdquo; from within, by acknowledging its rules and *voting*
 (:bust_in_silhouette:[**Antonio Garc&iacute;a-Trevijano**](https://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano),
 :bust_in_silhouette:[**John Stuart Mill**](https://en.wikipedia.org/wiki/John_Stuart_Mill),
-:bust_in_silhouette:**George Carlin**).
+:bust_in_silhouette:[**George Carlin**](https://en.wikipedia.org/wiki/George_Carlin)).
 
 Those readings coincided in time with the general elections of 2015 in Spain, whose aftermath was (for me) a disheartening display of hipocrisy, vanity,
 short-sightedness, lack of honest political discussion and the usual Spanish chauvinism.
