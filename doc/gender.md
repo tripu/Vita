@@ -151,14 +151,14 @@ military, wars; action films&hellip;).
 
 Those forms of murder or extreme violence happen, interestingly, usually between male characters.
 
-And still, there is public outcry whenever a remotely realistic of detailed scene of rape appear on those media.
+And still, there is public outcry whenever a remotely realistic or detailed scene of rape appears on those media.
 
 Why is that?
 
 It does not add up, from a moral point of view.
 
 I suspect this has to do with these factors:
-* The WAW (&ldquo;Women Are Wonderful&rdquo;) effect.
+* [The WAW (&ldquo;Women Are Wonderful&rdquo;) effect](https://en.wikipedia.org/wiki/%22Women_are_wonderful%22_effect).
 * Misandry.
   (&ldquo;Well, it is a fact: men do kill each other.
   They are that stupid!

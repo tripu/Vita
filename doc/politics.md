@@ -136,7 +136,7 @@ I now wonder if **not voting** might be the most responsible thing to do&hellip;
   Political correctness is America's newest form of intolerance.
   And it's especially pernicious because it comes disguised as tolerance.*&rdquo;
 
-&mdash;&nbsp;George Carlin.
+&mdash;&nbsp;George Carlin [[audio](https://www.youtube.com/watch?v=hkhUivqzWv0)].
 
 ## 7. Useful references (but not necessarily 100% endorsed)
 
