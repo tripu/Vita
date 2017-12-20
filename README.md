@@ -64,6 +64,7 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 1. [Gender](doc/gender.md#gender)
 1. [Parenting](doc/parenting.md#parenting): how to treat children well
 1. [Art](doc/art.md#art) (just a bit about literature for now)
+1. [People I admire](doc/people.md#people-i-admire)
 1. [Miscellanea](doc/miscellanea.md#miscellanea)
 
 ## 4. Conventions used in the text
