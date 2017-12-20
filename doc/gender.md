@@ -7,8 +7,8 @@ About Men and women.
 1. [What feminism gets wrong sometimes](#3-what-feminism-gets-wrong-sometimes)
 1. [Being sexist](#4-being-sexist)
 1. [&ldquo;Rape culture&rdquo;, trigger warnings, microaggressions](#5-rape-culture-trigger-warnings-microaggressions)
-  1. [Rape](#51-rape)
-  1. [Rape culture](#52-rape-culture)
+   1. [Rape](#51-rape)
+   1. [Rape culture](#52-rape-culture)
 1. [The use of language](#6-the-use-of-language)
 1. [On taking offence](#7-on-taking-offence)
 1. [The situation of men in secular, liberal democracies](#8-the-situation-of-men-in-secular-liberal-democracies)
@@ -52,6 +52,9 @@ Why don't we have equivalent terms to refer to people who are against discrimina
 If you don't call yourself a *gipsyist*, a *fattist* or a *poorist*, why do we accept *feminist* so naturally?
 The *name* itself is a banner under which many people can reasonably find it troubling to gather (me among them).
 
+* &ldquo;Equity feminism&rdquo; (:bust_in_silhouette:**Christina Hoff Sommers**) and &ldquo;liberal/libertarian feminism&rdquo;, as opposed to &ldquo;gender
+feminismo&rdquo;.
+
 ## 3. What feminism gets wrong sometimes
 
 The aspects of modern mainstream feminism that I may agree with are mostly inheritance of older, less exclusive philosophies: humanism, englightenment,
@@ -63,7 +66,7 @@ simply &ldquo;not being misogynist&rdquo;.
 
 Those negative aspects, by they way, would be:
 
-* Victimism.
+* Victimism ([&ldquo;victimhood&rdquo; instead of &ldquo;dignity&rdquo;](http://heterodoxacademy.org/2016/03/26/victimhood-culture-at-emory/)).
   Negation of the agency of adult women.
   Patronising attitudes.
 * A sense of entitlement (related to the one above).

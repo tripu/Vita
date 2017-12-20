@@ -239,3 +239,7 @@ It is necessary a conscious effort to absorb new ideas that seem extravagant or 
 * :triangular_flag_on_post:**Envy** and :triangular_flag_on_post:**nostalgia** are probably the two negative thoughts that affect me most often.
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
+
+We need much fewer laws.
+
+We need much clearer contracts.
