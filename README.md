@@ -82,6 +82,6 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.
 The idea for this project is borrowed from [Buster Benson](https://github.com/busterbenson)'s
 [&ldquo;Codex Vitae&rdquo;](https://github.com/busterbenson/public/blob/master/Codex.md) (hat tip).
 
-Copyright &copy; 2014&ndash;2016 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
+Copyright &copy; 2014&ndash;2017 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
 
 [All rights reserved](LICENSE.md).
