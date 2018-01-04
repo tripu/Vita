@@ -72,11 +72,12 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.md#footnotes), which are referenced throughout the text.
 
 **Key terms** (ideas, topics, people, works) appear **in bold**.
+Also, these emoji are used to highlight key terms:
 
-* **Ideas and subjects** are preceded by :bulb: (look for `:bulb:` in the raw text).
-* **Names of people** carry the icon :bust_in_silhouette: (written `:bust_in_silhouette:` in the source).
-* **Examples** use this *emoji*: 💭&nbsp; (written `💭&nbsp;`).
-* **References** to footnotes, or to other parts of the text, are preceded by :point_right: (code `:point_right:`).
+* **Ideas and subjects**: 💡
+* **Names of people**: 👤
+* **Examples**: 💭
+* **References** (to footnotes, or to other parts of the text): 👉
 
 ## 5. Credits
 
