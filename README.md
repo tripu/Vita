@@ -64,7 +64,7 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 1. [Gender](doc/gender.md#gender)
 1. [Parenting](doc/parenting.md#parenting): how to treat children well
 1. [Art](doc/art.md#art) (just a bit about literature for now)
-1. [People I admire](doc/people.md#people-i-admire)
+1. [People I admire (or detest)](doc/people.md#people-i-admire-or-detest)
 1. [Miscellanea](doc/miscellanea.md#miscellanea)
 
 ## 4. Conventions used in the text
@@ -75,7 +75,7 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.
 
 * **Ideas and subjects** are preceded by :bulb: (look for `:bulb:` in the raw text).
 * **Names of people** carry the icon :bust_in_silhouette: (written `:bust_in_silhouette:` in the source).
-* **Examples** use this *emoji*: :thought_balloon: (written `:thought_balloon:`).
+* **Examples** use this *emoji*: 💭&nbsp; (written `💭&nbsp;`).
 * **References** to footnotes, or to other parts of the text, are preceded by :point_right: (code `:point_right:`).
 
 ## 5. Credits
@@ -83,6 +83,6 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.
 The idea for this project is borrowed from [Buster Benson](https://github.com/busterbenson)'s
 [&ldquo;Codex Vitae&rdquo;](https://github.com/busterbenson/public/blob/master/Codex.md) (hat tip).
 
-Copyright &copy; 2014&ndash;2017 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
+Copyright &copy; 2014&ndash;2018 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
 
 [All rights reserved](LICENSE.md).

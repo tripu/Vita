@@ -14,7 +14,7 @@ How to treat children well.
 * Be radical always telling them the truth, except when that truth [TO-DO: exceptions?].
   In particular, never lie to them about fairy tales, mythical characters, Christmas presents, *magic*, sex, reproduction, their own place in the world and in
   society.
-* Be very :triangular_flag_on_post:**consistent** with rules, orders, reasons, prizes and punishment.
+* Be very 💡&nbsp;**consistent** with rules, orders, reasons, prizes and punishment.
   Assume that every time you contradict yourself it will be detected, and it will be used against you next time.
 * Never express any preference for one sibling over another.
   Resolve disputes in the most equitative way that is possible.
@@ -28,7 +28,7 @@ How to treat children well.
 
 ## 3 Speaking to them
 
-* Children aren't equipped yet to understand :triangular_flag_on_post:**praise, criticism or sarcasm**&nbsp;&mdash;&nbsp;not like adults.
+* Children aren't equipped yet to understand 💡&nbsp;**praise, criticism or sarcasm**&nbsp;&mdash;&nbsp;not like adults.
 That means that there are certain things that adults usually say to each other safely, that may be confusing or even harmful for a child:
   * When **referring to them**, a child should never hear from their parents sentences like these:
     * *“She's so annoying, all the time screaming! One more day like today and I'll kill myself.”*
@@ -43,8 +43,8 @@ That means that there are certain things that adults usually say to each other s
 
 ## 4 Language
 
-* Try to avoid the words :triangular_flag_on_post:**blame** and :triangular_flag_on_post:**fault**; use :triangular_flag_on_post:**responsibility** instead.
-* Try to avoid the words :triangular_flag_on_post:**guilt** and :triangular_flag_on_post:**guilty**.
+* Try to avoid the words 💡&nbsp;**blame** and 💡&nbsp;**fault**; use 💡&nbsp;**responsibility** instead.
+* Try to avoid the words 💡&nbsp;**guilt** and 💡&nbsp;**guilty**.
 * Do not simplify language more than strictly necessary.
   There's no harm in being exposed to *real*, adult language since an early age.
   If anything, it'll push them to absorb ideas and words, and start using them earlier.

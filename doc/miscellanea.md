@@ -15,7 +15,7 @@ uptight&rdquo; / &ldquo;humble, hard-working, working-class&rdquo; are *relative
 Interestingly, most of us seem to despise &ldquo;the rich&rdquo;&nbsp;&mdash;&nbsp;meaning by that *anyone who is richer than us*.
 We don't stop to think that we ourselves are &ldquo;rich&rdquo; for other people.
 
-:thought_balloon:An example:
+💭&nbsp;An example:
 In my particular case, right now (2016), I would call &ldquo;rich&rdquo; those who:
 * earn more than &euro;100,000 a year (I'm *very* far from that),
 * drive a car that cost &euro;40,000 or more (the one my girlfriend and I bought cost ~&euro;18,000),
@@ -28,7 +28,7 @@ The interesting thing here is this: if someone had asked me fiften years ago or 
 despicable, filthy posh person who can't appreciate how tough life actually is*.
 And I'm not talking about the effect of *inflation* here.
 
-:thought_balloon:Another example:
+💭&nbsp;Another example:
 Not long ago, I was talking with a friend of mine who has been living in London for around a decade now.
 \[Pending.\]
 
@@ -55,16 +55,16 @@ of that group engage in those behaviours themselves*.**
 
 For the same reason that your genes, your chromosomes and your passport don't remove certain basic human rights and abilities from you (if you
 think otherwise, you would be a racist, a sexist, a xenophobe)&nbsp;&mdash;&nbsp;for those same reasons, they don't *grant* you special privileges, either.
-:thought_balloon:Example: I, as a Spaniard, have the same right to (respectfully) criticise Japan and the Japanese, or to ridicule or parody them, as Japanese people
+💭&nbsp;Example: I, as a Spaniard, have the same right to (respectfully) criticise Japan and the Japanese, or to ridicule or parody them, as Japanese people
 themselves.
-:thought_balloon:Example: when a group starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
+💭&nbsp;Example: when a group starts using a derogatory word and finally adopts and &ldquo;normalises&rdquo; it (&ldquo;queer&rdquo;, &ldquo;nigger&rdquo;,
 *&ldquo;marica&rdquo;*), for me, they're implicitly letting people outside that circle use it too.
-:thought_balloon:Example: the opinions of a childless person about childcare, tax exemptions for parents, paedophilia, etc. should not be dismissed, nor given a lower value
+💭&nbsp;Example: the opinions of a childless person about childcare, tax exemptions for parents, paedophilia, etc. should not be dismissed, nor given a lower value
 than those coming from parents.
 (Yes, we can recognise the value of personal experiences; but when we're discussing statistics, averages, tradeoffs for society, etc, *your* experience raising
 *your* child or children is merely an anecdote.)
 
-:thought_balloon:Here is **a thought experiment** to prove that it's wrong to grant usage of certain words or ideas to specific groups of people only:
+💭&nbsp;Here is **a thought experiment** to prove that it's wrong to grant usage of certain words or ideas to specific groups of people only:
 
 Imagine there is a radio commentator you listen to frequently, and that you like.
 This person happens to be a black male.
@@ -99,7 +99,7 @@ If your answer to any of the questions above were positive, then *you* would be 
 
 Think about it: you just changed your feelings or your opinion about somebody (for the worse), *just because you learnt about his race*.
 
-:thought_balloon:**Another ficticious situation** to illustrate my point:
+💭&nbsp;**Another ficticious situation** to illustrate my point:
 
 Imagine that there is a columnist or an author you like and follow.
 She's a cultivated thinker, a progressive who supports the rights of minorities.
@@ -182,9 +182,9 @@ Who *owns* words?
 
 ## 5. Fashion
 
-* :triangular_flag_on_post:**Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
+* 💡&nbsp;**Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
 reputation or relevant expectations of people about you.
-:triangular_flag_on_post:**Trends** and :triangular_flag_on_post:**memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
+💡&nbsp;**Trends** and 💡&nbsp;**memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
 ignored, too.
 
 ## 6. Miscellanea&nbsp;&mdash;&nbsp;to be classified
@@ -227,7 +227,7 @@ years.
 
 * I believe in strong transparency in the corporate world, and within organisations (eg, sharing salaries among employees).
 
-* Forming (informed) :triangular_flag_on_post:**opinions** about hard questions is a long and ardous task&nbsp;&mdash;&nbsp;but also a fun one, and intellectually rewarding.
+* Forming (informed) 💡&nbsp;**opinions** about hard questions is a long and ardous task&nbsp;&mdash;&nbsp;but also a fun one, and intellectually rewarding.
 Don't settle for the first opinion that sounds convincing (let alone comforting) about anything important; discovering the truth takes many reads, and opening
 the mind to views that initially might seem absurd or even repulsive.
 
@@ -236,7 +236,7 @@ Our friends tend to think similar to us.
 Our readings tend to enforce our views (be it fiction, essays or the news).
 It is necessary a conscious effort to absorb new ideas that seem extravagant or dissenting.
 
-* :triangular_flag_on_post:**Envy** and :triangular_flag_on_post:**nostalgia** are probably the two negative thoughts that affect me most often.
+* 💡&nbsp;**Envy** and 💡&nbsp;**nostalgia** are probably the two negative thoughts that affect me most often.
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
 

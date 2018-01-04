@@ -17,7 +17,7 @@ Sinecures are never good.
 *Reductio ad absurdum*: &ldquo;if unnecessary, redundant or low-productivity occupations were good for society because, well, they provide jobs, then making up
 pointless occupations would be sound economic policy&rdquo;.
 
-:thought_balloon:An example:
+💭&nbsp;An example:
 
 Imagine that more thoughtful citizens and technological progress make it possible to reduce the number of waste collectors by 10%, while keeping the
 same level of service.
@@ -67,7 +67,7 @@ reason why innovation and progress occur in them).
 There are circumstances, though, where due to economies of scale and other factors, choosing the *best* option undermines competition and innovation, or poses
 other problems.
 
-:thought_balloon:For example, at the time of writing (Mar 2016), too many people rely on :bust_in_silhouette:**Alphabet (Google)** every day, and for too many
+💭&nbsp;For example, at the time of writing (Mar 2016), too many people rely on 👤&nbsp;**Alphabet (Google)** every day, and for too many
 things.
 **Alphabet** is growing a gigantic super-power, with vast knowledge about virtually everything that happens in the developed world (individuals, companies,
 organisations and public institutions).
@@ -75,6 +75,6 @@ They are a monopoly, or very close to being one, in a few areas already.
 They are one of the main actors in the whole surveillance problem on the internet.
 There are reasons to oppose that trend, and to pick competitors over **Alphabet**, for the health of society and consumers.
 
-:thought_balloon:Another example: it seems that :bust_in_silhouette:**Uber** is going to crush its competitors (eg, :bust_in_silhouette:**Lyft**) and build a
+💭&nbsp;Another example: it seems that 👤&nbsp;**Uber** is going to crush its competitors (eg, 👤&nbsp;**Lyft**) and build a
 monopoly.
 Such monopoly would destroy part of the benefits that those companies have brought to consumers who used to use taxis in the first place.

@@ -52,7 +52,7 @@ Why don't we have equivalent terms to refer to people who are against discrimina
 If you don't call yourself a *gipsyist*, a *fattist* or a *poorist*, why do we accept *feminist* so naturally?
 The *name* itself is a banner under which many people can reasonably find it troubling to gather (me among them).
 
-* &ldquo;Equity feminism&rdquo; (:bust_in_silhouette:**Christina Hoff Sommers**) and &ldquo;liberal/libertarian feminism&rdquo;, as opposed to &ldquo;gender
+* &ldquo;Equity feminism&rdquo; (👤&nbsp;**Christina Hoff Sommers**) and &ldquo;liberal/libertarian feminism&rdquo;, as opposed to &ldquo;gender
 feminismo&rdquo;.
 
 ## 3. What feminism gets wrong sometimes
@@ -93,14 +93,14 @@ Those negative aspects, by they way, would be:
   comments or praise from men towards women).
 * :point_right:[Political correctness](politics.md#6-political-correctness).
 
-I sympathise with many of the opinions of the self-proclaimed feminist :bust_in_silhouette:**Camille Paglia**.
+I sympathise with many of the opinions of the self-proclaimed feminist 👤&nbsp;**Camille Paglia**.
 She is on record since the early nineties at least (probably before) fericiously attacking the same set of bogus tenets that are so alarming today.
 See [this interview from 1992](https://www.youtube.com/watch?v=sIomA2MQNI4).
 
-More recently, I like the views of :bust_in_silhouette:**Christina Hoff Sommers** and a few other &ldquo;alternative feminists&rdquo;.
+More recently, I like the views of 👤&nbsp;**Christina Hoff Sommers** and a few other &ldquo;alternative feminists&rdquo;.
 
-The existence of some misogynistic, regressive, apologetic types (:bust_in_silhouette:**Mike Buchanan**) and those hateful so-called &ldquo;pick-up
-artists&rdquo; (:bust_in_silhouette:**Julien Blanc**, :bust_in_silhouette:**Roosh Valizadeh**) is a disgrace for those of us who are criticising
+The existence of some misogynistic, regressive, apologetic types (👤&nbsp;**Mike Buchanan**) and those hateful so-called &ldquo;pick-up
+artists&rdquo; (👤&nbsp;**Julien Blanc**, 👤&nbsp;**Roosh Valizadeh**) is a disgrace for those of us who are criticising
 feminism in a serious, constructive way.
 Those guys often *do* have a point when they talk about sexism affecting men too, and about biological differences between men and women playing a huge role.
 Also, it is refreshing that they speak frankly about sex and about working on techniques to get sex from women, changing their behaviour and what they say to
@@ -125,7 +125,7 @@ However, this only works at the level of individuals&nbsp;&mdash;&nbsp;social no
 
 Also, this does *not* mean that we should not question and correct unjust attitudes
 
-:thought_balloon:Example: I once joined a meeting of a sort of &ldquo;book club&rdquo; where I did not know anybody.
+💭&nbsp;Example: I once joined a meeting of a sort of &ldquo;book club&rdquo; where I did not know anybody.
 It turned out that the few people who could make it in the end were all women, except for me.
 We were a small group (six or eight people, I think) chatting at a caf&eacute; about books, and writing, for a couple of hours.
 I didn't like the fact that I was the only man at the event.

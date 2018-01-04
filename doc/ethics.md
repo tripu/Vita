@@ -13,19 +13,19 @@
 
 ### 1.1. Things I believe in
 
-* :triangular_flag_on_post:**Friendship**, as one of the greatest experiences in life.
-* :triangular_flag_on_post:**Romantic love**, although not in the absolute, binary, eternal form so often portrayed in fiction or by religion.
-* Other forms of :triangular_flag_on_post:**love**.
-* :triangular_flag_on_post:**Gay marriage** (and, in general, any &ldquo;right&rdquo; that puts disadvantaged minorities *on par* with other members of
+* 💡&nbsp;**Friendship**, as one of the greatest experiences in life.
+* 💡&nbsp;**Romantic love**, although not in the absolute, binary, eternal form so often portrayed in fiction or by religion.
+* Other forms of 💡&nbsp;**love**.
+* 💡&nbsp;**Gay marriage** (and, in general, any &ldquo;right&rdquo; that puts disadvantaged minorities *on par* with other members of
   society).
-* Radical :triangular_flag_on_post:**euthanasia** (apart from not processing doctors nor relatives who assist in a suicide, the State should actively help those
+* Radical 💡&nbsp;**euthanasia** (apart from not processing doctors nor relatives who assist in a suicide, the State should actively help those
   who *really* want to end their lives, but who cannot do that by themselves :point_right:[&#10033;1](footnotes.md#1)).
 
 ### 1.2. Things I'm not sure about
 
 #### 1.2.1. Gays adopting children
 
-I *do* support :triangular_flag_on_post:**gay adoption**, by principle.
+I *do* support 💡&nbsp;**gay adoption**, by principle.
 I do not believe that gay couples (male or female) necessarily lack any of the attributes that are important for parenthood.
 Experience and science seem to have proved that children of gay couples are, on average, as healthy and happy as other children.
 
@@ -33,7 +33,7 @@ But I suspect there might be moral reasons to give always prefence to straight c
 
 #### 1.2.2. Free abortion
 
-I feel that :triangular_flag_on_post:**abortion** is *not* a yes-or-no issue.
+I feel that 💡&nbsp;**abortion** is *not* a yes-or-no issue.
 One sign of that is that virtually everybody opposes abortion very late in the pregnancy (even strong supporters of abortive rights do not condone aborting big,
 perfectly viable, completely formed fetuses that could be safely delivered in the last days/weeks of pregnancy).
 Between that, and the morning-after pill, I see a spectrum of possibilities.
@@ -48,8 +48,8 @@ At the very least, slogans like &ldquo;our body, we decide&rdquo;, &ldquo;it's *
 
 ### 1.3. Things I oppose
 
-* :triangular_flag_on_post:**Death penalty** (it's both immoral and ineffective).
-* :triangular_flag_on_post:**Collective guilt**, :triangular_flag_on_post:**historic guilt** (nobody can be held accountable for the crimes of their close
+* 💡&nbsp;**Death penalty** (it's both immoral and ineffective).
+* 💡&nbsp;**Collective guilt**, 💡&nbsp;**historic guilt** (nobody can be held accountable for the crimes of their close
   relatives; much less of their ancestors; let alone imagined or supposed distant ancestors with whom one barely shares a religion, a language, or an
   approximate skin colour).
 
@@ -59,8 +59,8 @@ At the very least, slogans like &ldquo;our body, we decide&rdquo;, &ldquo;it's *
 
 ## 3. Honour vs. dignity
 
-:triangular_flag_on_post:**Honour** is an outdated concept.
+💡&nbsp;**Honour** is an outdated concept.
 Society has evolved
 [from &ldquo;cultures of honour&rdquo; to &ldquo;cultures of dignity&rdquo;](http://heterodoxacademy.org/2016/03/26/victimhood-culture-at-emory/).
 Honour is acquired through conflict and violence, and relies on the opinion of others.
-:triangular_flag_on_post:**Dignity**, on the other hand, is universal and egalitarian.
+💡&nbsp;**Dignity**, on the other hand, is universal and egalitarian.

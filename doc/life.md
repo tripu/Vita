@@ -14,7 +14,7 @@ The most important thing for me should be my own **health**, **happiness** and g
 
 **People** around me, people who are important to me, should be my second concern.
 
-I believe more in :triangular_flag_on_post:**persistence** and :triangular_flag_on_post:**practice** than in :triangular_flag_on_post:**talent**.
+I believe more in 💡&nbsp;**persistence** and 💡&nbsp;**practice** than in 💡&nbsp;**talent**.
 
 ## 2. General principles, and making decisions
 
@@ -49,27 +49,27 @@ Always remember that you tend to idealise the **past**.
 
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/todo.html).
 
-:triangular_flag_on_post:**Pride** and :triangular_flag_on_post:**shame** apply only to aspects of life over which one has considerable control.
+💡&nbsp;**Pride** and 💡&nbsp;**shame** apply only to aspects of life over which one has considerable control.
 
-:thought_balloon:Example: it does *not* make sense to &ldquo;feel proud (nor ashamed) to be an American / a woman / gay / white / tall&hellip;&rdquo;
+💭&nbsp;Example: it does *not* make sense to &ldquo;feel proud (nor ashamed) to be an American / a woman / gay / white / tall&hellip;&rdquo;
 At most, one is only partially responsible of being &ldquo;a Dutch&rdquo; (citizenships can be lost and gained, to some extent, through our actions), or
 &ldquo;physically fit&rdquo; (you cannot control genetics, but your lifestyle influences your phenotype).
 
-:triangular_flag_on_post:**Nationality**, in particular, is, in the vast majority of cases, an accident, completely involuntary.
+💡&nbsp;**Nationality**, in particular, is, in the vast majority of cases, an accident, completely involuntary.
 (Exceptions are those who migrate purposefully, break off with their country of origin, etc.)
 Modulo those few people, no-one can truly feel proud, nor ashamed, of their nationality or their mother tongue.
 
 ## 3. People
 
-* Explicitly asserting :triangular_flag_on_post:**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
-* :triangular_flag_on_post:**Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
-* In most day–to–day situations, :triangular_flag_on_post:**lying** is **bad** and shall be avoided.
+* Explicitly asserting 💡&nbsp;**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
+* 💡&nbsp;**Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
+* In most day–to–day situations, 💡&nbsp;**lying** is **bad** and shall be avoided.
 There are a number of circumstances, though, when lying is perfectly admisible&nbsp;&mdash;&nbsp;and even advisable.
-Always telling the :triangular_flag_on_post:**truth** is overrated.
+Always telling the 💡&nbsp;**truth** is overrated.
 Few valid exceptions to this rule may be lying (or simply hiding part of the truth) to: children, mentally incapable adults, terminally ill patients.
 There are situations in which a *lack* of information is good for you.
 But those are the exception.
-* One shall take no :triangular_flag_on_post:**offence** from sources one does not value or respect.
+* One shall take no 💡&nbsp;**offence** from sources one does not value or respect.
   If someone I despise calls me a name, or tries to offend me, I can safely ignore them (as long as their public defamation or verbal violence doesn't actually
   affect my image or reputation).
   :point_right:[&#10033;&nbsp;**honour vs. dignity**](ethics.md##3-honour-vs-dignity)
@@ -80,7 +80,7 @@ I'll do well if I stop and reflect honestly when I detect those unpleasant behav
 
 ## 4. Debates and discussing with people
 
-* All :triangular_flag_on_post:**debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
+* All 💡&nbsp;**debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
 That's the goal.
 Everything else is a colourful wrapping.
 * Too often, the environment isn't appropriate for a debate: loud noise, big egos, bad manners, haste and the lack of a minimum conceptual base to start with
@@ -99,5 +99,5 @@ Avoid.
 
 Learning and discovering is one of the greatest pleasures in life.
 
-I love what :bust_in_silhouette:**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is:
+I love what 👤&nbsp;**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is:
 https://youtu.be/5eo3ZC1Sc2w?t=23m31s

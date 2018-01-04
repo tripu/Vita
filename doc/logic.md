@@ -7,15 +7,15 @@
 
 * The difficulty in establishing fair/appropriate boundaries or cut-off points in moral questions that come in gradations does not mean that no boundaries are
   appropriate (ie, that an absolute, binary answer is the right one).
-  :thought_balloon:Example: even &ldquo;pro-choice&rdquo; people concede that big, perfectly viable, completely formed fetuses should not be aborted in the last
+  💭&nbsp;Example: even &ldquo;pro-choice&rdquo; people concede that big, perfectly viable, completely formed fetuses should not be aborted in the last
   days of pregnancy; and many &ldquo;pro-life&rdquo; advocates do not oppose interrupting the gestation of an embryos a few hours after fertilisation.
   The &ldquo;cut-off&rdquo; after which abortion is immoral is very contingent.
   That proves that no abortion is moral / all abortions are moral.
   (**Wrong reasoning**.)
-  :thought_balloon:Example: it is very difficult to discern exactly how much a person has to earn to keep their dignity; therefore the idea of imposing a
+  💭&nbsp;Example: it is very difficult to discern exactly how much a person has to earn to keep their dignity; therefore the idea of imposing a
   minimum wage is absurd.
   (**Wrong reasoning**.)
-  :thought_balloon:Example: the vast majority of those who defend the right of any citizen to own any kind of firearm would admit that there should be a limit
+  💭&nbsp;Example: the vast majority of those who defend the right of any citizen to own any kind of firearm would admit that there should be a limit
   (eg, individuals should not produce/own [ICBM](https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile)'s, or
   [WMD](https://en.wikipedia.org/wiki/Weapon_of_mass_destruction)'s like biological or nuclear weapons).
   Similarly, virtually everybody thinks that it is okay for regular people to own chef's knives, camping knives, rat poison, and many other utensils that are
