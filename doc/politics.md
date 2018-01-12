@@ -142,9 +142,14 @@ I see all attributions of the state as a gradient of necessities, with varying l
 responsibilities of the state.
 
 I have struggled for some time with the question of public funding, grants and subsidies, in general.
-Today, I suspect that most, if not all, 
+As of today I suspect that most, if not all, &ldquo;cultural;&rdquo; public subsidies are immoral.
+The &ldquo;culture&rdquo; is vaporous, changing, ambiguous and contingent.
+Every meaning humans make is, by definition, &ldquo;culture&rdquo;.
+What aspects of &ldquo;culture&rdquo; a particular government can preserve or boost are very specific and ideological.
 
-Regarding the **welfare state* and **social safety nets**, recently I have
+Regarding the **welfare state** and **social safety nets**, recently I have come to realise that there is a rather clear way to draw the line: it *may* make
+sense for the state to subsidise those who find themselves in dire circumstances **because of events outside their control&nbsp;&mdash;&nbsp;but not
+otherwise**.
 
 ### 7. Political correctness
 
