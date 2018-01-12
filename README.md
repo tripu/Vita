@@ -1,4 +1,4 @@
-# V&#299;ta
+## V&#299;ta
 
 Life notes.
 
@@ -64,7 +64,7 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 1. [Gender](doc/gender.md#gender)
 1. [Parenting](doc/parenting.md#parenting): how to treat children well
 1. [Art](doc/art.md#art) (just a bit about literature for now)
-1. [People I admire (or detest)](doc/people.md#people-i-admire-or-detest)
+1. [Famous people I admire (or detest)](doc/people.md#famous-people-i-admire-or-detest)
 1. [Miscellanea](doc/miscellanea.md#miscellanea)
 
 ## 4. Conventions used in the text
@@ -74,7 +74,7 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.
 **Key terms** (ideas, topics, people, works) appear **in bold**.
 Also, these emoji are used to highlight key terms:
 
-* **Ideas and subjects**: 💡
+* **Ideas and subjects**: <span style="background-color: yellow;">💡</span>
 * **Names of people**: 👤
 * **Examples**: 💭
 * **References** (to footnotes, or to other parts of the text): 👉

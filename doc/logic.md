@@ -25,6 +25,9 @@
   weapons (like pistols) should be banned.
 * The fact that individuals cannot perceive, measure and confirm every aspect of the natural world first-hand seems to suggest that the
   [&ldquo;argument from authority&rdquo; fallacy](https://en.wikipedia.org/wiki/Argument_from_authority)
+* Certain characteristics are void in the scope of good reasoning:
+  * **Tradition** (custom and habit justified so many barbaric ideas and practices).
+  * **Nature** (the fact that something is *artificial* does not necessarily mean it is worse than a more &ldquo;natural&rdquo; alternative).
 
 ## 2. Miscellanea
 
