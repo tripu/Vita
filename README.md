@@ -74,7 +74,8 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.
 **Key terms** (ideas, topics, people, works) appear **in bold**.
 Also, these emoji are used to highlight key terms:
 
-* **Ideas and subjects**: <span style="background-color: #ff0000;">💡</span>
+* <span class="icon red">💡</span>&nbsp;**Ideas and subjects**:  
+  `<span class="icon red">💡</span>`
 * **Names of people**: <span style="background-color: #80ff00;">👤</span>
 * **Examples**: <span style="background-color: #00ffff;">💭</span>
 * **References** (to footnotes, or to other parts of the text): <span style="background-color: #8000ff;">👉</span>

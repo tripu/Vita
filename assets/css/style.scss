@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+span.icon {
+  padding: 0 0.25rem;
+  border-radius: 1rem;
+}
+
+span.red {
+  background-color: #ff0000;
+}
