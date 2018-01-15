@@ -49,6 +49,9 @@ Always remember that you tend to idealise the **past**.
 
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/todo.html).
 
+[<span class="icon">👤</span>&nbsp;**Jordan Peterson**'s answer to the question &ldquo;what are the most valuable things everyone should know&rdquo; on
+Quora](https://www.quora.com/What-are-the-most-valuable-things-everyone-should-know/answer/Jordan-B-Peterson)
+
 💡&nbsp;**Pride** and 💡&nbsp;**shame** apply only to aspects of life over which one has considerable control.
 
 💭&nbsp;Example: it does *not* make sense to &ldquo;feel proud (nor ashamed) to be an American / a woman / gay / white / tall&hellip;&rdquo;
