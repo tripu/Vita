@@ -19,7 +19,7 @@
 * 💡&nbsp;**Gay marriage** (and, in general, any &ldquo;right&rdquo; that puts disadvantaged minorities *on par* with other members of
   society).
 * Radical 💡&nbsp;**euthanasia** (apart from not processing doctors nor relatives who assist in a suicide, the State should actively help those
-  who *really* want to end their lives, but who cannot do that by themselves :point_right:[&#10033;1](footnotes.md#1)).
+  who *really* want to end their lives, but who cannot do that by themselves <span class="icon ref">👉</span>&nbsp;[**1**](footnotes.md#1)).
 
 ### 1.2. Things I'm not sure about
 

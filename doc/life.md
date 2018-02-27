@@ -62,6 +62,10 @@ At most, one is only partially responsible of being &ldquo;a Dutch&rdquo; (citiz
 (Exceptions are those who migrate purposefully, break off with their country of origin, etc.)
 Modulo those few people, no-one can truly feel proud, nor ashamed, of their nationality or their mother tongue.
 
+> *&ldquo;Those who have accomplished nothing as individuals feel compelled to be proud of their race.&rdquo;*
+
+&mdash;&nbsp;<span class="icon name">👤</span>&nbsp;[**Jordan Peterson**](https://twitter.com/jordanbpeterson/status/935380897351680000)
+
 ## 3. People
 
 * Explicitly asserting 💡&nbsp;**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.

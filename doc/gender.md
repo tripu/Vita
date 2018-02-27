@@ -1,4 +1,4 @@
-# Gender
+## Gender
 
 About Men and women.
 
@@ -13,7 +13,7 @@ About Men and women.
 1. [On taking offence](#7-on-taking-offence)
 1. [The situation of men in secular, liberal democracies](#8-the-situation-of-men-in-secular-liberal-democracies)
 
-## 1. General thoughts
+### 1. General thoughts
 
 When discussing gender roles, feminism, sexism, etc, I think that the **setting** is extremely important (and that is the first thing that should be agreed upon
 by everyone participating on a debate).
@@ -29,7 +29,7 @@ But I oppose feminism (classical or otherwise) in all places where *any* of thes
 * Where those disadvantages are, at the present time, being overcome at a rapid pace and increasingly condemned by public opinion.
 * Where women are favoured over men overall.
 
-## 2. Am I a feminist?
+### 2. Am I a feminist?
 
 As I said above, it depends *where*.
 
@@ -52,10 +52,10 @@ Why don't we have equivalent terms to refer to people who are against discrimina
 If you don't call yourself a *gipsyist*, a *fattist* or a *poorist*, why do we accept *feminist* so naturally?
 The *name* itself is a banner under which many people can reasonably find it troubling to gather (me among them).
 
-* &ldquo;Equity feminism&rdquo; (👤&nbsp;**Christina Hoff Sommers**) and &ldquo;liberal/libertarian feminism&rdquo;, as opposed to &ldquo;gender
-feminismo&rdquo;.
+I prefer &ldquo;equity feminism&rdquo; (<span class="icon name">👤</span>&nbsp;**Christina Hoff Sommers**) or &ldquo;liberal/libertarian feminism&rdquo;, as
+opposed to &ldquo;gender feminism&rdquo;.
 
-## 3. What feminism gets wrong sometimes
+### 3. What feminism gets wrong sometimes
 
 The aspects of modern mainstream feminism that I may agree with are mostly inheritance of older, less exclusive philosophies: humanism, englightenment,
 secularism, egalitarianism, liberalism&hellip;
@@ -91,17 +91,18 @@ Those negative aspects, by they way, would be:
 * Moral relativism (eg, in some disturbing and conflicting views on the *hijab*, the *burqa*, female genital mutilation).
 * Misplacement of the focus towards the insignificant (eg, innocuous peculiarities in human languages, quaint &ldquo;gentlemanly&rdquo; habits, *bona fide*
   comments or praise from men towards women).
-* :point_right:[Political correctness](politics.md#6-political-correctness).
+* <span class="icon ref">👉</span>&nbsp;[Political correctness](politics.md#7-political-correctness).
 
-I sympathise with many of the opinions of the self-proclaimed feminist 👤&nbsp;**Camille Paglia**.
+I sympathise with many of the opinions of the self-proclaimed feminist <span class="icon name">👤</span>&nbsp;**Camille Paglia**.
 She is on record since the early nineties at least (probably before) fericiously attacking the same set of bogus tenets that are so alarming today.
 See [this interview from 1992](https://www.youtube.com/watch?v=sIomA2MQNI4).
 
-More recently, I like the views of 👤&nbsp;**Christina Hoff Sommers** and a few other &ldquo;alternative feminists&rdquo;.
+More recently, I like the views of <span class="icon name">👤</span>&nbsp;**Christina Hoff Sommers**, <span class="icon name">👤</span>&nbsp;**Warren Farrell**
+and a few other &ldquo;alternative feminists&rdquo; (perhaps <span class="icon name">👤</span>&nbsp;**Germaine Greer**, too).
 
-The existence of some misogynistic, regressive, apologetic types (👤&nbsp;**Mike Buchanan**) and those hateful so-called &ldquo;pick-up
-artists&rdquo; (👤&nbsp;**Julien Blanc**, 👤&nbsp;**Roosh Valizadeh**) is a disgrace for those of us who are criticising
-feminism in a serious, constructive way.
+The existence of some misogynistic, regressive, apologetic types (<span class="icon name">👤</span>&nbsp;**Mike Buchanan**) and those hateful so-called
+&ldquo;pick-up artists&rdquo; (<span class="icon name">👤</span>&nbsp;**Julien Blanc**, <span class="icon name">👤</span>&nbsp;**Roosh Valizadeh**) is a disgrace
+for those of us who are criticising contemporary feminism in a serious, constructive way.
 Those guys often *do* have a point when they talk about sexism affecting men too, and about biological differences between men and women playing a huge role.
 Also, it is refreshing that they speak frankly about sex and about working on techniques to get sex from women, changing their behaviour and what they say to
 those women (there is nothing immoral in wanting sex&nbsp;&mdash;&nbsp;and just sex&nbsp;&mdash;&nbsp;from another person; and there is nothing immoral about
@@ -110,7 +111,7 @@ us&nbsp;&mdash;&nbsp;we do it all the time).
 But it is clear by listening to them, and by reading what they write on the internet, that most of them also harbour really immoral attitudes towards women;
 misogynistic, degrading, at times bordering on the violent.
 
-## 4. Being sexist
+### 4. Being sexist
 
 I think most of us are at least somewhat sexist (and at least somewhat racist, xenophobic, ageist, aspectist&hellip;).
 At a personal level, discriminating certain groups of people (or put it in another way: *favouring* certain groups of people) seems to make complete sense.
@@ -136,20 +137,18 @@ sometimes quite different from those I'm used to).
 If I were &ldquo;gender-blind&rdquo; (as some feminist wants everybody to be, apparently), I should not have felt any uneasiness.
 Or, if I felt it, I should have worked to overcome it. [TO-DO]
 
-:point_right:[]
+### 5. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
 
-## 5. &ldquo;Rape culture&rdquo;, trigger warnings, microaggressions
+#### 5.1. Rape
 
-### 5.1. Rape
-
-There is a disonance between how wrong certain acts feel (how immoral they seem) and how worried society is about them happening,
+There is a dissonance between how wrong certain acts feel (how immoral they seem) and how worried society is about them happening,
 
 I think most people would agree that murder is a far worse crime than rape or physical violence.
 However, we seem much more concerned about the portrayal of rape in works of fiction and in the mass media than we are about violence or murder.
 Kids nowadays see *way more instances* of people killing other people, and people torturing or beating other people, than people *raping* other people.
 
-Violence, torture, cruelty and assasinations are ubiquitous in TV, film and videogames.
-Violence is *the* basis for so much of contemporary popular culture (many videogames; products about &ldquo;super-heros&rdquo;; products about cops, spies, the
+Violence, torture, cruelty and assassinations are ubiquitous in TV, film and video games.
+Violence is *the* basis for so much of contemporary popular culture (many video games; products about &ldquo;super-heros&rdquo;; products about cops, spies, the
 military, wars; action films&hellip;).
 
 Those forms of murder or extreme violence happen, interestingly, usually between male characters.
@@ -169,7 +168,7 @@ I suspect this has to do with these factors:
   If *male* videogame designers and *male* videogame players want it that way, let them have it.&rdquo;)
 * :point_right:[Political correctness](politics.md#6-political-correctness).).
 
-### 5.2 Rape culture
+#### 5.2 Rape culture
 
 There isn't one.
 At least, not in the sense the media has been using the term in recent years.
@@ -179,14 +178,14 @@ abusing the term &ldquo;culture&rdquo;.
 The problem of sexual violence would be better understood and addressed if instead of bending the meaning of certain words and coining hyperboles, we used
 studies, numbers and statistics to illustrate it.
 
-## 6. The use of language
+### 6. The use of language
 
 \[Pending.\]
 
-## 7. On taking offence
+### 7. On taking offence
 
 \[Pending.\]
 
-## 8. The situation of men in secular, liberal democracies
+### 8. The situation of men in secular, liberal democracies
 
 \[Pending.\]

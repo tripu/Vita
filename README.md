@@ -65,6 +65,7 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 1. [Parenting](doc/parenting.md#parenting): how to treat children well
 1. [Art](doc/art.md#art) (just a bit about literature for now)
 1. [Famous people I admire (or detest)](doc/people.md#famous-people-i-admire-or-detest)
+1. [Tastes](doc/tastes.md#tastes)
 1. [Miscellanea](doc/miscellanea.md#miscellanea)
 
 ## 4. Conventions used in the text
@@ -74,11 +75,10 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](doc/footnotes.
 **Key terms** (ideas, topics, people, works) appear **in bold**.
 Also, these emoji are used to highlight key terms:
 
-* <span class="icon red">💡</span>&nbsp;**Ideas and subjects**:  
-  `<span class="icon red">💡</span>`
-* **Names of people**: <span style="background-color: #80ff00;">👤</span>
-* **Examples**: <span style="background-color: #00ffff;">💭</span>
-* **References** (to footnotes, or to other parts of the text): <span style="background-color: #8000ff;">👉</span>
+* <span class="icon idea">💡</span>&nbsp;**Ideas and subjects**: `<span class="icon idea">💡</span>`
+* <span class="icon name">👤</span>&nbsp;**Names of people**: `<span class="icon name">👤</span>`
+* <span class="icon eg">💭</span>&nbsp;**Examples**: `<span class="icon eg">💭</span>`
+* <span class="icon ref">👉</span>&nbsp;**References**: `<span class="icon ref">👉</span>`
 
 ## 5. Credits
 

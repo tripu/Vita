@@ -1,7 +1,7 @@
 ## Politics
 
 1. [Democracy](#1-democracy)
-1. [In general, the fewer laws, the better](#2-in-general-the-fewer-laws-the-better)
+1. [Laws and contracts should be much fewer, much shorter](#2-laws-and-contracts-should-be-much-fewer--much-shorter)
 1. [I believe in rules](#3-i-believe-in-rules)
 1. [Political stance(s)](#4-political-stances)
 1. [On voting](#5-on-voting)
@@ -30,11 +30,19 @@ In other words, the ideal would be to have citizens casting their votes constant
 Given the rate at which criptography and mobile computing are progressing, that scenario seems feasible and affordable in the near future.
 Still, are we sure that form of government would be a good thing&hellip;?
 
-### 2. In general, the fewer laws, the better
+### 2. Laws and contracts should be much fewer, much shorter
+
+In general, the fewer laws, the better.
 
 That does not mean that there should be *no* rules.
-It just means that the mere *existence* of a 💡&nbsp;**law** (formal prescription) or of a social norm (informal prescription) *needs justification*, and that the
-benefits of controlling, regulating or prohibiting certain aspect *have* to outweigh the benefits of not interfering with it.
+It just means that the mere *existence* of a <span class="icon idea">💡</span>&nbsp;**law** (formal prescription) or of a social norm (informal prescription)
+*needs justification*, and that the benefits of controlling, regulating or prohibiting certain aspect *have* to outweigh the benefits of not interfering with
+it.
+
+Contracts of any sort should be *short*.
+In most day-to-day situations, a client, a consumer, an employee, should not need to examine more than a page or two of reasonably-sized text in order to decide
+whether they agree to buying or selling a product, using a service, hiring someone, etc.
+Today, the verbiage in all kinds of legally binding documents leads to an awful lot of cognitive overhead, additional costs and &ldquo;legal fraud&rdquo;.
 
 ### 3. I believe in rules
 
@@ -89,6 +97,40 @@ fully with those movements.
 * I am a liberal with respect to many/most typical 💡&nbsp;**social issues** (gay rights, freedom of speech, euthanasia).
 * **Fiscally**, I favour progressive, &ldquo;high&rdquo; 💡&nbsp;**taxes** (of the sort you see nowadays in Scandinavian states).
 * I believe in 💡&nbsp;**free markets**, and in 💡&nbsp;**capitalism**.
+
+<span class="icon idea">💡</span>&nbsp;**Free speech**, and the rejection of all <span class="icon idea">💡</span>&nbsp;**censorship**, apply only to the public
+sphere: individuals, companies and organisations are absolutely free to decide what messages they want to promote or ignore.
+(This does *not* absolve them from being hypocritical *if* they declare they are committed to &ldquo;free speech&rdquo;, &ldquo;diversity&rdquo;,
+etc.&nbsp;&mdash;&nbsp;but that is to be decided, and acted upon, by other individuals, companies and organisations; not by the State or the government.)
+
+The concept of <span class="icon idea">💡</span>&nbsp;**&ldquo;hate speech&rdquo;**, and the ways it is wielded to try to grant exceptions to free speech, are
+just attempts at curtailing that right for ideological or political reasons.
+The most obvious examples of &ldquo;hate speech&rdquo; anyone can come up with are so evidently *not* deserving of censorship that the whole topic collapses
+under its own weight: &ldquo;I truly hate all my neighbours&rdquo;; &ldquo;your head of state is evil and incompetent&rdquo;; &ldquo;not a single Jew was killed
+during WWII&rdquo;; &ldquo;I wouldn't rescue a drowning atheist if I saw one, I'd rejoice while they agonise&rdquo;; etc.
+
+A sentence such as &ldquo;gay people are not people; they're animals and I have no respect for them&rdquo; is wrong on many levels: it is (scientifically)
+false, it is dishonest, it is hurtful, it's regressive.
+It is pointless.
+Someone expressing that view deserves either utmost contempt, absolute silence from everyone around them, or a fierce response (I'm not sure; it would depend on
+the situation, I guess).
+*But*, everyone should defend the right of that person to express that view.
+
+We have the right to hate anything and anyone, and the right to say so publicly.
+
+We also have the right to be wrong about anything, and to deliberately lie about anything (as long as it's not on a binding contract).
+
+Speech cannot be violence *per se*.
+Discussing others' &ldquo;identities&rdquo;, beliefs, rights, abilities or lack thereof, etc&nbsp;&mdash;&nbsp;that is not *violent*.
+It may be dishonest, false, irrelevant, or result offensive to some, though.
+
+Speech is sometimes used to *incite* violence explicitly, and that is a different thing.
+That is the only specific case I can think of when free speech is to be restricted.
+
+> *&ldquo;Speech that demeans on the basis of race, ethnicity, gender, religion, age, disability, or any other similar ground is hateful; but the proudest boast
+of our free speech jurisprudence is that we protect the freedom to express &lsquo;the thought that we hate.&rsquo;&rdquo;*
+
+&mdash;&nbsp;[US Supreme Court](https://www.supremecourt.gov/opinions/16pdf/15-1293_1o13.pdf)
 
 (For more about economics, see the note at the bottom \[The Economist\], and :point_right:[economics](economics.md#economics).)
 
@@ -151,10 +193,31 @@ Regarding the **welfare state** and **social safety nets**, recently I have come
 sense for the state to subsidise those who find themselves in dire circumstances **because of events outside their control&nbsp;&mdash;&nbsp;but not
 otherwise**.
 
+<span class="icon eg">💭</span>&nbsp;Someone who is struck by an unpredictable disease, or by an accident, and who lacks material resources or family support to
+assist them&nbsp;&mdash;&nbsp;they deserve help from the state (ie, from society as a whole).  
+<span class="icon eg">💭</span>&nbsp;Someone who recklessly decides to have a child, or several children, when personal circumstances and reasonable
+expectations seem to indicate that they may struggle to raise them properly&nbsp;&mdash;&nbsp;that person does *not* deserve sympathy nor financial support from
+the community (but of course, the children themselves are victims, and society has a moral imperative to provide for them).  
+<span class="icon eg">💭</span>&nbsp;Someone who launches a business, of any kind, is entirely responsible for its fate (it's only fair, since they alone are
+entitled to reap the benefits, if there are any): there is no reason to collectively &ldquo;compensate&rdquo; for their losses, or to alleviate their financial
+burden.
+
+**A work accident that maims or kills someone, or that leaves them unfit for work**, is an unfortunate event for which that person is not responsible.
+(For the sake of the example, let's leave aside the possibility that that person, or their employer, should have been insured against such events.)
+It makes sense that society, as a whole, helps that person overcome this situation.
+
+**Deciding to have children (when, how, how many, and with whom)** is a conscious decision.
+As such, no-one, except the parents themselves (or the parent him/herself) are responsible for the well-being of those children.
+Of course, if those parents neglect their responsibility or are in dire straits and the kids are suffering as a consequence, society is morally obliged to step
+in and help the kids; perhaps making sure they're properly fed etc, or even retiring the custody.
+The point is that those people are entitled to no subsidy at all simply because *they happened to decide to raise children*.
+(If your argument in favour of society helping families *by default* has to do with the economy and future public pensions, see
+<span class="icon ref">👉</span>&nbsp;[](economics.md#4-public-pensions).)
+
 ### 7. Political correctness
 
-> &ldquo;*That playground of guilty white liberals: political correctness.
-  Political correctness is America's newest form of intolerance.
+> &ldquo;*That playground of guilty white liberals: political correctness.  
+  Political correctness is America's newest form of intolerance.  
   And it's especially pernicious because it comes disguised as tolerance.*&rdquo;
 
 &mdash;&nbsp;George Carlin [[audio](https://www.youtube.com/watch?v=hkhUivqzWv0)].
