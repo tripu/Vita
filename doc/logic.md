@@ -1,7 +1,8 @@
 # Logic
 
 1. [Rules of discourse](#1-rules-of-discourse)
-1. [Miscellanea](#2-miscellanea)
+1. [Beliefs I cannot justify](#2-beliefs-i-cannot-justify)
+1. [Miscellanea](#3-miscellanea)
 
 ## 1. Rules of discourse
 
@@ -29,7 +30,33 @@
   * **Tradition** (custom and habit justified so many barbaric ideas and practices).
   * **Nature** (the fact that something is *artificial* does not necessarily mean it is worse than a more &ldquo;natural&rdquo; alternative).
 
-## 2. Miscellanea
+## 2. Beliefs I cannot justify
+
+I have a strong belief that <span class="icon idea">💡</span>&nbsp;**reading** is important, and makes me a better person, somehow.
+In particular, I think that reading the classics, non-fiction, essays and books that are very influential or that explore complex subjects, improves me in some
+way (as opposed to reading humourous books, thrilling novels and easy fiction: at least those types of reading hold a clear benefit since reading them is
+entertaining *per se*).
+
+However, I have not found arguments that convincing enough to justify this belief.
+
+There is the &ldquo;old&rdquo; belief that smart people read, and read a lot; that books are indispensable to become sophisticated, educated, successful.
+Although I have heard that all my life, when it comes to actually justifying the alleged benefits of reading, there is no clear evidence (I think).
+
+One meets many people who seem smart, successful, witty, knowledgeable&hellip; but who admit to have read little, or very little, in their lives.
+On the other hand, so many people who have been devouring books since an early age don't stand out in any particular way.
+(Does the *kind* of books people read matter?)
+All this is anecdotal evidence, of course.
+But if the benefits are supposed to be so important, why don't we confirm this belief much more easily through experience?
+
+Similarly, I believe that it's important to know <span class="icon idea">💡</span>&nbsp;**the news**, to be aware of what's happening around oneself and in the
+world right now.
+But there aren't good reasons to believe that.
+<span class="icon ref">👉</span>&nbsp;**[&ldquo;Broken breaking news&rdquo;](miscellanea.md#4-broken-breaking-news)**
+
+One tentative explanation that I have for this is that reading many books, and knowing well how the world works and what's going on (by following the news)
+makes me more similar to people
+
+## 3. Miscellanea
 
 * There are absurd questions.
    * &ldquo;Do you prefer a universe with, or without a god?&rdquo;

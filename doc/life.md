@@ -12,6 +12,8 @@ What is most important to me.
 
 The most important thing for me should be my own **health**, **happiness** and general **well-being**.
 
+[Perhaps [being &ldquo;interesting&rdquo;](https://www.youtube.com/watch?v=U88jj6PSD7w) is a better goal than being happy.]
+
 **People** around me, people who are important to me, should be my second concern.
 
 I believe more in 💡&nbsp;**persistence** and 💡&nbsp;**practice** than in 💡&nbsp;**talent**.
@@ -69,7 +71,8 @@ Modulo those few people, no-one can truly feel proud, nor ashamed, of their nati
 ## 3. People
 
 * Explicitly asserting 💡&nbsp;**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
-* 💡&nbsp;**Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for you.
+* 💡&nbsp;**Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for
+you.
 * In most day–to–day situations, 💡&nbsp;**lying** is **bad** and shall be avoided.
 There are a number of circumstances, though, when lying is perfectly admisible&nbsp;&mdash;&nbsp;and even advisable.
 Always telling the 💡&nbsp;**truth** is overrated.

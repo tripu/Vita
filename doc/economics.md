@@ -85,7 +85,7 @@ There are reasons to oppose that trend, and to pick competitors over **Alphabet*
 
 <span class="icon eg">💭</span>&nbsp;Another example: it seems that 👤&nbsp;**Uber** is going to crush its competitors (eg, 👤&nbsp;**Lyft**) and build a
 monopoly.
-Such monopoly would destroy part of the benefits that those companies have brought to consumers who used to use taxis in the first place.
+Such monopoly would destroy part of the benefits that those companies have brought to consumers who used to use cabs in the first place.
 
 ### 4. Public pensions
 

@@ -91,12 +91,15 @@ manners, etc.
 
 ### 4. Political stance(s)
 
-I am, more or less, a 💡&nbsp;**liberal** or a 💡&nbsp;**libertarian**, although I don't know enough yet to be sure I identify
-fully with those movements.
+I am, more or less, a &ldquo;classical&rdquo; (or &ldquo;British&rdquo;) <span class="icon idea">💡</span>&nbsp;**liberal**
+<del>or a <span class="icon idea">💡</span>&nbsp;**libertarian**</del>.
 
 * I am a liberal with respect to many/most typical 💡&nbsp;**social issues** (gay rights, freedom of speech, euthanasia).
-* **Fiscally**, I favour progressive, &ldquo;high&rdquo; 💡&nbsp;**taxes** (of the sort you see nowadays in Scandinavian states).
+* **Fiscally**, I favour <del>progressive, &ldquo;high&rdquo; taxes (of the sort you see nowadays in Scandinavian states)</del>
+  flat rate, &ldquo;low&rdquo; <span class="icon idea">💡</span>&nbsp;**taxes** (as a [minarchist](#6-on-public-subsidies)).
 * I believe in 💡&nbsp;**free markets**, and in 💡&nbsp;**capitalism**.
+
+[Counter-argument (?): there seem to be a [positive correlation between taxation and happiness](https://s3.amazonaws.com/happiness-report/2018/WHR_web.pdf)]
 
 <span class="icon idea">💡</span>&nbsp;**Free speech**, and the rejection of all <span class="icon idea">💡</span>&nbsp;**censorship**, apply only to the public
 sphere: individuals, companies and organisations are absolutely free to decide what messages they want to promote or ignore.
@@ -175,8 +178,10 @@ I now wonder if **not voting** might be the most responsible thing to do&hellip;
 
 ### 6. On public subsidies
 
-As of today (beginning of 2018), I consider myself more or less a [minarchist](https://en.wikipedia.org/wiki/Minarchism).
-In my quest to understand what should be the right roles of government and of the state, I am quite convinced by now that both extremes (those being an
+As of today (beginning of 2018), I consider myself a &ldquo;moderate [minarchist](https://en.wikipedia.org/wiki/Minarchism)&rdquo;: I believe that there is
+*more* for a State to do than to provide just national defence, police and courts; but I also suspect that a State should not fund or promote folklore or films,
+nor meddle in so many aspects of everyday life.
+In my quest to understand what should be the right roles of government and of the State, I am quite convinced by now that both extremes (those being an
 [anarchist society](https://en.wikipedia.org/wiki/Anarchism), and a [nanny state](https://en.wikipedia.org/wiki/Nanny_state)) are wrong.
 
 I see all attributions of the state as a gradient of necessities, with varying levels of moral justification.
@@ -212,7 +217,7 @@ Of course, if those parents neglect their responsibility or are in dire straits 
 in and help the kids; perhaps making sure they're properly fed etc, or even retiring the custody.
 The point is that those people are entitled to no subsidy at all simply because *they happened to decide to raise children*.
 (If your argument in favour of society helping families *by default* has to do with the economy and future public pensions, see
-<span class="icon ref">👉</span>&nbsp;[](economics.md#4-public-pensions).)
+<span class="icon ref">👉</span>&nbsp;[public pensions](economics.md#4-public-pensions).)
 
 ### 7. Political correctness
 
