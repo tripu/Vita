@@ -168,7 +168,7 @@ I suspect this has to do with these factors:
   If *male* videogame designers and *male* videogame players want it that way, let them have it.&rdquo;)
 * :point_right:[Political correctness](politics.md#6-political-correctness).).
 
-#### 5.2 Rape culture
+#### 5.2. Rape culture
 
 There isn't one.
 At least, not in the sense the media has been using the term in recent years.

@@ -8,7 +8,7 @@
 1. [Advertising](#6-advertising)
 1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#7-miscellaneato-be-classified)
 
-## 1. Being rich / being poor
+### 1. Being rich / being poor
 
 It is enlightening to realise that dichotomies like &ldquo;rich&rdquo; / &ldquo;poor&rdquo;, &ldquo;lucky&rdquo; / &ldquo;unlucky&rdquo;, &ldquo;spoilt, posh,
 uptight&rdquo; / &ldquo;humble, hard-working, working-class&rdquo; are *relative*.
@@ -33,7 +33,7 @@ And I'm not talking about the effect of *inflation* here.
 Not long ago, I was talking with a friend of mine who has been living in London for around a decade now.
 \[Pending.\]
 
-## 2. Leaked photos and videos
+### 2. Leaked photos and videos
 
 When people wrongly share information about other people (personal or intimate details), the moral thing is to avoid any contact with it.
 
@@ -49,7 +49,7 @@ database in any way.
 It was exposed illegally (and, most importantly, immorally), without the consent of the users of the site, so nobody should benefit from it; not even out of
 &ldquo;curiosity&rdquo;.
 
-## 3. Ideas and words wrongly reserved to specific groups of people
+### 3. Ideas and words wrongly reserved to specific groups of people
 
 **I don't respect the supposed privilege of specific groups to be critic with themselves, express opinions in caustic ways, or use certain words, *when members
 of that group engage in those behaviours themselves*.**
@@ -177,18 +177,18 @@ in their conditions?
 
 Who *owns* words?
 
-## 4. &ldquo;Broken breaking news&rdquo;
+### 4. &ldquo;Broken breaking news&rdquo;
 
 \[Pending.\]
 
-## 5. Fashion
+### 5. Fashion
 
 * 💡&nbsp;**Fashion** can \[should?\] be ignored, as long as doing so does not put you in such an outdated or ridiculous position as to severely damage your image,
 reputation or relevant expectations of people about you.
 💡&nbsp;**Trends** and 💡&nbsp;**memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
 ignored, too.
 
-## 6. Advertising
+### 6. Advertising
 
 I am against it, and actively boycott it.
 
@@ -203,7 +203,7 @@ I just think educated citizens should boycott it, to the extent they can:
 
 \[TODO: elaborate on this belief, justify.\]
 
-## 7. Miscellanea&nbsp;&mdash;&nbsp;to be classified
+### 7. Miscellanea&nbsp;&mdash;&nbsp;to be classified
 
 I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.

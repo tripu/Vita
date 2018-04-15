@@ -18,17 +18,17 @@
 
 * <span class="icon name">👤</span>&nbsp;[**Steven Pinker**](https://en.wikipedia.org/wiki/Steven_Pinker): kindness and an acute sense of humour
   are compatible with intellectual rigour, audacity and curiosity
-* &nbsp;[**Sam Harris**](https://en.wikipedia.org/wiki/Sam_Harris)
+* <span class="icon name">👤</span>&nbsp;[**Sam Harris**](https://en.wikipedia.org/wiki/Sam_Harris)
 * <span class="icon name">👤</span>&nbsp;[**Christopher Hitchens**](https://en.wikipedia.org/wiki/Christopher_Hitchens)
 * <span class="icon name">👤</span>&nbsp;[**Johathan Haidt**](https://en.wikipedia.org/wiki/Jonathan_Haidt)
 * <span class="icon name">👤</span>&nbsp;[**Jordan Peterson**](https://en.wikipedia.org/wiki/Jordan_Peterson) (modulo his irrational praise of religion, and a
-  few other bits, like)
+  few other bits that I dislike)
 
 ##### 1.1.2. Gender issues
 
- <span class="icon name">👤</span>&nbsp;[**Camille Paglia**](https://en.wikipedia.org/wiki/Camille_Paglia)
- <span class="icon name">👤</span>&nbsp;[**Christina Hoff Sommers**](https://en.wikipedia.org/wiki/Christina_Hoff_Sommers)
- <span class="icon name">👤</span>&nbsp;[**Warren Farrell**](https://en.wikipedia.org/wiki/Warren_Farrell)
+* <span class="icon name">👤</span>&nbsp;[**Camille Paglia**](https://en.wikipedia.org/wiki/Camille_Paglia)
+* <span class="icon name">👤</span>&nbsp;[**Christina Hoff Sommers**](https://en.wikipedia.org/wiki/Christina_Hoff_Sommers)
+* <span class="icon name">👤</span>&nbsp;[**Warren Farrell**](https://en.wikipedia.org/wiki/Warren_Farrell)
 
 ##### 1.1.3. Spaniards
 

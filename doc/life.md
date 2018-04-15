@@ -1,4 +1,4 @@
-# Life
+## Life
 
 What is most important to me.
 
@@ -8,7 +8,7 @@ What is most important to me.
 1. [Debates and discussing with people](#4-debates-and-discussing-with-people)
 1. [Knowledge](#5-knowledge)
 
-## 1. Priorities
+### 1. Priorities
 
 The most important thing for me should be my own **health**, **happiness** and general **well-being**.
 
@@ -18,7 +18,7 @@ The most important thing for me should be my own **health**, **happiness** and g
 
 I believe more in 💡&nbsp;**persistence** and 💡&nbsp;**practice** than in 💡&nbsp;**talent**.
 
-## 2. General principles, and making decisions
+### 2. General principles, and making decisions
 
 These balances are difficult in life:
 
@@ -68,7 +68,7 @@ Modulo those few people, no-one can truly feel proud, nor ashamed, of their nati
 
 &mdash;&nbsp;<span class="icon name">👤</span>&nbsp;[**Jordan Peterson**](https://twitter.com/jordanbpeterson/status/935380897351680000)
 
-## 3. People
+### 3. People
 
 * Explicitly asserting 💡&nbsp;**non–romantic love** (to relatives and close friends) [seems to be necessary and have a huge positive impact on long-term happiness](http://paulgraham.com/todo.html). It isn't always natural nor easy, though.
 * 💡&nbsp;**Love** isn't an absolute, and it doesn't manifest itself in a perfect form. There is no “perfect match”, nor a “soul mate” ultimately waiting for
@@ -88,7 +88,7 @@ But those are the exception.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
 &ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerants with others and/or work on correcting that bad habit).
 
-## 4. Debates and discussing with people
+### 4. Debates and discussing with people
 
 * All 💡&nbsp;**debates** should be an open–minded exchange of ideas, and a collaborative quest to put them to test in order to identify the best ones.
 That's the goal.
@@ -105,7 +105,7 @@ Avoid.
   logic.
   Never say that (and never *think* that).
 
-## 4. Knowledge
+### 5. Knowledge
 
 Learning and discovering is one of the greatest pleasures in life.
 

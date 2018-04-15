@@ -1,10 +1,10 @@
-# Logic
+## Logic
 
 1. [Rules of discourse](#1-rules-of-discourse)
 1. [Beliefs I cannot justify](#2-beliefs-i-cannot-justify)
 1. [Miscellanea](#3-miscellanea)
 
-## 1. Rules of discourse
+### 1. Rules of discourse
 
 * The difficulty in establishing fair/appropriate boundaries or cut-off points in moral questions that come in gradations does not mean that no boundaries are
   appropriate (ie, that an absolute, binary answer is the right one).
@@ -30,7 +30,7 @@
   * **Tradition** (custom and habit justified so many barbaric ideas and practices).
   * **Nature** (the fact that something is *artificial* does not necessarily mean it is worse than a more &ldquo;natural&rdquo; alternative).
 
-## 2. Beliefs I cannot justify
+### 2. Beliefs I cannot justify
 
 I have a strong belief that <span class="icon idea">💡</span>&nbsp;**reading** is important, and makes me a better person, somehow.
 In particular, I think that reading the classics, non-fiction, essays and books that are very influential or that explore complex subjects, improves me in some
@@ -56,7 +56,7 @@ But there aren't good reasons to believe that.
 One tentative explanation that I have for this is that reading many books, and knowing well how the world works and what's going on (by following the news)
 makes me more similar to people I like (because I've found that I like people who tend to read a lot and be very well informed).
 
-## 3. Miscellanea
+### 3. Miscellanea
 
 * There are absurd questions.
    * &ldquo;Do you prefer a universe with, or without a god?&rdquo;

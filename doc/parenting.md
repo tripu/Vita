@@ -1,13 +1,13 @@
-# Parenting
+## Parenting
 
 How to treat children well.
 
-1. [General principles](#1-general-principles).
-1. [Day-to-day](#2-day-to-day).
-1. [Speaking to them](#3-speaking-to-them).
-1. [Language](#4-language).
+1. [General principles](#1-general-principles)
+1. [Day-to-day](#2-day-to-day)
+1. [Speaking to them](#3-speaking-to-them)
+1. [Language](#4-language)
 
-## 1 General principles
+### 1. General principles
 
 * You can't use **reason** with children, not until a certain age.
   Don't fool yourself thinking that they will understand why they must or must not do something, if you only explain it to them well enough.
@@ -21,12 +21,12 @@ How to treat children well.
 * Both parents have to be well aligned.
   Discrepancies have to be detected and discussed.
 
-## 2 Day-to-day
+### 2. Day-to-day
 
 * Be consistent with schedules and times.
   Exceptions should be that: exceptions.
 
-## 3 Speaking to them
+### 3. Speaking to them
 
 * Children aren't equipped yet to understand 💡&nbsp;**praise, criticism or sarcasm**&nbsp;&mdash;&nbsp;not like adults.
 That means that there are certain things that adults usually say to each other safely, that may be confusing or even harmful for a child:
@@ -41,7 +41,7 @@ That means that there are certain things that adults usually say to each other s
     A child should never hear from their parents sentences that are sexist, racist or xenophobic.
     * *“Her classmates are kind of stupid, really.”*
 
-## 4 Language
+### 4. Language
 
 * Try to avoid the words 💡&nbsp;**blame** and 💡&nbsp;**fault**; use 💡&nbsp;**responsibility** instead.
 * Try to avoid the words 💡&nbsp;**guilt** and 💡&nbsp;**guilty**.

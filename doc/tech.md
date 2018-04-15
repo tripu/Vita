@@ -1,6 +1,8 @@
-# Tech
+## Tech
 
-## In short
+1. [In short](#1-in-short)
+
+### 1. In short
 
 * I am a firm believer in 💡&nbsp;**free software, open source, FLOSS** (call it as you wish).
   Not as a universal imposition, or the only ethical way to make software&nbsp;&mdash;&nbsp;but as a moral aspiration, that should be met as much as it's

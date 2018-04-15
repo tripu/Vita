@@ -12,7 +12,7 @@
   * People who are very curious, eclectic
   * Introverted people
 * Food:
-  * Marmite&tm;
+  * Marmite&trade;
   * Chocolate (pure, dark, no milk or nuts, little or no sugar)
 * *Giving* massages
 * Running
