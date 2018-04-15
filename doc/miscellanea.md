@@ -5,7 +5,8 @@
 1. [Ideas and words wrongly reserved to specific groups of people](#3-ideas-and-words-wrongly-reserved-to-specific-groups-of-people)
 1. [&ldquo;Broken breaking news&rdquo;](#4-broken-breaking-news)
 1. [Fashion](#5-fashion)
-1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#6-miscellaneato-be-classified)
+1. [Advertising](#6-advertising)
+1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#7-miscellaneato-be-classified)
 
 ## 1. Being rich / being poor
 
@@ -187,7 +188,22 @@ reputation or relevant expectations of people about you.
 💡&nbsp;**Trends** and 💡&nbsp;**memes** not backed by instrumental convenience or reason are pointless, and might even be expensive and time–consuming, so they can be safely
 ignored, too.
 
-## 6. Miscellanea&nbsp;&mdash;&nbsp;to be classified
+## 6. Advertising
+
+I am against it, and actively boycott it.
+
+Advertising wastes resources and attention, and pollutes the environment (urban space, landscapes, streets, airwaves).
+
+I do *not* think advertising should be *forbidden*.
+I just think educated citizens should boycott it, to the extent they can:
+
+* Using ad blockers on the web
+* Tossing leaflets and pamphlets they are given, without looking at them
+* Moving away from the TV during commercials
+
+\[TODO: elaborate on this belief, justify.\]
+
+## 7. Miscellanea&nbsp;&mdash;&nbsp;to be classified
 
 I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.

@@ -8,6 +8,8 @@
    1. [Artists](#12-artists)
 1. [Famous people I detest](#2-famous-people-i-detest)
 
+(For **things** that I like and dislike, see <span class="icon ref">👉</span>&nbsp;[Tastes](tastes.md))
+
 ### 1. Famous people I admire
 
 #### 1.1. Thinkers

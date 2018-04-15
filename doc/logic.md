@@ -54,7 +54,7 @@ But there aren't good reasons to believe that.
 <span class="icon ref">👉</span>&nbsp;**[&ldquo;Broken breaking news&rdquo;](miscellanea.md#4-broken-breaking-news)**
 
 One tentative explanation that I have for this is that reading many books, and knowing well how the world works and what's going on (by following the news)
-makes me more similar to people
+makes me more similar to people I like (because I've found that I like people who tend to read a lot and be very well informed).
 
 ## 3. Miscellanea
 
