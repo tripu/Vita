@@ -1,9 +1,9 @@
 ## Science
 
 1. [In short](#1-in-short)
-  1. [Things I believe in](#11-things-i-believe-in)
-  1. [Things I deem possible, or reasonable](#12-things-i-deem-possible-or-reasonable)
-  1. [What I think is bollocks](#13-what-i-think-is-bollocks)
+   1. [Things I believe in](#11-things-i-believe-in)
+   1. [Things I deem possible, or reasonable](#12-things-i-deem-possible-or-reasonable)
+   1. [What I think is bollocks](#13-what-i-think-is-bollocks)
 
 ### 1. In short
 

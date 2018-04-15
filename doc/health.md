@@ -1,8 +1,8 @@
 ## Health
 
 1. [Drugs](#1-drugs)
-  1. [Taxonomy](#11-taxonomy)
-  1. [Legal status](#12-legal-status)
+   1. [Taxonomy](#11-taxonomy)
+   1. [Legal status](#12-legal-status)
 
 ### 1. Drugs
 
