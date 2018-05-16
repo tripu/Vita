@@ -4,10 +4,13 @@
 1. [Laws and contracts should be much fewer, much shorter](#2-laws-and-contracts-should-be-much-fewer--much-shorter)
 1. [I believe in rules](#3-i-believe-in-rules)
 1. [Political stance(s)](#4-political-stances)
-1. [On voting](#5-on-voting)
-1. [On public subsidies](#6-on-public-subsidies)
-1. [Political correctness](#7-political-correctness)
-1. [Useful references (but not necessarily 100% endorsed)](#8-useful-references-but-not-necessarily-100-endorsed)
+1. [Free speech](#5-free-speech)
+1. [On voting](#6-on-voting)
+1. [On public subsidies](#7-on-public-subsidies)
+1. [Political correctness](#8-political-correctness)
+1. [Forms of government](#9-forms-of-government)
+1. [Other ideas](#10-other-ideas)
+1. [Useful references (but not necessarily 100% endorsed)](#11-useful-references-but-not-necessarily-100-endorsed)
 
 ### 1. Democracy
 
@@ -24,7 +27,8 @@ We elect politicians to delegate decisions, to have them carry the burden of unp
 Obviously, the extreme of this is an oligarchy, or a dictatorship.
 I suspect there is a right &ldquo;amount of direct democracy&rdquo; somewhere along this spectrum.
 
-Hint: if the opposite were true, democracy would *always* be healthier when politicians choose to hold referenda (instead of letting public institutions decide;
+Hint: if the opposite were true, <span class="icon idea">💡</span>&nbsp;**democracy** would *always* be healthier when politicians choose to hold referenda
+(instead of letting public institutions decide;
 such as ministries, the parliament, the senate, technocrats, courts).
 In other words, the ideal would be to have citizens casting their votes constantly (or, say, every Sunday) on most topics.
 Given the rate at which criptography and mobile computing are progressing, that scenario seems feasible and affordable in the near future.
@@ -46,21 +50,24 @@ Today, the verbiage in all kinds of legally binding documents leads to an awful 
 
 ### 3. I believe in rules
 
-I reject authoritarianism, but I have realised that I place more value in 💡&nbsp;**laws** and 💡&nbsp;**rules** than most people.
+I reject authoritarianism, but I have come to realise that I place more value in <span class="icon idea">💡</span>&nbsp;**laws** and
+<span class="icon idea">💡</span>&nbsp;**rules** than most people.
 
 I usually need a convincing explanation for acts that go against the law.
-That is why, *in principle*, I oppose such things as:
-* Squatting.
-* *Escraches*.
-* Non-authorised demonstrations.
-* Non-authorised strikes.
+That is why, *in principle*, I *oppose* such things as:
 
-And that is why, *in principle*, I am in favour of:
-* Evictions.
-* Deportation of illegal immigrants.
+* Squatting
+* [*Escraches*](https://en.wikipedia.org/wiki/Escrache)
+* Non-authorised demonstrations
+* Non-authorised strikes
 
-When I discuss specific cases, I generally agree with my progressive friends.
-The subtle difference between our views is that many progressives too often defend acting against the law to fix broken situtations (eg, mobilising a large
+And that is why, *in principle*, I am *in favour* of:
+
+* Evictions
+* Deportation of illegal immigrants
+
+When I discuss specific issues (social issues), I generally agree with my progressive friends.
+The subtle difference between our views is that many progressives too often defend acting against the law to fix broken situations (eg, mobilising a large
 group of people to stand before the police and prevent an eviction), while I usually defend the legal procedures but advocate *changing the law or those
 procedures*.
 
@@ -75,9 +82,9 @@ giving them &ldquo;papers&rdquo;.
 In other words: many politicians, those in power and the public opinion generally agree that those laws are wrong; but instead of working on changing them,
 publicly and shamelessly advocate their disobedience.
 
-It is the job of those in power to *follow* the laws.
+It is the job of those in power to *follow* the law.
 If they find those laws immoral or unjust, it is their civic duty to do as much as they can to change them, or else resign from their job.
-In the meantime, they are the guardians of those laws; if they don't respect and obey them, who will.
+In the meantime, they are the guardians of those laws; if they don't respect and obey them, who will?
 More so: if judges, policemen, elected politicians decide to openly ignore or subvert important laws, what argument will there be to persuade citizens not to do
 the same whenever a law does not have their approval?
 
@@ -91,15 +98,32 @@ manners, etc.
 
 ### 4. Political stance(s)
 
-I am, more or less, a &ldquo;classical&rdquo; (or &ldquo;British&rdquo;) <span class="icon idea">💡</span>&nbsp;**liberal**
-<del>or a <span class="icon idea">💡</span>&nbsp;**libertarian**</del>.
+I am, more or less, a &ldquo;classical&rdquo; (or &ldquo;British&rdquo;) <span class="icon idea">💡</span>&nbsp;**liberal**.
 
-* I am a liberal with respect to many/most typical 💡&nbsp;**social issues** (gay rights, freedom of speech, euthanasia).
-* **Fiscally**, I favour <del>progressive, &ldquo;high&rdquo; taxes (of the sort you see nowadays in Scandinavian states)</del>
-  flat rate, &ldquo;low&rdquo; <span class="icon idea">💡</span>&nbsp;**taxes** (as a [minarchist](#6-on-public-subsidies)).
-* I believe in 💡&nbsp;**free markets**, and in 💡&nbsp;**capitalism**.
+* I am a liberal with respect to many/most typical <span class="icon idea">💡</span>&nbsp;**social issues** (gay rights, freedom of speech, euthanasia).
+* **Fiscally**, I *favour* flat rate, &ldquo;low&rdquo; <span class="icon idea">💡</span>&nbsp;**taxes** (as a [minarchist](#6-on-public-subsidies)).
+* I believe in <span class="icon idea">💡</span>&nbsp;**free markets**, and in <span class="icon idea">💡</span>&nbsp;**capitalism**.
 
-[Counter-argument (?): there seem to be a [positive correlation between taxation and happiness](https://s3.amazonaws.com/happiness-report/2018/WHR_web.pdf)]
+[Counter-argument (?): there seem to be a
+[positive correlation between taxation levels and happiness](https://s3.amazonaws.com/happiness-report/2018/WHR_web.pdf)]
+
+(For more about economics, see the note at the bottom [*The Economist*], and <span class="icon ref">👉</span>&nbsp;[economics](economics.md#economics).)
+
+Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
+contradictory.
+
+<span class="icon eg">💭</span>&nbsp;For example, in Spain, at the time of writing (2018), someone who defended gay rights and euthanasia (like me), and opposed
+bullfighting (as I do), would be automatically assumed to be very suspicious of free markets, and an enemy of capitalism (which I am not).  
+<span class="icon eg">💭</span>&nbsp;Another example: today in the US, someone who is in favour of relatively high taxation and a welfare system (as I am) is probably seen as a
+*leftie* who would like the state to meddle with the corporate world to impose high minimum wages and establish quotas for women and other minorities (but I
+oppose that).
+
+Although I realise that this particular combination of views might not be very common, in reality I don't stumble upon contradictions between these different
+sets of beliefs that I hold.
+Or so I think.
+Let me know if you find holes in the reasoning I am sharing with you in these documents.
+
+### 5. Free speech
 
 <span class="icon idea">💡</span>&nbsp;**Free speech**, and the rejection of all <span class="icon idea">💡</span>&nbsp;**censorship**, apply only to the public
 sphere: individuals, companies and organisations are absolutely free to decide what messages they want to promote or ignore.
@@ -108,7 +132,7 @@ etc.&nbsp;&mdash;&nbsp;but that is to be decided, and acted upon, by other indiv
 
 The concept of <span class="icon idea">💡</span>&nbsp;**&ldquo;hate speech&rdquo;**, and the ways it is wielded to try to grant exceptions to free speech, are
 just attempts at curtailing that right for ideological or political reasons.
-The most obvious examples of &ldquo;hate speech&rdquo; anyone can come up with are so evidently *not* deserving of censorship that the whole topic collapses
+The most obvious examples of &ldquo;hate speech&rdquo; anyone can come up with are so evidently *not* deserving of censorship that the whole collapses
 under its own weight: &ldquo;I truly hate all my neighbours&rdquo;; &ldquo;your head of state is evil and incompetent&rdquo;; &ldquo;not a single Jew was killed
 during WWII&rdquo;; &ldquo;I wouldn't rescue a drowning atheist if I saw one, I'd rejoice while they agonise&rdquo;; etc.
 
@@ -121,46 +145,31 @@ the situation, I guess).
 
 We have the right to hate anything and anyone, and the right to say so publicly.
 
-We also have the right to be wrong about anything, and to deliberately lie about anything (as long as it's not on a binding contract).
+We also have the right to be wrong about anything, and to deliberately <span class="icon idea">💡</span>&nbsp;**lie** about anything (as long as it's not on a
+binding contract, on a bill that passes as law, or on a court of law).
 
 Speech cannot be violence *per se*.
 Discussing others' &ldquo;identities&rdquo;, beliefs, rights, abilities or lack thereof, etc&nbsp;&mdash;&nbsp;that is not *violent*.
 It may be dishonest, false, irrelevant, or result offensive to some, though.
 
 Speech is sometimes used to *incite* violence explicitly, and that is a different thing.
-That is the only specific case I can think of when free speech is to be restricted.
+That is the *only* specific case I can think of when free speech is to be restricted.
 
 > *&ldquo;Speech that demeans on the basis of race, ethnicity, gender, religion, age, disability, or any other similar ground is hateful; but the proudest boast
 of our free speech jurisprudence is that we protect the freedom to express &lsquo;the thought that we hate.&rsquo;&rdquo;*
 
 &mdash;&nbsp;[US Supreme Court](https://www.supremecourt.gov/opinions/16pdf/15-1293_1o13.pdf)
 
-(For more about economics, see the note at the bottom \[The Economist\], and :point_right:[economics](economics.md#economics).)
+### 6. On voting
 
-Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
-contradictory.
-
-💭&nbsp;For example, in Spain, in 2016, someone who defended gay rights and euthanasia (like me), and opposed bullfighting (as I do), would be
-automatically assumed to be very suspicious of free markets, and an enemy of capitalism (which I am not).
-💭&nbsp;Another example: today in the US, someone who is in favour of relatively high taxation and a welfare system (as I am) is probably seen as a
-*leftie* who would like the state to meddle with the corporate world to impose high minimum wages and establish quotas for women and other minorities (but I
-oppose that).
-
-Although I realise that this particular combination of views might not be very common, in reality I don't stumble upon contradictions between these different
-sets of beliefs that I hold.
-Or so I think.
-Let me know if you find holes in the reasonings I am sharing with you in these documents.
-
-### 5. On voting
-
-I used to think that 💡&nbsp;**voting** is a civic duty; that regardless of what you think of the main parties, of the voting system, of the form of
+I used to think that <span class="icon idea">💡</span>&nbsp;**voting** is a civic duty; that regardless of what you think of the main parties, of the voting system, of the form of
 state&nbsp;&mdash;&nbsp;voting is the way you express your ideas (if nothing else, at least by undervoting or casting a spoilt vote).
 
 More recently though, I have been reading some radical opinions about the rotten voting system, the actual plutocracy of state-sponsored parties, and the
 impossibility of changing &ldquo;the system&rdquo; from within, by acknowledging its rules and *voting*
-(:bust_in_silhouette:[**Antonio Garc&iacute;a-Trevijano**](https://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano),
-:bust_in_silhouette:[**John Stuart Mill**](https://en.wikipedia.org/wiki/John_Stuart_Mill),
-:bust_in_silhouette:[**George Carlin**](https://en.wikipedia.org/wiki/George_Carlin)).
+(<span class="icon name">👤</span>&nbsp;**[Antonio Garc&iacute;a-Trevijano](https://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano)**,
+<span class="icon name">👤</span>&nbsp;**[John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)**,
+<span class="icon name">👤</span>&nbsp;**[George Carlin](https://en.wikipedia.org/wiki/George_Carlin)**).
 
 Those readings coincided in time with the general elections of 2015 in Spain, whose aftermath was (for me) a disheartening display of hipocrisy, vanity,
 short-sightedness, lack of honest political discussion and the usual Spanish chauvinism.
@@ -176,7 +185,7 @@ All that gave me thought.
 
 I now wonder if **not voting** might be the most responsible thing to do&hellip;&nbsp;at least in Spain.
 
-### 6. On public subsidies
+### 7. On public subsidies
 
 As of today (beginning of 2018), I consider myself a &ldquo;moderate [minarchist](https://en.wikipedia.org/wiki/Minarchism)&rdquo;: I believe that there is
 *more* for a State to do than to provide just national defence, police and courts; but I also suspect that a State should not fund or promote folklore or films,
@@ -189,7 +198,7 @@ I see all attributions of the state as a gradient of necessities, with varying l
 responsibilities of the state.
 
 I have struggled for some time with the question of public funding, grants and subsidies, in general.
-As of today I suspect that most, if not all, &ldquo;cultural;&rdquo; public subsidies are immoral.
+As of today I suspect that most, if not all, &ldquo;cultural&rdquo; public subsidies are immoral.
 The &ldquo;culture&rdquo; is vaporous, changing, ambiguous and contingent.
 Every meaning humans make is, by definition, &ldquo;culture&rdquo;.
 What aspects of &ldquo;culture&rdquo; a particular government can preserve or boost are very specific and ideological.
@@ -219,7 +228,7 @@ The point is that those people are entitled to no subsidy at all simply because 
 (If your argument in favour of society helping families *by default* has to do with the economy and future public pensions, see
 <span class="icon ref">👉</span>&nbsp;[public pensions](economics.md#4-public-pensions).)
 
-### 7. Political correctness
+### 8. Political correctness
 
 > &ldquo;*That playground of guilty white liberals: political correctness.  
   Political correctness is America's newest form of intolerance.  
@@ -227,6 +236,16 @@ The point is that those people are entitled to no subsidy at all simply because 
 
 &mdash;&nbsp;George Carlin [[audio](https://www.youtube.com/watch?v=hkhUivqzWv0)].
 
-### 8. Useful references (but not necessarily 100% endorsed)
+### 9. Forms of government
+
+A <span class="icon idea">💡</span>&nbsp;**republic** is more moral and logical than a <span class="icon idea">💡</span>&nbsp;**monarchy**.
+
+[Counter-argument (?): many of the most prosperous and stable nations in Europe are monarchies ([but is there causation, or just correlation there?](http://suffragio.org/2013/07/24/are-constitutional-monarchies-better-than-presidential-republics-correlation-%E2%89%A0-causation/)])]
+
+### 10. Other ideas
+
+* <span class="icon idea">💡</span>&nbsp;**Cultural apropriation** is an absurd idea, which I don't buy
+
+### 11. Useful references (but not necessarily 100% endorsed)
 
 * [The Economist: “Is The Economist left- or right-wing?”](http://www.economist.com/blogs/economist-explains/2013/09/economist-explains-itself-0)

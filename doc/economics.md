@@ -96,7 +96,7 @@ save, and prepare for retirement).
 
 Therefore, I suspect the state should stay away from pensions.
 Public pensions constitute one of the biggest items in the budgets of modern welfare states (together with public health systems).
-Taxes would go down significantly for everybody if the state stayed away from pensions (and of course, individual would have to save or invest themselves more
+Taxes would go down significantly for everybody if the state stayed away from pensions (and of course, individuals would have to save or invest themselves more
 to that end; but they would be freer to do that).
 
 ### 5. Public debt

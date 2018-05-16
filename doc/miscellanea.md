@@ -6,7 +6,8 @@
 1. [&ldquo;Broken breaking news&rdquo;](#4-broken-breaking-news)
 1. [Fashion](#5-fashion)
 1. [Advertising](#6-advertising)
-1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#7-miscellaneato-be-classified)
+1. [Showbiz and media](#7-showbiz-and-media)
+1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#8-miscellaneato-be-classified)
 
 ### 1. Being rich / being poor
 
@@ -203,7 +204,15 @@ I just think educated citizens should boycott it, to the extent they can:
 
 \[TODO: elaborate on this belief, justify.\]
 
-### 7. Miscellanea&nbsp;&mdash;&nbsp;to be classified
+### 7. Showbiz and media
+
+In principle, I don't trust the politics games that the media report about: petty disputes; scandals; the dirty laundry of politicians, parties and
+institutions.
+
+I also don't trust entertainment TV in general: reality shows, shocking documentaries, and the like.
+I tend to assume all those are actors, and that what I see is scripted and optimised for audience and for shock value and outrage.
+
+### 8. Miscellanea&nbsp;&mdash;&nbsp;to be classified
 
 I do not have a definite opinion on many issues, and that is OK.
 I distrust those who never seem to doubt what side of the trench they're in.
