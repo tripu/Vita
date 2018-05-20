@@ -50,7 +50,7 @@ These have pages on Wikipedia in the Spanish edition only:
 * <span class="icon name">👤</span>&nbsp;[**Katherine Spillar**](https://en.wikipedia.org/wiki/Katherine_Spillar), executive editor of *Ms.*
   magazine.  
   Watch her &ldquo;answer&rdquo; these two questions, and try to contain your frustration at her hypocrisy and dishonesty:  
-  [&ldquo;what reproductive eights do men have?&rdquo;](https://www.youtube.com/watch?v=8uyxANb6Ne0);
+  [&ldquo;what reproductive rights do men have?&rdquo;](https://www.youtube.com/watch?v=8uyxANb6Ne0) and
   [&ldquo;do feminists think men are disposable?&rdquo;](https://www.youtube.com/watch?v=wQr-XGM6vQo)
 * <span class="icon name">👤</span>&nbsp;[**Pedro Almodóvar**](https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var): Known internationally for
   his films, his political persona is that of a combatant leftist and progressive. However, deeds have repeatedly demonstrated that he's just narcissistic and

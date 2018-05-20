@@ -27,7 +27,7 @@
   * People who interrupt others too much when they're speaking
   * People who talk a lot, all the time (ie, people who don't seem to be able to be quiet or to just listen for a while)
   * People who are *very* extroverted (people with a very intense, expansive personality)
-  * People who talk too much about themselves, unprompted; and who keep on trying to surpass your comments or anecdotes
+  * People who talk too much about themselves, unprompted; and who keep on trying to surpass your own comments or anecdotes
   * People who gossip
 * Food:
   * Watermelon
@@ -56,6 +56,5 @@
 * Unnecessary buzzwords
 * Faulty logic
 * Debates viewed as competitions
-* Unnecessary barbarisms (ie, when valid equivalents exist in the other language)
-* Celebrity culture (celebrities whose job is to be celebrities, the &ldquo;journalists&rdquo; that swarm around them, the media outlets that live off of them
-  both)
+* Unnecessary barbarisms (ie, when valid equivalents exist in the native language)
+* Celebrity culture (celebrities whose job is to be celebrities, &ldquo;journalists&rdquo; that swarm around them, media outlets that live off of them both)
