@@ -261,10 +261,18 @@ Our friends tend to think similar to us.
 Our readings tend to enforce our views (be it fiction, essays or the news).
 It is necessary a conscious effort to absorb new ideas that seem extravagant or dissenting.
 
-* 💡&nbsp;**Envy** and 💡&nbsp;**nostalgia** are probably the two negative thoughts that affect me most often.
+* <span class="icon idea">💡</span>&nbsp;**Envy** and <span class="icon idea">💡</span>&nbsp;**nostalgia** are probably the two negative thoughts that affect me
+most often.
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
 
-We need much fewer laws.
+* We need much fewer laws.
 
-We need much clearer contracts.
+* We need much clearer contracts.
+
+* [A list of &ldquo;human universals&rdquo;](https://condor.depaul.edu/mfiddler/hyphen/humunivers.htm)
+
+* <span class="icon idea">💡</span>&nbsp;**Anecdotes**, <span class="icon idea">💡</span>&nbsp;**personal observations** and
+<span class="icon idea">💡</span>&nbsp;**personal experiences** are *not* <span class="icon idea">💡</span>&nbsp;**arguments** in a debate.
+They may be useful to illustrate a point and to communicate ideas better to others; but should be given no value over
+<span class="icon idea">💡</span>&nbsp;**unbiased and statistically representative data**.

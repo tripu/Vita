@@ -105,6 +105,8 @@ Avoid.
   logic.
   Never say that (and never *think* that).
 
+* [Paul Graham: *&ldquo;How to Disagree&rdquo;*](http://www.paulgraham.com/disagree.html)
+
 ### 5. Knowledge
 
 Learning and discovering is one of the greatest pleasures in life.
