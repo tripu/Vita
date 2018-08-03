@@ -26,6 +26,12 @@ These balances are difficult in life:
   Doing ***the right thing*** also when no-one's looking.
   Complying with rules even when the global consequences of doing otherwise are negligible or debatable.
   Example: dodging taxes.
+* Perhaps put in a different way: pursuing **my own self-interest** vs. being **altruistic** (ie, sacrificing things for the sake of others).
+* Balancing the importance of having **money** vs. the importance of having **time**.
+* Learning to what extent **family** is important (keeping good bonds with relatives, being involved with extended family and in-laws, working on a long-lasting
+  romantic partnership, having children, spending most of your time and resources on your children, etc).
+* Learning the righ balance between **pleasure** and **education** or investments in the future.
+* What's the right level of **risk** in life (for all kinds of decisions and changes).
 * The balance between abstract intellectual principles on the one hand (what one should say and do, *in theory*), and social norms and pragmatism on the other.
 * The balance between justly boasting about my merits and staying always humble.
 * I don't want to be vein and boring when I'm an old man.
@@ -86,7 +92,7 @@ But those are the exception.
 * One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news&nbsp;&mdash;&nbsp;it doesn't always need to trigger self-evaluation nor reflection, let alone guilt.
 * **When I see in other people habits or traits of personality that I despise**, sometimes it is because deep down I know I have that very same defect.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those
-&ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerants with others and/or work on correcting that bad habit).
+&ldquo;defects&rdquo;, it is a humbling and precious pragmatical lesson (to either be more tolerant with others and/or work on correcting that bad habit).
 
 ### 4. Debates and discussing with people
 

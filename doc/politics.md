@@ -230,11 +230,13 @@ The point is that those people are entitled to no subsidy at all simply because 
 
 ### 8. Political correctness
 
-> &ldquo;*That playground of guilty white liberals: political correctness.  
+> *&ldquo;That playground of guilty white liberals: political correctness.  
   Political correctness is America's newest form of intolerance.  
-  And it's especially pernicious because it comes disguised as tolerance.*&rdquo;
+  And it's especially pernicious because it comes disguised as tolerance.&rdquo;*
 
 &mdash;&nbsp;George Carlin [[audio](https://www.youtube.com/watch?v=hkhUivqzWv0)].
+
+[*&ldquo;Tolerant of intolerance&rdquo;*](http://heterodoxacademy.org/2015/09/23/how-marcuse-made-todays-students-less-tolerant-than-their-parents/)
 
 ### 9. Forms of government
 

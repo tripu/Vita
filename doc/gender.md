@@ -29,7 +29,7 @@ But I oppose feminism (classical or otherwise) in all places where *any* of thes
 * Where those disadvantages are, at the present time, being overcome at a rapid pace and increasingly condemned by public opinion.
 * Where women are favoured over men overall.
 
-### 2. Am I a feminist?
+### 2. Should one be a feminist?
 
 As I said above, it depends *where*.
 

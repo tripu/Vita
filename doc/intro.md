@@ -67,6 +67,7 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 1. [Art](art.md) (just a bit about literature for now)
 1. [Famous people I admire (or detest)](people.md)
 1. [Tastes](tastes.md)
+1. [Quotes](quotes.md)
 1. [Miscellanea](miscellanea.md)
 
 ## 4. Conventions used in the text

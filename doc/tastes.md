@@ -29,6 +29,7 @@
   * People who are *very* extroverted (people with a very intense, expansive personality)
   * People who talk too much about themselves, unprompted; and who keep on trying to surpass your own comments or anecdotes
   * People who gossip
+  * People who communicate with me using tools that don't respect my privacy, eg GMail
 * Food:
   * Watermelon
   * Strawberry flavour in things (but I quite like strawberries)
@@ -58,3 +59,6 @@
 * Debates viewed as competitions
 * Unnecessary barbarisms (ie, when valid equivalents exist in the native language)
 * Celebrity culture (celebrities whose job is to be celebrities, &ldquo;journalists&rdquo; that swarm around them, media outlets that live off of them both)
+* Religious weddings, baptisms, first communions
+* The *regressive left*
+* *Social justice*
