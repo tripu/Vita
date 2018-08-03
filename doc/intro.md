@@ -1,5 +1,3 @@
-# V&#299;ta
-
 Life notes.
 
 1. [Introduction](#1-introduction)
