@@ -1,5 +1,5 @@
 ---
-redirect_from: "/Vita/"
+redirect_from: "/"
 ---
 
 📜 *Life notes*
