@@ -1,4 +1,8 @@
-Life notes.
+---
+redirect_from: "/"
+---
+
+📜 *Life notes*
 
 1. [Introduction](#1-introduction)
 1. [Note to the casual reader](#2-note-to-the-casual-reader)
