@@ -59,7 +59,7 @@ That does *not* mean we should be OK with miserable working conditions, unfair w
 But to use those arguments to automatically disqualify beneficial transfers of wealth among nations is dishonest.
 
 I believe in abolishing <span class="icon idea">💡</span>&nbsp;**international borders** as a beneficial an desirable goal for the benefit of humanity.
-At the same time, I realise it is a *very-long-term goal* <span class="icon ref">👉</span>&nbsp;[**2**](footnotes.md#2).
+At the same time, I realise it is a *very-long-term goal* <span class="icon ref">👉</span>&nbsp;[**2**](footnotes#2).
 Poverty has to be effectively eliminated first; and a secular, liberal mindset has to become the collective consciousness first.
 Then, we as a species can perhaps experiment with relaxing borders, gradually, until they become unrecognisable.
 

@@ -88,7 +88,7 @@ But those are the exception.
 * One shall take no 💡&nbsp;**offence** from sources one does not value or respect.
   If someone I despise calls me a name, or tries to offend me, I can safely ignore them (as long as their public defamation or verbal violence doesn't actually
   affect my image or reputation).
-  :point_right:[&#10033;&nbsp;**honour vs. dignity**](ethics.md##3-honour-vs-dignity)
+  :point_right:[&#10033;&nbsp;**honour vs. dignity**](ethics##3-honour-vs-dignity)
 * One can't **please everybody**. There isn't one way of being, behaving or talking that everybody always likes and approves. Even the most likeable, charming, thoughtful person can be annoying to some people, sometimes. Therefore, realising that somebody just doesn't like you, for no particular reasons, might well be irrelevant news&nbsp;&mdash;&nbsp;it doesn't always need to trigger self-evaluation nor reflection, let alone guilt.
 * **When I see in other people habits or traits of personality that I despise**, sometimes it is because deep down I know I have that very same defect.
 I'll do well if I stop and reflect honestly when I detect those unpleasant behaviours in others; when I can actually recognise myself on those

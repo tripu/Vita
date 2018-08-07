@@ -91,7 +91,7 @@ Those negative aspects, by they way, would be:
 * Moral relativism (eg, in some disturbing and conflicting views on the *hijab*, the *burqa*, female genital mutilation).
 * Misplacement of the focus towards the insignificant (eg, innocuous peculiarities in human languages, quaint &ldquo;gentlemanly&rdquo; habits, *bona fide*
   comments or praise from men towards women).
-* <span class="icon ref">👉</span>&nbsp;[Political correctness](politics.md#7-political-correctness).
+* <span class="icon ref">👉</span>&nbsp;[Political correctness](politics#7-political-correctness).
 
 I sympathise with many of the opinions of the self-proclaimed feminist <span class="icon name">👤</span>&nbsp;**Camille Paglia**.
 She is on record since the early nineties at least (probably before) fericiously attacking the same set of bogus tenets that are so alarming today.
@@ -166,7 +166,7 @@ I suspect this has to do with these factors:
   They are that stupid!
   It can't be helped.
   If *male* videogame designers and *male* videogame players want it that way, let them have it.&rdquo;)
-* :point_right:[Political correctness](politics.md#6-political-correctness).).
+* :point_right:[Political correctness](politics#6-political-correctness).).
 
 #### 5.2. Rape culture
 

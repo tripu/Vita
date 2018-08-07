@@ -3,7 +3,7 @@
 1. [Things I like](#1-things-i-like)
 1. [Thigs I do *not* like](#2-things-i-do-not-like)
 
-(For **people** that I like and dislike, see <span class="icon ref">👉</span>&nbsp;[People](people.md))
+(For **people** that I like and dislike, see <span class="icon ref">👉</span>&nbsp;[People](people))
 
 ### 1. Things I like
 

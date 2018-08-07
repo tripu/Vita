@@ -25,4 +25,4 @@ information to the people, might produce in the long run a better outcome than t
 It makes moral sense, too: there is no strong argument to limit free adults in good use of their faculties from growing, synthesising, acquiring or consuming
 any kind of substance, as long as that does not pose *in itself* harm to others.
 
-I believe in legalising all drugs *in the very-long-term* <span class="icon ref">👉</span>&nbsp;[**2**](footnotes.md#2).
+I believe in legalising all drugs *in the very-long-term* <span class="icon ref">👉</span>&nbsp;[**2**](footnotes#2).

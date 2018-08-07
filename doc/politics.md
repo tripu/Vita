@@ -107,7 +107,7 @@ I am, more or less, a &ldquo;classical&rdquo; (or &ldquo;British&rdquo;) <span c
 [Counter-argument (?): there seem to be a
 [positive correlation between taxation levels and happiness](https://s3.amazonaws.com/happiness-report/2018/WHR_web.pdf)]
 
-(For more about economics, see the note at the bottom [*The Economist*], and <span class="icon ref">👉</span>&nbsp;[economics](economics.md#economics).)
+(For more about economics, see the note at the bottom [*The Economist*], and <span class="icon ref">👉</span>&nbsp;[economics](economics#economics).)
 
 Some people, influenced by stereotypes or by the particular &ldquo;baggage&rdquo; that these terms carry in their country, could say that these views are
 contradictory.
@@ -226,7 +226,7 @@ Of course, if those parents neglect their responsibility or are in dire straits 
 in and help the kids; perhaps making sure they're properly fed etc, or even retiring the custody.
 The point is that those people are entitled to no subsidy at all simply because *they happened to decide to raise children*.
 (If your argument in favour of society helping families *by default* has to do with the economy and future public pensions, see
-<span class="icon ref">👉</span>&nbsp;[public pensions](economics.md#4-public-pensions).)
+<span class="icon ref">👉</span>&nbsp;[public pensions](economics#4-public-pensions).)
 
 ### 8. Political correctness
 

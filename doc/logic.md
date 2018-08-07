@@ -51,7 +51,7 @@ But if the benefits are supposed to be so important, why don't we confirm this b
 Similarly, I believe that it's important to know <span class="icon idea">💡</span>&nbsp;**the news**, to be aware of what's happening around oneself and in the
 world right now.
 But there aren't good reasons to believe that.
-<span class="icon ref">👉</span>&nbsp;**[&ldquo;Broken breaking news&rdquo;](miscellanea.md#4-broken-breaking-news)**
+<span class="icon ref">👉</span>&nbsp;**[&ldquo;Broken breaking news&rdquo;](miscellanea#4-broken-breaking-news)**
 <span class="icon ref">👉</span>&nbsp;**[Aaron Swartz: *&ldquo;I Hate the News&rdquo;*](http://www.aaronsw.com/weblog/hatethenews)**
 
 One tentative explanation that I have for this is that reading many books, and knowing well how the world works and what's going on (by following the news)
