@@ -89,6 +89,6 @@ Also, these emoji are used to highlight key terms:
 The idea for this project is borrowed from [Buster Benson](https://github.com/busterbenson)'s
 [&ldquo;Book of Beliefs&rdquo;](https://github.com/busterbenson/public) (hat tip).
 
-Copyright &copy; 2014&ndash;2018 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
+Copyright &copy; 2013&ndash;2018 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
 
 [All rights reserved](https://github.com/tripu/Vita/blob/master/.github/LICENSE.md).
