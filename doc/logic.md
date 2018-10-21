@@ -2,6 +2,8 @@
 
 1. [Rules of discourse](#1-rules-of-discourse)
 1. [Beliefs I cannot justify](#2-beliefs-i-cannot-justify)
+   1. [About the importance of reading](#21-about-the-importance-of-reading)
+   1. [About the value of material objects](#22-about-the-value-of-material-objects)
 1. [Miscellanea](#3-miscellanea)
 
 ### 1. Rules of discourse
@@ -32,6 +34,8 @@
 
 ### 2. Beliefs I cannot justify
 
+#### 2.1. About the importance of reading
+
 I have a strong belief that <span class="icon idea">💡</span>&nbsp;**reading** is important, and makes me a better person, somehow.
 In particular, I think that reading the classics, non-fiction, essays and books that are very influential or that explore complex subjects, improves me in some
 way (as opposed to reading humourous books, thrilling novels and easy fiction: at least those types of reading hold a clear benefit since reading them is
@@ -56,6 +60,41 @@ But there aren't good reasons to believe that.
 
 One tentative explanation that I have for this is that reading many books, and knowing well how the world works and what's going on (by following the news)
 makes me more similar to people I like (because I've found that I like people who tend to read a lot and be very well informed).
+
+#### 2.2. About the value of material objects
+
+I behave sometimes as if the objects and material goods around me had value beyond their objective utility to me.
+
+Is almost as if I were an animist, and thought that my tools, devices, pieces of clothing, etc. had a *spirit* in them.
+Of course, I do not *believe* so; but I feel attached to them, and I feed bad if for whatever reason those objects are thrown away, badly damaged, or stored and
+ignored for a long time&nbsp;&mdash;&nbs;*when they are still in good order*.
+When things have been used and are now simply worn out, I don't feel bad about ditching them.
+It's just when stuff has not reached its potential (its utility to someone) that I feel this strange way about it.
+
+Incidentally, that is the main reason **why I own comparatively few things**.
+My most expensive purchase ever was my BMW F800 GT motorcycle, which I bought in 2016 for ~€11,000.
+My first motorbike cost ~€7,000.
+The next most expensive things I bought probably are a bunch of personal computers over the years (all under ~€2,000).
+Further below in the list: a few expensive items of clothing (eg, good outwear), smartphones, cameras and the like.
+(My oboe and my electronic keyboard were expensive instruments, back in the 90's; but my parents bought them, not me.
+And I'm not considering here expensive intangible goods like college tuition, long-haul flights, rent, and the like.)
+
+I sometimes visit friends of relatives around my age whose houses seem full of stuff&nbsp;&mdash;&nbsp;stuff they own; and sometimes I detect a weird little
+pinch of sadness inside me, caused by the idea of owning way more things that one can use or enjoy.
+This does not apply to the houses themselves: the kind of ideal home I would love to own myself is big and luxurious, has lots of rooms, and is located in a
+convenient yet quiet and beautiful place (of course!).
+I know that if I had four bedrooms (instead of two) I would *use* them; if I had a swimming pool, I would *use* it; if my living room were three times bigger,
+I know that I would extract value out of it (it'd be more comfortable; I could invite more than a couple people over for dinner; I could maintain separate
+spaces for work, for leisure, for dining).
+So, I don't think that an expensive home is the kind of thing that would trigger this *animistic* feeling in me: I can't see how I would *feel bad* for having
+a house that I am not *using* or *enjoying* properly.
+It's the *objects* inside these houses that very often look &ldquo;lonely&rdquo;, &ldquo;sad&rdquo; and &lquo;neglected&rdquo; to me.
+
+Funny thing: you know that Rock&amp;Roll meme where the guitarist smashes his instrument on the floor and against the equipment on stage at the end of the gig?
+I have always felt very uneasy about that.
+I almost *suffer* when I see that happening.
+Something inside me screams: *&ldquo;but&nbsp;&mdash;&nbsp;why!? That guitar is perfectly fine. Poor guitar!&rdquo;*
+(This helps to explain why, against all expectations, my Rock&amp;Roll career has not reached truly global scale.)
 
 ### 3. Miscellanea
 

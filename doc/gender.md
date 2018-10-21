@@ -55,6 +55,11 @@ The *name* itself is a banner under which many people can reasonably find it tro
 I prefer &ldquo;equity feminism&rdquo; (<span class="icon name">👤</span>&nbsp;**Christina Hoff Sommers**) or &ldquo;liberal/libertarian feminism&rdquo;, as
 opposed to &ldquo;gender feminism&rdquo;.
 
+> *&ldquo;I do not label myself a feminist, because I refuse to burden myself with defending the views and actions of too many of those who choose that
+label.&rdquo;*
+
+&mdash;&nbsp;[Tom Meadowcroft, a commenter on *The Economist*](https://www.economist.com/comment/3584119#comment-3584119)
+
 ### 3. What feminism gets wrong sometimes
 
 The aspects of modern mainstream feminism that I may agree with are mostly inheritance of older, less exclusive philosophies: humanism, englightenment,
