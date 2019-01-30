@@ -21,19 +21,20 @@
 ### 2. Things I do *not* like
 
 * In people:
-  * People who talk to themselves
-  * People to chew gum with their mouths open
+  * People who talk to themselves out loud
+  * People who chew gum with their mouths open
   * People who cough, or exhale air heavily, without realising you're close to them
   * People who interrupt others too much when they're speaking
   * People who talk a lot, all the time (ie, people who don't seem to be able to be quiet or to just listen for a while)
   * People who are *very* extroverted (people with a very intense, expansive personality)
   * People who talk too much about themselves, unprompted; and who keep on trying to surpass your own comments or anecdotes
   * People who gossip
-  * People who communicate with me using tools that don't respect my privacy, eg GMail
+  * People who insist on communicating with me using tools that don't respect my privacy, eg GMail
 * Food:
   * Watermelon
   * Strawberry flavour in things (but I quite like strawberries)
   * Coconut
+  * Marzipan
 * Music:
   * *Flamenco*
   * Ska
@@ -50,9 +51,11 @@
 * Facebook
 * Sending/sharing images, videos or chunks of text when there's a public URL to that instead
 * Bullfighting
+* PETA videos
 * Soccer
 * *Receiving* massages
 * Swimming
+* The weather forecast (I'm incapable of paying attention to it)
 * Sloppy grammar, spelling or punctuation
 * Unnecessary buzzwords
 * Faulty logic

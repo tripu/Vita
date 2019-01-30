@@ -8,6 +8,8 @@
    1. [Artists](#12-artists)
 1. [Famous people I detest](#2-famous-people-i-detest)
 
+(Famous *contemporary* people, that is)
+
 (For **things** that I like and dislike, see <span class="icon ref">👉</span>&nbsp;[Tastes](tastes))
 
 ### 1. Famous people I admire
@@ -22,8 +24,8 @@
 * <span class="icon name">👤</span>&nbsp;[**Christopher Hitchens**](https://en.wikipedia.org/wiki/Christopher_Hitchens)
 * <span class="icon name">👤</span>&nbsp;[**Johathan Haidt**](https://en.wikipedia.org/wiki/Jonathan_Haidt)
 * <span class="icon name">👤</span>&nbsp;[**Eric Weinstein**](https://en.wikipedia.org/wiki/Eric_Weinstein)
-* <span class="icon name">👤</span>&nbsp;[**Jordan Peterson**](https://en.wikipedia.org/wiki/Jordan_Peterson) (modulo his irrational praise of religion, and a
-  few other bits that I dislike)
+* ~<span class="icon name">👤</span>&nbsp;[**Jordan Peterson**](https://en.wikipedia.org/wiki/Jordan_Peterson) (modulo his irrational praise of religion, and~
+  ~a few other bits that I dislike)~ Not sure any more: I found him very original and very inspiring in the beginning, but less interesting nowadays (Jan 2019)
 
 ##### 1.1.2. Gender issues
 

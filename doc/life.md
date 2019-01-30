@@ -7,6 +7,7 @@ What is most important to me.
 1. [People](#3-people)
 1. [Debates and discussing with people](#4-debates-and-discussing-with-people)
 1. [Knowledge](#5-knowledge)
+1. [Goals and obsessions](#6-goals-and-obsessions)
 
 ### 1. Priorities
 
@@ -15,8 +16,6 @@ The most important thing for me should be my own **health**, **happiness** and g
 [Perhaps [being &ldquo;interesting&rdquo;](https://www.youtube.com/watch?v=U88jj6PSD7w) is a better goal than being happy.]
 
 **People** around me, people who are important to me, should be my second concern.
-
-I believe more in 💡&nbsp;**persistence** and 💡&nbsp;**practice** than in 💡&nbsp;**talent**.
 
 ### 2. General principles, and making decisions
 
@@ -38,6 +37,7 @@ These balances are difficult in life:
   As men age, they grow more boastful.
   You can see that trait clearly in some old people; with their tendency to blow their own little trumpets at every opportunity.
   I shall be vigilant and stay humble.
+* Good old stoicism is an asset.
 
 The **merit of deeds** should be judged considering solely the information available **to that person** and **at the time decisions were made, or actions were taken**&nbsp;&mdash;&nbsp;never considering their consequences, to the extent that they were impossible to predict.
 Positive example: someone all of a sudden spends all their life savings on lottery tickets, and they win the biggest prize in history. Their call to spend all their money in lottery was still dumb and absolutely wrong (as it always is). Regardless of that fantastic but hugely unlikely outcome.
@@ -119,3 +119,58 @@ Learning and discovering is one of the greatest pleasures in life.
 
 I love what 👤&nbsp;**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is:
 https://youtu.be/5eo3ZC1Sc2w?t=23m31s
+
+### 6. Goals and obsessions
+
+I believe more in <span class="icon idea">💡</span>&nbsp;**persistence** and <span class="icon idea">💡</span>&nbsp;**practice** than in <span class="icon idea">💡</span>&nbsp;**talent**.
+
+A *healthy* dose of <span class="icon idea">💡</span>&nbsp;**obsession** seems necessary to achieve great things.
+At least, so far I don't seem to be able to accomplishing almost nothing that is difficult and important (according to my own definition of &ldquo;important&rdquo;) without becoming at least a bit obsessed about it for some time.
+An exception might be: getting my first MSc (in CS and software engineering, between the ages of 18 and 24), which was both difficult and important.
+But somehow I don't think that counts: I *wanted* it, I *mostly* liked it, I didn't even have a plan B at the time, it was partly inertia (being curious, introverted, not too dumb), and it was mostly unexceptional in the context of my relatives and friends.
+
+At times I have set specific goals for myself:
+
+> *&ldquo;Run 10–km races…☑*
+> *Get 2nd master's degree in foreign country…☑*
+> *Run ½ marathons…☑ <br /> Get certified in basic Japanese…☑*
+> *Run a marathon…☑*
+> *¿?&rdquo;*
+
+&mdash;&nbsp;[Me, in Apr 2013](https://twitter.com/tripu/status/328640582383706112)
+
+What I have never done, so far, is defining plans, milestones or deadlines for those goals.
+Perhaps that's where I should improve my method&hellip;
+
+At the time of writing (six years later, on Jan 2019) I would add, as new &ldquo;goals accomplished&rdquo;:
+
+* Own and enjoy a decent motorbike (it was a Honda CBF600)&hellip;☑
+* Own and enjoy an even better motorbike (it is a BMW F800GT)&hellip;☑
+* Run (and finish) *another* marathon (abroad: NYC Marathon, in 2017)&hellip;☑
+* Live and work in Japan, in Tokyo if possible (I lived in Tokyo for one year and nine months)&hellip;☑
+
+&hellip;and, as &ldquo;new goals&rdquo;, or &ldquo;old goals still pending&rdquo;, things like:
+
+* Have a child (have *children*, if possible)
+* Live and work abroad again, this time with my family
+* Travel for at least a few months around the world (not necessarily *around* it, but you get the idea)
+* Retire &ldquo;early&rdquo;
+* Write a novel, publish it if possible (NaNoWriMo?)
+* Write a non-fiction book, publish it if possible
+* Get to speak and write German well
+* Get to speak and write Japanese well
+* Be stronger (significantly, both in strengh and in aspect)
+* Own a house (a *nice* house, if possible)
+* Develop (or lead) an open-source project that becomes well known or reaches great impact
+* Make my living off a software product/service/company of my own
+* Be &ldquo;rich&rdquo;
+
+&ldquo;Failed goals&rdquo; (I'm 38 at the time of writing):
+
+* Be a young parent (too old already)
+* Have *many* (read: at least three or four) children (seems almost impossible for biological, financial and personal reasons)
+* Be *really* fluent in a language other than Spanish (too late&hellip; unless I got to live and work in Italy or in Catalonia for the next twenty or thirty years of my life, perhaps)
+* Be quite good at some sport (I don't mean &ldquo;professional&rdquo;, but even as an *amateur* it's too late)
+* Be a good musician (ditto)
+* Be a good illustrator, designer or painter
+* Benefit from the compounding effects of early systematic investment (I bought my first bond at around 27, and my first stocks at 34)

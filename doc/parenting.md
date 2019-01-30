@@ -35,7 +35,8 @@ The worst thing that can happen to your child is to die prematurely (ie, young).
 As a parent, that may well be your worst fear (outliving your kid).
 I think there are good reasons to make this the single most important priority when educating children, for their benefit and for ours.
 
-No. 3 I have also broadened because I suspect I am old-fashioned (or unreasonable, or too romantic) about *books* in particular.
+No. 3 I have also broadened because I suspect [I am old-fashioned (or unreasonable, or too romantic) about *books*](logic##21-about-the-importance-of-reading)
+in particular.
 Perhaps kids in the future will definitely learn more and better from other sources&nbsp;&mdash;&nbsp;be it podcasts, blog posts, MOOCs, or even YouTube videos.
 I want to be open to that possibility.
 I *still* don't see good substitutes for books *today* (I don't think it's possible to be truly educated and intellectually &ldquo;fit&rdquo; without them),

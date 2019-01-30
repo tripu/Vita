@@ -69,7 +69,7 @@ makes me more similar to people I like (because I've found that I like people wh
 
 I behave sometimes as if the objects and material goods around me had value beyond their objective utility to me.
 
-Is almost as if I were an animist, and thought that my tools, devices, pieces of clothing, etc. had a *spirit* in them.
+It's almost as if I were an animist, and thought that my tools, devices, pieces of clothing, etc. had a *spirit* in them.
 Of course, I do not *believe* so; but I feel attached to them, and I feed bad if for whatever reason those objects are thrown away, badly damaged, or stored and
 ignored for a long time&nbsp;&mdash;&nbsp;*when they are still in good order*.
 When things have been used and are now simply worn out, I don't feel bad about ditching them.
@@ -83,7 +83,7 @@ Further below in the list: a few expensive items of clothing (eg, good outwear),
 (My oboe and my electronic keyboard were expensive instruments, back in the 90's; but my parents bought them, not me.
 And I'm not considering here expensive intangible goods like college tuition, long-haul flights, rent, and the like.)
 
-So, I have this strong tendency to not own anything so expensive that it could make me feel very bad in the future for not having used it *sufficiently*.
+So, I have this strong tendency **to not own anything so expensive that it could make me feel very bad in the future for not having used it *sufficiently***.
 Note that this is still a rational position: one should not spend money in things that are not going to provide utility or pleasure that is more valuable than
 their market price.
 The irrational part here is that, once I own something, it should not matter whether I am using it or not.

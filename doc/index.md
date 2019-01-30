@@ -55,22 +55,23 @@ On the other hand, if you are *offended* by some of my ideas, here is what you c
 
 ## 3. Index
 
-1. [Life](life): what is most important to me
-1. [Ethics](ethics)
-1. [Logic](logic)
-1. [Politics](politics)
-1. [Science](science)
-1. [Tech](tech)
-1. [Health](health)
+1. [Art](art)
 1. [Economics](economics)
-1. [Personality](personality)
-1. [Gender](gender)
-1. [Parenting](parenting): how to treat children well
-1. [Art](art) (just a bit about literature for now)
+1. [Ethics](ethics)
 1. [Famous people I admire (or detest)](people)
-1. [Tastes](tastes)
-1. [Quotes](quotes)
+1. [Gender](gender)
+1. [Health](health)
+1. [Life](life)
+1. [Logic](logic)
 1. [Miscellanea](miscellanea)
+1. [Parenting](parenting)
+1. [Personality](personality)
+1. [Politics](politics)
+1. [Quotes](quotes)
+1. [Science](science)
+1. [Tastes](tastes)
+1. [Tech](tech)
+1. [Work](work)
 
 ## 4. Conventions used in the text
 
@@ -79,16 +80,16 @@ There is a separate section for all [&#10033;&nbsp;**footnotes**](footnotes#foot
 **Key terms** (ideas, topics, people, works) appear **in bold**.
 Also, these emoji are used to highlight key terms:
 
-* <span class="icon idea">💡</span>&nbsp;**Ideas and subjects**: `<span class="icon idea">💡</span>`
-* <span class="icon name">👤</span>&nbsp;**Names of people**: `<span class="icon name">👤</span>`
-* <span class="icon eg">💭</span>&nbsp;**Examples**: `<span class="icon eg">💭</span>`
-* <span class="icon ref">👉</span>&nbsp;**References**: `<span class="icon ref">👉</span>`
+* <span class="icon idea">💡</span>&nbsp;**Ideas and subjects**
+* <span class="icon name">👤</span>&nbsp;**Names of people**
+* <span class="icon eg">💭</span>&nbsp;**Examples**
+* <span class="icon ref">👉</span>&nbsp;**References**
 
 ## 5. Credits
 
 The idea for this project is borrowed from [Buster Benson](https://github.com/busterbenson)'s
 [&ldquo;Book of Beliefs&rdquo;](https://github.com/busterbenson/public) (hat tip).
 
-Copyright &copy; 2013&ndash;2018 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
+Copyright &copy; 2013&ndash;2019 tripu ([`t@tripu.info`](mailto:t@tripu.info), [`https://tripu.info`](https://tripu.info/)).
 
 [All rights reserved](https://github.com/tripu/Vita/blob/master/.github/LICENSE.md).
