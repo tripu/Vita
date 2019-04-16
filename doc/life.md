@@ -8,6 +8,9 @@ What is most important to me.
 1. [Debates and discussing with people](#4-debates-and-discussing-with-people)
 1. [Knowledge](#5-knowledge)
 1. [Goals and obsessions](#6-goals-and-obsessions)
+   1. [Goals accomplished](#61-goals-accomplished)
+   1. [Goals pending](#62-goals-pending)
+   1. [Goals failed](#63-goals-failed)
 
 ### 1. Priorities
 
@@ -117,25 +120,28 @@ Avoid.
 
 Learning and discovering is one of the greatest pleasures in life.
 
-I love what 👤&nbsp;**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is:
-https://youtu.be/5eo3ZC1Sc2w?t=23m31s
+I love [what 👤&nbsp;**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is](https://youtu.be/5eo3ZC1Sc2w?t=23m31s).
 
 ### 6. Goals and obsessions
 
-I believe more in <span class="icon idea">💡</span>&nbsp;**persistence** and <span class="icon idea">💡</span>&nbsp;**practice** than in <span class="icon idea">💡</span>&nbsp;**talent**.
+I believe more in <span class="icon idea">💡</span>&nbsp;**persistence** and in <span class="icon idea">💡</span>&nbsp;**practice** than in <span class="icon idea">💡</span>&nbsp;**talent**.
 
 A *healthy* dose of <span class="icon idea">💡</span>&nbsp;**obsession** seems necessary to achieve great things.
-At least, so far I don't seem to be able to accomplishing almost nothing that is difficult and important (according to my own definition of &ldquo;important&rdquo;) without becoming at least a bit obsessed about it for some time.
+At least, so far I don't seem to be able to accomplish almost nothing that is difficult and important (according to my own definition of &ldquo;important&rdquo;) without becoming at least a bit obsessed about it for some time.
+
 An exception might be: getting my first MSc (in CS and software engineering, between the ages of 18 and 24), which was both difficult and important.
 But somehow I don't think that counts: I *wanted* it, I *mostly* liked it, I didn't even have a plan B at the time, it was partly inertia (being curious, introverted, not too dumb), and it was mostly unexceptional in the context of my relatives and friends.
 
+#### 6.1. Goals accomplished
+
 At times I have set specific goals for myself:
 
-> *&ldquo;Run 10–km races…☑*
-> *Get 2nd master's degree in foreign country…☑*
-> *Run ½ marathons…☑ <br /> Get certified in basic Japanese…☑*
-> *Run a marathon…☑*
-> *¿?&rdquo;*
+> *&ldquo;Run 10–km races…☑*  
+  *Get 2nd master's degree in foreign country…☑*  
+  *Run ½ marathons…☑*  
+  *Get certified in basic Japanese…☑*  
+  *Run a marathon…☑*  
+  *¿?&rdquo;*
 
 &mdash;&nbsp;[Me, in Apr 2013](https://twitter.com/tripu/status/328640582383706112)
 
@@ -144,10 +150,12 @@ Perhaps that's where I should improve my method&hellip;
 
 At the time of writing (six years later, on Jan 2019) I would add, as new &ldquo;goals accomplished&rdquo;:
 
-* Own and enjoy a decent motorbike (it was a Honda CBF600)&hellip;☑
-* Own and enjoy an even better motorbike (it is a BMW F800GT)&hellip;☑
-* Run (and finish) *another* marathon (abroad: NYC Marathon, in 2017)&hellip;☑
-* Live and work in Japan, in Tokyo if possible (I lived in Tokyo for one year and nine months)&hellip;☑
+* Own and enjoy a decent motorbike (it was [a Honda CBF600](https://www.moterus.es/motero/tripu/motos/honda-cbf-600-sa))&hellip;&nbsp;☑
+* Own and enjoy an even better motorbike (it is [a BMW F800GT](https://www.moterus.es/motero/tripu/motos/bmw-f-800-gt))&hellip;&nbsp;☑
+* Run (and finish) *another* marathon (abroad: [NYC Marathon 2017](https://flow.polar.com/training/analysis/1926907684))&hellip;&nbsp;☑
+* Live and work in Japan, in Tokyo if possible (I lived in Tokyo for one year and nine months)&hellip;&nbsp;☑
+
+#### 6.2. Goals pending
 
 &hellip;and, as &ldquo;new goals&rdquo;, or &ldquo;old goals still pending&rdquo;, things like:
 
@@ -155,7 +163,8 @@ At the time of writing (six years later, on Jan 2019) I would add, as new &ldquo
 * Live and work abroad again, this time with my family
 * Travel for at least a few months around the world (not necessarily *around* it, but you get the idea)
 * Retire &ldquo;early&rdquo;
-* Write a novel, publish it if possible (NaNoWriMo?)
+* Own and enjoy *the* motorbike that I prefer
+* Write a novel, publish it if possible ([NaNoWriMo](http://www.nanowrimo.org/)?)
 * Write a non-fiction book, publish it if possible
 * Get to speak and write German well
 * Get to speak and write Japanese well
@@ -165,12 +174,14 @@ At the time of writing (six years later, on Jan 2019) I would add, as new &ldquo
 * Make my living off a software product/service/company of my own
 * Be &ldquo;rich&rdquo;
 
-&ldquo;Failed goals&rdquo; (I'm 38 at the time of writing):
+#### 6.3. Goals failed
+
+(Hint: I'm 38 at the time of writing)
 
 * Be a young parent (too old already)
-* Have *many* (read: at least three or four) children (seems almost impossible for biological, financial and personal reasons)
+* Have *many* (read: &ldquo;three or more&rdquo;) children (seems almost impossible for biological, financial and personal reasons)
 * Be *really* fluent in a language other than Spanish (too late&hellip; unless I got to live and work in Italy or in Catalonia for the next twenty or thirty years of my life, perhaps)
 * Be quite good at some sport (I don't mean &ldquo;professional&rdquo;, but even as an *amateur* it's too late)
 * Be a good musician (ditto)
-* Be a good illustrator, designer or painter
+* Be a good illustrator, designer or painter (probably too late, although I'm not completely sure)
 * Benefit from the compounding effects of early systematic investment (I bought my first bond at around 27, and my first stocks at 34)

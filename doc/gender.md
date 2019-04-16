@@ -60,6 +60,10 @@ label.&rdquo;*
 
 &mdash;&nbsp;[Tom Meadowcroft, a commenter on *The Economist*](https://www.economist.com/comment/3584119#comment-3584119)
 
+> *&ldquo; I call myself a feminist, absolutely. I simply belong to a dissident wing of feminism, and I think that the error made by all these people was not to understand that my wing of feminism had been suppressed and silenced at that point for 25 years. [&hellip;] I'm an equal opportunity feminist, by which I believe that all obstacles to women's advance in the political and professional realms should be removed. What I'm also saying is that there are huge areas of human life that are not political that have to do with our private spiritual nature, and that is a place where legislation will always be helpless and hopeless, and indeed, intrusive, so I think that feminism's made enormous gains in terms of there was a time that women were totally dependent on father, on husband, on brother, for their survival. Now, women can be self‑supporting, can live totally on their own. It's part of this whole Western world powered by capitalism that our university curricula are now habitually always demeaning. Capitalism made women's emancipation possible. I think that the problem right now is that young women have been taught that to somehow identify their own sense of personal unhappiness with men, and men are responsible for our unhappiness.&rdquo;*
+
+&mdash;&nbsp;[Camille Paglia](https://www.youtube.com/watch?v=VSRuncwwJyQ)
+
 ### 3. What feminism gets wrong sometimes
 
 The aspects of modern mainstream feminism that I may agree with are mostly inheritance of older, less exclusive philosophies: humanism, englightenment,

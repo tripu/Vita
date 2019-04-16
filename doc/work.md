@@ -22,4 +22,4 @@
 
 [Commentary pending; **not** that I agree with everything Altman says here]
 
-See also <span class="icon ref">👉</span>&nbsp;**[goals and obsessions](work##6-goals-and-obsessions)**
+See also <span class="icon ref">👉</span>&nbsp;**[goals and obsessions](work#6-goals-and-obsessions)**
