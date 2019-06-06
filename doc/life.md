@@ -52,6 +52,14 @@ The idea of having, or achieving, “one's dream” (singular), or “the dream 
 
 Always remember that you tend to idealise the **past**.
 
+> *&ldquo;You can't go very far wrong if you're **motivated by love** and **guided by reason**.&rdquo;*
+
+&mdash;&nbsp;[Sam Harris](https://youtu.be/aALsFhZKg-Q?t=5158).
+
+> *&ldquo;I just sit in my office and read all day.&rdquo;*
+
+&mdash;&nbsp;[Warren Buffett](https://www.gatesnotes.com/About-Bill-Gates/Grilling-and-chilling-with-Warren-Buffett).
+
 > *&ldquo;Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short.&rdquo;*
 
 &mdash;&nbsp;[Paul Graham](http://paulgraham.com/vb.html).
@@ -124,7 +132,8 @@ I love [what 👤&nbsp;**Steven Pinker** says here about the role of universitie
 
 ### 6. Goals and obsessions
 
-I believe more in <span class="icon idea">💡</span>&nbsp;**persistence** and in <span class="icon idea">💡</span>&nbsp;**practice** than in <span class="icon idea">💡</span>&nbsp;**talent**.
+I believe more [in <span class="icon idea">💡</span>&nbsp;**persistence** and in <span class="icon idea">💡</span>&nbsp;**practice**
+than in <span class="icon idea">💡</span>&nbsp;**talent**](https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success).
 
 A *healthy* dose of <span class="icon idea">💡</span>&nbsp;**obsession** seems necessary to achieve great things.
 At least, so far I don't seem to be able to accomplish almost nothing that is difficult and important (according to my own definition of &ldquo;important&rdquo;) without becoming at least a bit obsessed about it for some time.
