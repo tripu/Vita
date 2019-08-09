@@ -32,6 +32,7 @@ Painters I like:
 * Realists:
    - [Ivan Kramskoi](https://en.wikipedia.org/wiki/Ivan_Kramskoi) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=ivan+kramskoi))
    - [Ivan Shishkin](https://en.wikipedia.org/wiki/Ivan_Shishkin) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=ivan+shishkin))
+   - [Rosa Bonheur](https://en.wikipedia.org/wiki/Rosa_Bonheur) ([gallery](https://duckduckgo.com/?q=rosa+bonheur&iar=images&iaf=size%3AWallpaper&iax=images&ia=images))
    - [Julio Romero de Torres](https://en.wikipedia.org/wiki/Julio_Romero_de_Torres) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=julio+romero+de+torres))
    - [Edward Hopper](https://en.wikipedia.org/wiki/Edward_Hopper) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=edward+hopper))
    - [Antonio López](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Garc%C3%ADa) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=antonio+l%C3%B3pez+garc%C3%ADa))

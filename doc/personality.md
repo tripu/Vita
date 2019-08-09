@@ -17,3 +17,6 @@ Although it's a gross simplification, I can usually classify people around me in
 
 Often, I find it hard to interact with right-brain dominant people.
 Conversation is difficult (not to mention debate).
+
+I think my [Myers–Briggs personality type](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) is
+[ISTJ (Introversion, Sensing, Thinking, Judgment)](https://en.wikipedia.org/wiki/ISTJ).

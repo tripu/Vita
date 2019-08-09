@@ -20,6 +20,11 @@
   society).
 * Radical 💡&nbsp;**euthanasia** (apart from not processing doctors nor relatives who assist in a suicide, the State should actively help those
   who *really* want to end their lives, but who cannot do that by themselves <span class="icon ref">👉</span>&nbsp;[**1**](footnotes#1)).
+* 💡&nbsp;**Surrogate pregnancies**:
+  [this article (in Spanish)](https://blogs.elconfidencial.com/economia/laissez-faire/2017-02-10/gestacion-subrogada_1329076/)
+  summarises well my position.
+* 💡&nbsp;**Altruistic donations by billionaires**
+  ([SSC: &ldquo;Against against billionaire philanthropy&rdquo;](https://slatestarcodex.com/2019/07/29/against-against-billionaire-philanthropy/)).
 
 #### 1.2. Things I'm not sure about
 
