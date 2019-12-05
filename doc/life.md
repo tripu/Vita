@@ -138,6 +138,9 @@ than in <span class="icon idea">💡</span>&nbsp;**talent**](https://www.gatesno
 A *healthy* dose of <span class="icon idea">💡</span>&nbsp;**obsession** seems necessary to achieve great things.
 At least, so far I don't seem to be able to accomplish almost nothing that is difficult and important (according to my own definition of &ldquo;important&rdquo;) without becoming at least a bit obsessed about it for some time.
 
+(Some time after writing this, I'm pleased to learn that <span class="icon name">👤</span>&nbsp;**Paul Graham** no less
+[seems to agree with me about the critical importance of obsession](http://paulgraham.com/genius.html).)
+
 An exception might be: getting my first MSc (in CS and software engineering, between the ages of 18 and 24), which was both difficult and important.
 But somehow I don't think that counts: I *wanted* it, I *mostly* liked it, I didn't even have a plan B at the time, it was partly inertia (being curious, introverted, not too dumb), and it was mostly unexceptional in the context of my relatives and friends.
 
