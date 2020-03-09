@@ -3,12 +3,16 @@
 How to treat children well.
 
 1. [What I want for my child(ren)](#1-what-i-want-for-my-children)
+   1. [My own thoughts](#11-my-own-thoughts)
+   1. [Other ideas from friends](#12-other-ideas-from-friends)
 1. [General principles](#2-general-principles)
 1. [Day-to-day](#3-day-to-day)
 1. [Speaking to them](#4-speaking-to-them)
 1. [Language](#5-language)
 
 ### 1. What I want for my child(ren)
+
+#### 1.1. My own thoughts
 
 It may be pessimism, it may be my not understanding the millennials, or it may be that I'm 38 at the time of writing so I'm guilty now of that universal
 youngsters-today-are-spoilt-and-dumb-not-like-us-back-in-my-youth bias.
@@ -48,6 +52,14 @@ No. 2 remains the same.
 I'm generally risk-averse and conservative when it comes to substances, violence, etc.; thus the &ldquo;drugs&rdquo; bit.
 I am introverted and soft-spoken and hate rude behaviour; thus wanting my kids to be nice and pleasant people.
 And I love books; thus the&hellip; books.)
+
+#### 1.2. Other ideas from friends
+
+P.M. (a father of two) gave me these three:
+
+1. Raise your kids in such a way that you can talk with them about _anything_ (typical examples: drugs and sex).
+1. Become interested in their interests, no matter how boring or weird they seem to you (eg, the videogames they play and the whole subculture around them).
+1. Raise your kids to be not only consumers, but also _producers_ of things.
 
 ### 2. General principles
 

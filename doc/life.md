@@ -124,6 +124,11 @@ Avoid.
 
 * [Paul Graham: *&ldquo;How to Disagree&rdquo;*](http://www.paulgraham.com/disagree.html)
 
+As a **rationalist** and a **cerebral** type, I'm more of a [**mistake theorist**](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/).
+I'm also a [**high-decoupler**](https://unherd.com/2020/02/eugenics-is-possible-is-not-the-same-as-eugenics-is-good/).
+Many of my frustrations in trying to understand and debate others arise from these traits, and from the fact that the majority of people seem to
+be rather **passionate**, **conflict theorists** and/or **low-decouplers**.
+
 ### 5. Knowledge
 
 Learning and discovering is one of the greatest pleasures in life.
