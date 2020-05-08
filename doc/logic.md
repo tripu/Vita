@@ -5,6 +5,7 @@
    1. [About the importance of reading](#21-about-the-importance-of-reading)
    1. [About the value of material objects](#22-about-the-value-of-material-objects)
 1. [Miscellanea](#3-miscellanea)
+1. [Powerful ideas](#4-powerful-ideas)
 
 ### 1. Rules of discourse
 
@@ -114,3 +115,8 @@ Something inside me screams: *&ldquo;but&nbsp;&mdash;&nbsp;why!? That guitar is 
 * There are absurd questions.
    * &ldquo;Do you prefer a universe with, or without a god?&rdquo;
 * There are dishonest questions one can (should) ignore altogether.
+
+### 4. Powerful ideas
+
+* [&ldquo;40 powerful concepts for understanding the world&rdquo;](https://twitter.com/G_S_Bhogal/status/1225561131122597896)
+* [&ldquo;Name one idea that changed your life&rdquo;](https://twitter.com/david_perell/status/1257484391204352002)
