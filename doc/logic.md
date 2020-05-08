@@ -120,3 +120,4 @@ Something inside me screams: *&ldquo;but&nbsp;&mdash;&nbsp;why!? That guitar is 
 
 * [&ldquo;40 powerful concepts for understanding the world&rdquo;](https://twitter.com/G_S_Bhogal/status/1225561131122597896)
 * [&ldquo;Name one idea that changed your life&rdquo;](https://twitter.com/david_perell/status/1257484391204352002)
+* [&ldquo;How to get rich (without getting lucky)&rdquo;](https://twitter.com/naval/status/1002103360646823936)
