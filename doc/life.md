@@ -123,6 +123,8 @@ Avoid.
   Never say that (and never *think* that).
 
 * [Paul Graham: *&ldquo;How to Disagree&rdquo;*](http://www.paulgraham.com/disagree.html)
+* [Bryan Caplan: *&ldquo;Silence is Stupid, Argument is Foolish&rdquo;*](https://www.econlib.org/silence-is-stupid-argument-is-foolish/):
+  _&ldquo;remain calm, take nothing personally, use probabilities, face hypotheticals head-on, and spurn Social Desirability Bias like the plague&rdquo;_.
 
 As a **rationalist** and a **cerebral** type, I'm more of a [**mistake theorist**](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/).
 I'm also a [**high-decoupler**](https://unherd.com/2020/02/eugenics-is-possible-is-not-the-same-as-eugenics-is-good/).
