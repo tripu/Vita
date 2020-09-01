@@ -38,6 +38,7 @@ Painters I like:
    - [Antonio López](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Garc%C3%ADa) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=antonio+l%C3%B3pez+garc%C3%ADa))
    - [Richard Estes](https://en.wikipedia.org/wiki/Richard_Estes) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=richard+estes))
    - [Tom Blackwell](https://en.wikipedia.org/wiki/Tom_Blackwell) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=tom+blackwell))
+   - Diego Catal&aacute;n ([gallery](https://diegocatalan.com/portafolio/))
 * Surrealists:
    - [Salvador Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=salvador+dal%C3%AD))
    - [Tetsuya Ishida](https://en.wikipedia.org/wiki/Tetsuya_Ishida) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=tetsuya+ishida))

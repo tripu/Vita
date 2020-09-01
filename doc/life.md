@@ -126,10 +126,7 @@ Avoid.
 * [Bryan Caplan: *&ldquo;Silence is Stupid, Argument is Foolish&rdquo;*](https://www.econlib.org/silence-is-stupid-argument-is-foolish/):
   _&ldquo;remain calm, take nothing personally, use probabilities, face hypotheticals head-on, and spurn Social Desirability Bias like the plague&rdquo;_.
 
-As a **rationalist** and a **cerebral** type, I'm more of a [**mistake theorist**](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/).
-I'm also a [**high-decoupler**](https://unherd.com/2020/02/eugenics-is-possible-is-not-the-same-as-eugenics-is-good/).
-Many of my frustrations in trying to understand and debate others arise from these traits, and from the fact that the majority of people seem to
-be rather **passionate**, **conflict theorists** and/or **low-decouplers**.
+Many of my frustrations in trying to understand and debate others arise from <span class="icon ref">👉</span>&nbsp;[my personality type](personality#i).
 
 ### 5. Knowledge
 
@@ -167,24 +164,28 @@ At times I have set specific goals for myself:
 What I have never done, so far, is defining plans, milestones or deadlines for those goals.
 Perhaps that's where I should improve my method&hellip;
 
-At the time of writing (six years later, on Jan 2019) I would add, as new &ldquo;goals accomplished&rdquo;:
+Now I would add, as new &ldquo;goals accomplished&rdquo;:
 
 * Own and enjoy a decent motorbike (it was [a Honda CBF600](https://www.moterus.es/motero/tripu/motos/honda-cbf-600-sa))&hellip;&nbsp;☑
 * Own and enjoy an even better motorbike (it is [a BMW F800GT](https://www.moterus.es/motero/tripu/motos/bmw-f-800-gt))&hellip;&nbsp;☑
 * Run (and finish) *another* marathon (abroad: [NYC Marathon 2017](https://flow.polar.com/training/analysis/1926907684))&hellip;&nbsp;☑
 * Live and work in Japan, in Tokyo if possible (I lived in Tokyo for one year and nine months)&hellip;&nbsp;☑
+* Use **Duolingo** _every day_ for a long time; have a very long streak
+  (I used it to study tiny bits of German and Japanese [for two years, uninterruptedly](https://qoto.org/@tripu/104265163260232968))
+* Have a child; have _children_, if possible (I have one daughter)
+* Take the [_&ldquo;Giving What We Can&rdquo;_ Pledge](https://www.givingwhatwecan.org/pledge/) (ie, always donate 10% of my gross earnings)
 
 #### 6.2. Goals pending
 
 &hellip;and, as &ldquo;new goals&rdquo;, or &ldquo;old goals still pending&rdquo;, things like:
 
-* Have a child (have *children*, if possible)
 * Live and work abroad again, this time with my family
 * Travel for at least a few months around the world (not necessarily *around* it, but you get the idea)
 * Retire &ldquo;early&rdquo;
-* Own and enjoy *the* motorbike that I prefer
+* Own and enjoy _the_ motorbike that I like the most, without (financial) restrictions
 * Write a novel, publish it if possible ([NaNoWriMo](http://www.nanowrimo.org/)?)
 * Write a non-fiction book, publish it if possible
+* Publish articles or columns somewhere (digital outlet, local newspaper, etc)
 * Get to speak and write German well
 * Get to speak and write Japanese well
 * Be stronger (significantly, both in strengh and in aspect)
@@ -195,7 +196,7 @@ At the time of writing (six years later, on Jan 2019) I would add, as new &ldquo
 
 #### 6.3. Goals failed
 
-(Hint: I'm 38 at the time of writing)
+(Hint: I'm 40 at the time of updating this list.)
 
 * Be a young parent (too old already)
 * Have *many* (read: &ldquo;three or more&rdquo;) children (seems almost impossible for biological, financial and personal reasons)
