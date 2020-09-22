@@ -16,6 +16,8 @@ Prefer classics over contemporary authors; they have endured the test of time.
 
 A meta-aggregator of quality rankings like [The Greatest Books](http://www.thegreatestbooks.org/) is really useful.
 
+I passed [Nabokov's test for &ldquo;good readers&rdquo;](https://www.brainpickings.org/2013/01/21/nabokov-on-what-makes-a-good-reader/).
+
 #### 1.2. Writing
 
 Prerequisites for good writing, [according to Steven Pinker](https://www.youtube.com/watch?v=9GubdYZPYPg):
