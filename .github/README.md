@@ -1,1 +1,1 @@
-➡️&nbsp;[`https://tripu.github.io/Vita/doc/`](https://tripu.github.io/Vita/doc/)
+➡️&nbsp;[`https://tripu.github.io/Vita/`](https://tripu.github.io/Vita/)
