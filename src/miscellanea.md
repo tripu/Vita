@@ -1,4 +1,6 @@
-# Miscellanea
+## Miscellanea
+
+**Table of contents**
 
 1. [Being rich / being poor](#1-being-rich--being-poor)
 1. [Leaked photos and videos](#2-leaked-photos-and-videos)
@@ -8,6 +10,8 @@
 1. [Advertising](#6-advertising)
 1. [Showbiz and media](#7-showbiz-and-media)
 1. [Miscellanea&nbsp;&mdash;&nbsp;to be classified](#8-miscellaneato-be-classified)
+
+---
 
 ### 1. Being rich / being poor
 

@@ -1,10 +1,14 @@
 📜 _Life notes_
 
+**Table of contents**
+
 1. [Introduction](#1-introduction)
 1. [Note to the casual reader](#2-note-to-the-casual-reader)
 1. [Index](#3-index)
 1. [Conventions used in the text](#4-conventions-used-in-the-text)
 1. [Credits](#5-credits)
+
+---
 
 ## 1. Introduction
 

@@ -1,0 +1,26 @@
+{
+  "name": "vita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripu/Vita.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tripu/Vita/issues"
+  },
+  "homepage": "https://github.com/tripu/Vita",
+  "devDependencies": {
+    "commonmark": "^0.29.2",
+    "gulp": "^4.0.2"
+  }
+}
