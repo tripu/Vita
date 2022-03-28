@@ -11,6 +11,7 @@ What is most important to me.
    1. [Goals accomplished](#61-goals-accomplished)
    1. [Goals pending](#62-goals-pending)
    1. [Goals failed](#63-goals-failed)
+1. [Pending ideas](#7-pending-ideas)
 
 ### 1. Priorities
 
@@ -19,6 +20,12 @@ The most important thing for me should be my own **health**, **happiness** and g
 [Perhaps [being &ldquo;interesting&rdquo;](https://www.youtube.com/watch?v=U88jj6PSD7w) is a better goal than being happy.]
 
 **People** around me, people who are important to me, should be my second concern.
+
+> _&ldquo;Father, give us courage to change what must be altered,  
+  serenity to accept what cannot be helped,  
+  and the insight to know the one from the other.*&rdquo;_
+
+&mdash;&nbsp;[Serenity prayer](https://yalealumnimagazine.com/articles/2709-you-can-quote-them)
 
 ### 2. General principles, and making decisions
 
@@ -128,11 +135,13 @@ Avoid.
 
 Many of my frustrations in trying to understand and debate others arise from <span class="icon ref">👉</span>&nbsp;[my personality type](personality#i).
 
+https://aus.social/@space_cadet/105938996234546309
+
 ### 5. Knowledge
 
 Learning and discovering is one of the greatest pleasures in life.
 
-I love [what 👤&nbsp;**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is](https://youtu.be/5eo3ZC1Sc2w?t=23m31s).
+I love [what 👤&nbsp;**Steven Pinker** says here about the role of universities and what an &ldquo;educated&rdquo; person is](https://fs.blog/steven-pinker-broad-education/) ([video](https://web.archive.org/web/20201123052326/https://www.youtube.com/watch?v=5eo3ZC1Sc2w)).
 
 ### 6. Goals and obsessions
 
@@ -205,3 +214,9 @@ Now I would add, as new &ldquo;goals accomplished&rdquo;:
 * Be a good musician (ditto)
 * Be a good illustrator, designer or painter (probably too late, although I'm not completely sure)
 * Benefit from the compounding effects of early systematic investment (I bought my first bond at around 27, and my first stocks at 34)
+
+### 7. Pending ideas
+
+* [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
+* [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better)
+* https://twitter.com/waitbutwhy/status/1406980353986809861

@@ -3,6 +3,7 @@
 1. [Drugs](#1-drugs)
    1. [Taxonomy](#11-taxonomy)
    1. [Legal status](#12-legal-status)
+1. [Nutrition](#2-nutition)
 
 ### 1. Drugs
 
@@ -26,3 +27,7 @@ It makes moral sense, too: there is no strong argument to limit free adults in g
 any kind of substance, as long as that does not pose *in itself* harm to others.
 
 I believe in legalising all drugs *in the very-long-term* <span class="icon ref">👉</span>&nbsp;[**2**](footnotes#2).
+
+### 2. Nutrition
+
+https://www.grahammann.net/book-notes/food-rules-an-eaters-manual-michael-pollan

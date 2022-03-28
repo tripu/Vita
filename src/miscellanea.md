@@ -1,4 +1,4 @@
-## Miscellanea
+no## Miscellanea
 
 **Table of contents**
 
@@ -269,6 +269,8 @@ It is necessary a conscious effort to absorb new ideas that seem extravagant or 
 most often.
 (And it's revealing that both feelings seem so similar!&nbsp;&mdash;&nbsp;nostalgia is envy of your past self; envy is nostalgia of the imagined version of you
 that could have existed if only you were just as good as that other person.)
+
+* [_Anemoia_, _saudade_, _desiderium_, _fernweh_, _sehnsucht_, _yearning_](https://mastodon.social/@cypnk/105018506532748482)
 
 * We need much fewer laws.
 

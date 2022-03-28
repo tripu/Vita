@@ -22,7 +22,7 @@
   are compatible with intellectual rigour, audacity and curiosity
 * <span class="icon name">👤</span>&nbsp;[**Sam Harris**](https://en.wikipedia.org/wiki/Sam_Harris)
 * <span class="icon name">👤</span>&nbsp;[**Christopher Hitchens**](https://en.wikipedia.org/wiki/Christopher_Hitchens)
-* <span class="icon name">👤</span>&nbsp;[**Johathan Haidt**](https://en.wikipedia.org/wiki/Jonathan_Haidt)
+* <span class="icon name">👤</span>&nbsp;[**Jonathan Haidt**](https://en.wikipedia.org/wiki/Jonathan_Haidt)
 * <span class="icon name">👤</span>&nbsp;[**Eric Weinstein**](https://en.wikipedia.org/wiki/Eric_Weinstein)
 * ~~<span class="icon name">👤</span>&nbsp;[**Jordan Peterson**](https://en.wikipedia.org/wiki/Jordan_Peterson) (modulo his irrational praise of religion, and~~
   ~~a few other bits that I dislike)~~ Not sure any more: I found him very original and very inspiring in the beginning, but less interesting nowadays (Jan 2019)

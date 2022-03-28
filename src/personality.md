@@ -2,6 +2,13 @@
 
 1. [I](#1-i)
    1. [What I am](#11-what-i-am)
+      1. [_Big 5_](#111-big-5)
+      1. [_8values_](#112-8values)
+      1. [_The Political Compass_](#113-the-political-compass)
+      1. [_The World's Smallest Political Quiz_](#114-the-worlds-smallest-political-quiz)
+      1. [_Dichotomy Tests_](#115-dichotomy-tests)
+      1. [_Psychology Tools_](#116-psychology-tools)
+      1. [_Pew Research Center_](#117-pew-research-center)
    1. [I'm old-fashioned](#12-im-old-fashioned)
 1. [In general](#2-in-general)
 
@@ -14,10 +21,78 @@ I'm also a [**high-decoupler**](https://unherd.com/2020/02/eugenics-is-possible-
 (To me, the majority of people seem to be rather **passionate**, **conflict theorists** and/or **low-decouplers**, which often causes misunderstanding.
 <span class="icon ref">👉</span>&nbsp;[debating with people](life#4-debates-and-discussing-with-people).)
 
-I think my [Myers–Briggs personality type](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) is
-[ISTJ (Introversion, Sensing, Thinking, Judgment)](https://en.wikipedia.org/wiki/ISTJ).
-
 I have what Thomas Sowell calls [a constrained vision of the world](https://www.city-journal.org/thomas-sowell-race-poverty-culture).
+
+~~I think my [Myers–Briggs personality type](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) is
+[ISTJ (Introversion, Sensing, Thinking, Judgment)](https://en.wikipedia.org/wiki/ISTJ).~~
+[Myers-Briggs is discredited](https://80000hours.org/2013/08/why-the-myers-briggs-test-is-not-useful-in-picking-a-career/)
+(in favour of Big 5).
+
+##### 1.1.1. _Big 5_
+
+[My results](https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.3,3.8,3.4,4,3.9):
+
+* Extroversion (_surgency_, _positive emotionality_): **2.3** (percentile 22)
+* Emotional stability (¬ _neuroticism_, ¬ _negative emotionality_): **3.8** (percentile 84)
+* Agreeableness: **3.4** (percentile 30)
+* Conscientiousness: **4.0** (percentile 80)
+* Intellect/imagination (_openness to experience_): **3.9** (percentile 52)
+
+![Big 5 chart](./big-5.png)
+
+##### 1.1.2. _8values_
+
+[My results](https://8values.github.io/results.html?e=45.5&d=63.3&g=68.4&s=74.3):
+
+* **&ldquo;Liberalism&rdquo;**
+* Economic axis: **centrist**
+* Diplomatic axis: **peaceful**
+* Civil axis: **liberal**
+* Societal axis: **progressive**
+
+![Political Compass chart](./8values.png)
+
+##### 1.1.3. _The Political Compass_
+
+[My results](https://www.politicalcompass.org/yourpoliticalcompass?ec=0.63&soc=-4.77):
+
+* Economic left/right: **+0.63**
+* Social libertarian/authoritarian: **-4.77**
+
+![Political Compass chart](./political-compass.png)
+
+##### 1.1.4. _The World's Smallest Political Quiz_
+
+[My results](https://www.theadvocates.org/results/centrist?x=70&y=60):
+
+* **&ldquo;Moderate&rdquo;**
+* Personal issues score: **70**
+* Economic issues score: **60**
+
+![ chart](./quiz.png)
+
+##### 1.1.5. _Dichotomy Tests_
+
+[Pending]
+
+* [Political Philosophy](http://dichotomytests.com/test.html?id=5)
+* [Philosophy](http://dichotomytests.com/test.html?id=0)
+* [Literature](http://dichotomytests.com/test.html?id=3)
+* [Economics](http://dichotomytests.com/test.html?id=1)
+* [Personality Compass](http://dichotomytests.com/test.html?id=2)
+
+##### 1.1.6. _Psychology Tools_
+
+[Pending]
+
+* [AQ](https://psychology-tools.com/test/autism-spectrum-quotient)
+* [EQ](https://psychology-tools.com/test/empathy-quotient)
+
+##### 1.1.7. _Pew Research Center_
+
+[Pending]
+
+https://www.pewresearch.org/politics/quiz/political-typology/
 
 #### 1.2. I'm old-fashioned
 

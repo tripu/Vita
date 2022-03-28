@@ -29,7 +29,7 @@ Prerequisites for good writing, [according to Steven Pinker](https://www.youtube
 
 ### 2. Painting
 
-Painters I like:
+Painters and illustrators I like:
 
 * Realists:
    - [Ivan Kramskoi](https://en.wikipedia.org/wiki/Ivan_Kramskoi) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=ivan+kramskoi))
@@ -41,8 +41,15 @@ Painters I like:
    - [Richard Estes](https://en.wikipedia.org/wiki/Richard_Estes) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=richard+estes))
    - [Tom Blackwell](https://en.wikipedia.org/wiki/Tom_Blackwell) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=tom+blackwell))
    - Diego Catal&aacute;n ([gallery](https://diegocatalan.com/portafolio/))
+   - [William-Adolphe Bouguereau](https://en.wikipedia.org/wiki/William-Adolphe_Bouguereau) ([gallery](https://duckduckgo.com/?q=William-Adolphe+Bouguereau&iax=images&ia=images&iaf=size%3AWallpaper))
+   - [Roberto Ferri](https://en.wikipedia.org/wiki/Roberto_Ferri) ([gallery](http://www.robertoferri.net/gallery_2015.php))
+   - [Vicente Romero](https://vicenteromero.wordpress.com/about-me/) ([gallery](https://vicenteromero.wordpress.com/gallery-2007-2009/))
+   - [Augusto Ferrer-Dalmau](https://en.wikipedia.org/wiki/Augusto_Ferrer-Dalmau) ([gallery](https://en.wikipedia.org/wiki/Augusto_Ferrer-Dalmau#Gallery))
 * Surrealists:
    - [Salvador Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=salvador+dal%C3%AD))
    - [Tetsuya Ishida](https://en.wikipedia.org/wiki/Tetsuya_Ishida) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=tetsuya+ishida))
 * Science-related:
    - [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=m.+c.+escher))
+   - [Rafael Araujo](https://www.rafael-araujo.com/) ([gallery](https://www.rafael-araujo.com/shop))
+* Illustrators:
+   - [Yehuda Devir](https://www.yehudadevir.com/) ([gallery](https://www.yehudadevir.com/portfolio))
