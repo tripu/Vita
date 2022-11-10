@@ -220,3 +220,4 @@ Now I would add, as new &ldquo;goals accomplished&rdquo;:
 * [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
 * [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better)
 * https://twitter.com/waitbutwhy/status/1406980353986809861
+* [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)

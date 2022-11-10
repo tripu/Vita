@@ -45,6 +45,8 @@ Painters and illustrators I like:
    - [Roberto Ferri](https://en.wikipedia.org/wiki/Roberto_Ferri) ([gallery](http://www.robertoferri.net/gallery_2015.php))
    - [Vicente Romero](https://vicenteromero.wordpress.com/about-me/) ([gallery](https://vicenteromero.wordpress.com/gallery-2007-2009/))
    - [Augusto Ferrer-Dalmau](https://en.wikipedia.org/wiki/Augusto_Ferrer-Dalmau) ([gallery](https://en.wikipedia.org/wiki/Augusto_Ferrer-Dalmau#Gallery))
+   - Carol Marine ([gallery](https://www.carolmarine.com/))
+   - [Alexei Butirskiy](https://alexeibutirskiyart.com/) ([gallery](https://alexeibutirskiyart.com/works))
 * Surrealists:
    - [Salvador Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=salvador+dal%C3%AD))
    - [Tetsuya Ishida](https://en.wikipedia.org/wiki/Tetsuya_Ishida) ([gallery](https://duckduckgo.com/?iar=images&iax=images&ia=images&iaf=size%3AWallpaper&q=tetsuya+ishida))
@@ -53,3 +55,5 @@ Painters and illustrators I like:
    - [Rafael Araujo](https://www.rafael-araujo.com/) ([gallery](https://www.rafael-araujo.com/shop))
 * Illustrators:
    - [Yehuda Devir](https://www.yehudadevir.com/) ([gallery](https://www.yehudadevir.com/portfolio))
+* Other:
+  - [Ben Sakoguchi](https://en.wikipedia.org/wiki/Ben_Sakoguchi) ([gallery](https://www.sakoguchi.info/))
