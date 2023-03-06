@@ -57,3 +57,4 @@ Painters and illustrators I like:
    - [Yehuda Devir](https://www.yehudadevir.com/) ([gallery](https://www.yehudadevir.com/portfolio))
 * Other:
   - [Ben Sakoguchi](https://en.wikipedia.org/wiki/Ben_Sakoguchi) ([gallery](https://www.sakoguchi.info/))
+  - [Josep Renau](https://en.wikipedia.org/wiki/Josep_Renau) ([gallery](https://www.foroporlamemoria.info/memoria_dela_cultura/josep_renau.htm))
